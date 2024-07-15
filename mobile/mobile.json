@@ -1,0 +1,7002 @@
+[
+  {
+    "id": 1,
+    "MobileDeviceBrand": "Micromax",
+    "MobileDeviceModel": "Micromax A63 Canvas Fun",
+    "MobileDeviceOs": "Android 4.2.2",
+    "MobileDeviceRelease": 2013
+  },
+  {
+    "id": 2,
+    "MobileDeviceBrand": "Allview",
+    "MobileDeviceModel": "Allview X2 Soul Lite",
+    "MobileDeviceOs": "Android 5.0",
+    "MobileDeviceRelease": 2015
+  },
+  {
+    "id": 3,
+    "MobileDeviceBrand": "LG",
+    "MobileDeviceModel": "LG G7200",
+    "MobileDeviceOs": "Feature phone",
+    "MobileDeviceRelease": 2004
+  },
+  {
+    "id": 4,
+    "MobileDeviceBrand": "Asus",
+    "MobileDeviceModel": "Asus Z810",
+    "MobileDeviceOs": "Feature phone",
+    "MobileDeviceRelease": 2006
+  },
+  {
+    "id": 5,
+    "MobileDeviceBrand": "alcatel",
+    "MobileDeviceModel": "alcatel Fire E",
+    "MobileDeviceOs": "Firefox OS 1.3",
+    "MobileDeviceRelease": 2014
+  },
+  {
+    "id": 6,
+    "MobileDeviceBrand": "Vodafone",
+    "MobileDeviceModel": "Vodafone 150",
+    "MobileDeviceOs": "Feature phone",
+    "MobileDeviceRelease": 2010
+  },
+  {
+    "id": 7,
+    "MobileDeviceBrand": "Sagem",
+    "MobileDeviceModel": "Sagem my215x",
+    "MobileDeviceOs": "Feature phone",
+    "MobileDeviceRelease": 2007
+  },
+  {
+    "id": 8,
+    "MobileDeviceBrand": "Archos",
+    "MobileDeviceModel": "Archos 40b Titanium",
+    "MobileDeviceOs": "Android 4.2.2",
+    "MobileDeviceRelease": 2014
+  },
+  {
+    "id": 9,
+    "MobileDeviceBrand": "NEC",
+    "MobileDeviceModel": "NEC N410i",
+    "MobileDeviceOs": "Feature phone",
+    "MobileDeviceRelease": 2004
+  },
+  {
+    "id": 10,
+    "MobileDeviceBrand": "Ericsson",
+    "MobileDeviceModel": "Ericsson GH 218",
+    "MobileDeviceOs": "Feature phone",
+    "MobileDeviceRelease": 1994
+  },
+  {
+    "id": 11,
+    "MobileDeviceBrand": "HTC",
+    "MobileDeviceModel": "HTC Touch 3G",
+    "MobileDeviceOs": "Microsoft Windows Mobile 6.1 Professional",
+    "MobileDeviceRelease": 2008
+  },
+  {
+    "id": 12,
+    "MobileDeviceBrand": "Samsung",
+    "MobileDeviceModel": "Samsung Galaxy Xcover 3 G389F",
+    "MobileDeviceOs": "Android 6.0",
+    "MobileDeviceRelease": 2016
+  },
+  {
+    "id": 13,
+    "MobileDeviceBrand": "Asus",
+    "MobileDeviceModel": "Asus ROG Phone II ZS660KL",
+    "MobileDeviceOs": "Android 9.0, ROG UI",
+    "MobileDeviceRelease": 2019
+  },
+  {
+    "id": 14,
+    "MobileDeviceBrand": "BlackBerry",
+    "MobileDeviceModel": "BlackBerry 9720",
+    "MobileDeviceOs": "BlackBerry OS 7.1",
+    "MobileDeviceRelease": 2013
+  },
+  {
+    "id": 15,
+    "MobileDeviceBrand": "Lenovo",
+    "MobileDeviceModel": "Lenovo IdeaTab S6000",
+    "MobileDeviceOs": "Android 4.2.2",
+    "MobileDeviceRelease": 2013
+  },
+  {
+    "id": 16,
+    "MobileDeviceBrand": "HTC",
+    "MobileDeviceModel": "HTC Touch Diamond CDMA",
+    "MobileDeviceOs": "Microsoft Windows Mobile 6.1 Professional",
+    "MobileDeviceRelease": 2008
+  },
+  {
+    "id": 17,
+    "MobileDeviceBrand": "QMobile",
+    "MobileDeviceModel": "QMobile Noir S4",
+    "MobileDeviceOs": "Android 6.0",
+    "MobileDeviceRelease": 2016
+  },
+  {
+    "id": 18,
+    "MobileDeviceBrand": "Huawei",
+    "MobileDeviceModel": "Huawei MediaPad M3 8.4",
+    "MobileDeviceOs": "Android 6.0, EMUI 4.1",
+    "MobileDeviceRelease": 2016
+  },
+  {
+    "id": 19,
+    "MobileDeviceBrand": "Tecno",
+    "MobileDeviceModel": "Tecno Camon 16 Pro",
+    "MobileDeviceOs": "Android 10, HIOS 7.0",
+    "MobileDeviceRelease": 2020
+  },
+  {
+    "id": 20,
+    "MobileDeviceBrand": "Samsung",
+    "MobileDeviceModel": "Samsung Z500",
+    "MobileDeviceOs": "Feature phone",
+    "MobileDeviceRelease": 2005
+  },
+  {
+    "id": 21,
+    "MobileDeviceBrand": "verykool",
+    "MobileDeviceModel": "verykool s6005X Cyprus Pro",
+    "MobileDeviceOs": "Android 7.0",
+    "MobileDeviceRelease": 2017
+  },
+  {
+    "id": 22,
+    "MobileDeviceBrand": "Xiaomi",
+    "MobileDeviceModel": "Xiaomi Mi Note",
+    "MobileDeviceOs": "Android 4.4.4, up to 6.0",
+    "MobileDeviceRelease": 2015
+  },
+  {
+    "id": 23,
+    "MobileDeviceBrand": "vivo",
+    "MobileDeviceModel": "vivo Y20A",
+    "MobileDeviceOs": "Android 10, Funtouch 11",
+    "MobileDeviceRelease": 2021
+  },
+  {
+    "id": 24,
+    "MobileDeviceBrand": "Samsung",
+    "MobileDeviceModel": "Samsung Galaxy Tab S5e",
+    "MobileDeviceOs": "Android 9.0, up to Android 11, One UI 3.1",
+    "MobileDeviceRelease": 2019
+  },
+  {
+    "id": 25,
+    "MobileDeviceBrand": "Xiaomi",
+    "MobileDeviceModel": "Xiaomi Redmi 4 (4X)",
+    "MobileDeviceOs": "Android 6.0.1, up to 7.1.2, MIUI 11",
+    "MobileDeviceRelease": 2017
+  },
+  {
+    "id": 26,
+    "MobileDeviceBrand": "Huawei",
+    "MobileDeviceModel": "Huawei Ascend G740",
+    "MobileDeviceOs": "Android 4.1.2",
+    "MobileDeviceRelease": 2013
+  },
+  {
+    "id": 27,
+    "MobileDeviceBrand": "NEC",
+    "MobileDeviceModel": "NEC G9D+",
+    "MobileDeviceOs": "Feature phone",
+    "MobileDeviceRelease": 1997
+  },
+  {
+    "id": 28,
+    "MobileDeviceBrand": "Plum",
+    "MobileDeviceModel": "Plum Glow",
+    "MobileDeviceOs": "Android 2.3.5",
+    "MobileDeviceRelease": 2013
+  },
+  {
+    "id": 29,
+    "MobileDeviceBrand": "Samsung",
+    "MobileDeviceModel": "Samsung Galaxy S21",
+    "MobileDeviceOs": "Android 11, One UI 3.1",
+    "MobileDeviceRelease": 0
+  },
+  {
+    "id": 30,
+    "MobileDeviceBrand": "Vodafone",
+    "MobileDeviceModel": "Vodafone 246",
+    "MobileDeviceOs": "Feature phone",
+    "MobileDeviceRelease": 2010
+  },
+  {
+    "id": 31,
+    "MobileDeviceBrand": "BLU",
+    "MobileDeviceModel": "BLU G9 Pro",
+    "MobileDeviceOs": "Android 9.0, planned upgrade to Android 10",
+    "MobileDeviceRelease": 2019
+  },
+  {
+    "id": 32,
+    "MobileDeviceBrand": "Sagem",
+    "MobileDeviceModel": "Sagem MY C2-2",
+    "MobileDeviceOs": "Feature phone",
+    "MobileDeviceRelease": 2004
+  },
+  {
+    "id": 33,
+    "MobileDeviceBrand": "Sagem",
+    "MobileDeviceModel": "Sagem MC 912",
+    "MobileDeviceOs": "Feature phone",
+    "MobileDeviceRelease": 1999
+  },
+  {
+    "id": 34,
+    "MobileDeviceBrand": "Sony",
+    "MobileDeviceModel": "Sony Xperia XZ1",
+    "MobileDeviceOs": "Android 8.0, up to Android 9.0",
+    "MobileDeviceRelease": 2017
+  },
+  {
+    "id": 35,
+    "MobileDeviceBrand": "ZTE",
+    "MobileDeviceModel": "ZTE Kis V788",
+    "MobileDeviceOs": "Android 2.3",
+    "MobileDeviceRelease": 2012
+  },
+  {
+    "id": 36,
+    "MobileDeviceBrand": "Kyocera",
+    "MobileDeviceModel": "Kyocera DuraMax",
+    "MobileDeviceOs": "Feature phone",
+    "MobileDeviceRelease": 2011
+  },
+  {
+    "id": 37,
+    "MobileDeviceBrand": "verykool",
+    "MobileDeviceModel": "verykool i310",
+    "MobileDeviceOs": "Feature phone",
+    "MobileDeviceRelease": 2011
+  },
+  {
+    "id": 38,
+    "MobileDeviceBrand": "Spice",
+    "MobileDeviceModel": "Spice Mi-310",
+    "MobileDeviceOs": "Android 2.2",
+    "MobileDeviceRelease": 2011
+  },
+  {
+    "id": 39,
+    "MobileDeviceBrand": "Ericsson",
+    "MobileDeviceModel": "Ericsson R600",
+    "MobileDeviceOs": "Feature phone",
+    "MobileDeviceRelease": 2001
+  },
+  {
+    "id": 40,
+    "MobileDeviceBrand": "Allview",
+    "MobileDeviceModel": "Allview P10 Mini",
+    "MobileDeviceOs": "Android 8.1 Oreo",
+    "MobileDeviceRelease": 2019
+  },
+  {
+    "id": 41,
+    "MobileDeviceBrand": "BLU",
+    "MobileDeviceModel": "BLU Studio Mini",
+    "MobileDeviceOs": "Android 9.0",
+    "MobileDeviceRelease": 2019
+  },
+  {
+    "id": 42,
+    "MobileDeviceBrand": "alcatel",
+    "MobileDeviceModel": "alcatel OT-806",
+    "MobileDeviceOs": "Feature phone",
+    "MobileDeviceRelease": 2010
+  },
+  {
+    "id": 43,
+    "MobileDeviceBrand": "Samsung",
+    "MobileDeviceModel": "Samsung I100 Gem",
+    "MobileDeviceOs": "Android 2.1",
+    "MobileDeviceRelease": 2011
+  },
+  {
+    "id": 44,
+    "MobileDeviceBrand": "XOLO",
+    "MobileDeviceModel": "XOLO Q2100",
+    "MobileDeviceOs": "Android 4.4",
+    "MobileDeviceRelease": 2014
+  },
+  {
+    "id": 45,
+    "MobileDeviceBrand": "O2",
+    "MobileDeviceModel": "O2 Cocoon",
+    "MobileDeviceOs": "Feature phone",
+    "MobileDeviceRelease": 2007
+  },
+  {
+    "id": 46,
+    "MobileDeviceBrand": "Samsung",
+    "MobileDeviceModel": "Samsung T500",
+    "MobileDeviceOs": "Feature phone",
+    "MobileDeviceRelease": 2003
+  },
+  {
+    "id": 47,
+    "MobileDeviceBrand": "LG",
+    "MobileDeviceModel": "LG K51S",
+    "MobileDeviceOs": "Android 9.0",
+    "MobileDeviceRelease": 2020
+  },
+  {
+    "id": 48,
+    "MobileDeviceBrand": "Celkon",
+    "MobileDeviceModel": "Celkon Win 400",
+    "MobileDeviceOs": "Microsoft Windows Phone 8.1",
+    "MobileDeviceRelease": 2014
+  },
+  {
+    "id": 49,
+    "MobileDeviceBrand": "Samsung",
+    "MobileDeviceModel": "Samsung Galaxy J3 Pro",
+    "MobileDeviceOs": "Android 5.1",
+    "MobileDeviceRelease": 2016
+  },
+  {
+    "id": 50,
+    "MobileDeviceBrand": "Asus",
+    "MobileDeviceModel": "Asus Zenfone 4 Max ZC554KL",
+    "MobileDeviceOs": "Android 7, ZenUI 4",
+    "MobileDeviceRelease": 2017
+  },
+  {
+    "id": 51,
+    "MobileDeviceBrand": "BLU",
+    "MobileDeviceModel": "BLU Studio G2 HD",
+    "MobileDeviceOs": "Android 6.0",
+    "MobileDeviceRelease": 2016
+  },
+  {
+    "id": 52,
+    "MobileDeviceBrand": "HP",
+    "MobileDeviceModel": "HP Slate8 Pro",
+    "MobileDeviceOs": "Android 4.2.2",
+    "MobileDeviceRelease": 2013
+  },
+  {
+    "id": 53,
+    "MobileDeviceBrand": "Sony",
+    "MobileDeviceModel": "Sony Ericsson Xperia neo V",
+    "MobileDeviceOs": "Android 2.3.4, up to 4.0",
+    "MobileDeviceRelease": 2011
+  },
+  {
+    "id": 54,
+    "MobileDeviceBrand": "Sagem",
+    "MobileDeviceModel": "Sagem my501X",
+    "MobileDeviceOs": "Feature phone",
+    "MobileDeviceRelease": 2006
+  },
+  {
+    "id": 55,
+    "MobileDeviceBrand": "Honor",
+    "MobileDeviceModel": "Honor 20 lite (China)",
+    "MobileDeviceOs": "Android 9.0, EMUI 9.1",
+    "MobileDeviceRelease": 2019
+  },
+  {
+    "id": 56,
+    "MobileDeviceBrand": "Samsung",
+    "MobileDeviceModel": "Samsung Galaxy M21",
+    "MobileDeviceOs": "Android 10, up to Android 11, One UI 3.1 Core",
+    "MobileDeviceRelease": 2020
+  },
+  {
+    "id": 57,
+    "MobileDeviceBrand": "ZTE",
+    "MobileDeviceModel": "ZTE Blade Qlux 4G",
+    "MobileDeviceOs": "Android 4.4.4, up to 5.0",
+    "MobileDeviceRelease": 2015
+  },
+  {
+    "id": 58,
+    "MobileDeviceBrand": "Acer",
+    "MobileDeviceModel": "Acer Iconia Tab 10 A3-A40",
+    "MobileDeviceOs": "Android 6.0",
+    "MobileDeviceRelease": 2016
+  },
+  {
+    "id": 59,
+    "MobileDeviceBrand": "LG",
+    "MobileDeviceModel": "LG DoublePlay",
+    "MobileDeviceOs": "Android 2.3",
+    "MobileDeviceRelease": 2011
+  },
+  {
+    "id": 60,
+    "MobileDeviceBrand": "Samsung",
+    "MobileDeviceModel": "Samsung S500i",
+    "MobileDeviceOs": "Feature phone",
+    "MobileDeviceRelease": 2005
+  },
+  {
+    "id": 61,
+    "MobileDeviceBrand": "Motorola",
+    "MobileDeviceModel": "Motorola DROID Mini",
+    "MobileDeviceOs": "Android 4.2",
+    "MobileDeviceRelease": 2013
+  },
+  {
+    "id": 62,
+    "MobileDeviceBrand": "Honor",
+    "MobileDeviceModel": "Honor Play 8A",
+    "MobileDeviceOs": "Android 9.0, EMUI 9",
+    "MobileDeviceRelease": 2019
+  },
+  {
+    "id": 63,
+    "MobileDeviceBrand": "Ericsson",
+    "MobileDeviceModel": "Ericsson T20e",
+    "MobileDeviceOs": "Feature phone",
+    "MobileDeviceRelease": 2001
+  },
+  {
+    "id": 64,
+    "MobileDeviceBrand": "LG",
+    "MobileDeviceModel": "LG G Vista",
+    "MobileDeviceOs": "Android 4.4.2",
+    "MobileDeviceRelease": 2014
+  },
+  {
+    "id": 65,
+    "MobileDeviceBrand": "Honor",
+    "MobileDeviceModel": "Honor 9X Lite",
+    "MobileDeviceOs": "Android 9.0, EMUI 9.1, Google Play Services",
+    "MobileDeviceRelease": 2020
+  },
+  {
+    "id": 66,
+    "MobileDeviceBrand": "Lenovo",
+    "MobileDeviceModel": "Lenovo K6 Enjoy",
+    "MobileDeviceOs": "Android 9.0",
+    "MobileDeviceRelease": 2019
+  },
+  {
+    "id": 67,
+    "MobileDeviceBrand": "i-mobile",
+    "MobileDeviceModel": "i-mobile 627",
+    "MobileDeviceOs": "Feature phone",
+    "MobileDeviceRelease": 2008
+  },
+  {
+    "id": 68,
+    "MobileDeviceBrand": "Maxwest",
+    "MobileDeviceModel": "Maxwest Astro 5s",
+    "MobileDeviceOs": "Android 5.1",
+    "MobileDeviceRelease": 2016
+  },
+  {
+    "id": 69,
+    "MobileDeviceBrand": "Samsung",
+    "MobileDeviceModel": "Samsung SCH-B100",
+    "MobileDeviceOs": "Feature phone",
+    "MobileDeviceRelease": 2005
+  },
+  {
+    "id": 70,
+    "MobileDeviceBrand": "Motorola",
+    "MobileDeviceModel": "Motorola Tundra VA76r",
+    "MobileDeviceOs": "Linux / Java-based MOTOMAGX",
+    "MobileDeviceRelease": 2009
+  },
+  {
+    "id": 71,
+    "MobileDeviceBrand": "Samsung",
+    "MobileDeviceModel": "Samsung C3630",
+    "MobileDeviceOs": "Feature phone",
+    "MobileDeviceRelease": 2010
+  },
+  {
+    "id": 72,
+    "MobileDeviceBrand": "VK",
+    "MobileDeviceModel": "VK Mobile VK520",
+    "MobileDeviceOs": "Feature phone",
+    "MobileDeviceRelease": 2004
+  },
+  {
+    "id": 73,
+    "MobileDeviceBrand": "T-Mobile",
+    "MobileDeviceModel": "T-Mobile Vivacity",
+    "MobileDeviceOs": "Android 2.3",
+    "MobileDeviceRelease": 2011
+  },
+  {
+    "id": 74,
+    "MobileDeviceBrand": "Huawei",
+    "MobileDeviceModel": "Huawei U8100",
+    "MobileDeviceOs": "Android 2.1",
+    "MobileDeviceRelease": 2010
+  },
+  {
+    "id": 75,
+    "MobileDeviceBrand": "Asus",
+    "MobileDeviceModel": "Asus Zenfone 3 Max ZC520TL",
+    "MobileDeviceOs": "Android 6.0.1, up to 7.0, ZenUI 3",
+    "MobileDeviceRelease": 2016
+  },
+  {
+    "id": 76,
+    "MobileDeviceBrand": "Micromax",
+    "MobileDeviceModel": "Micromax Dual 4 E4816",
+    "MobileDeviceOs": "Android 7.0",
+    "MobileDeviceRelease": 2017
+  },
+  {
+    "id": 77,
+    "MobileDeviceBrand": "Nokia",
+    "MobileDeviceModel": "Nokia 6100",
+    "MobileDeviceOs": "Feature phone",
+    "MobileDeviceRelease": 2002
+  },
+  {
+    "id": 78,
+    "MobileDeviceBrand": "Micromax",
+    "MobileDeviceModel": "Micromax Bharat 2 Q402",
+    "MobileDeviceOs": "Android 6.0",
+    "MobileDeviceRelease": 2017
+  },
+  {
+    "id": 79,
+    "MobileDeviceBrand": "Oppo",
+    "MobileDeviceModel": "Oppo F3 Plus",
+    "MobileDeviceOs": "Android 6, ColorOS 3",
+    "MobileDeviceRelease": 2017
+  },
+  {
+    "id": 80,
+    "MobileDeviceBrand": "Lenovo",
+    "MobileDeviceModel": "Lenovo Tab P11",
+    "MobileDeviceOs": "Android 10",
+    "MobileDeviceRelease": 2021
+  },
+  {
+    "id": 81,
+    "MobileDeviceBrand": "ZTE",
+    "MobileDeviceModel": "ZTE Imperial",
+    "MobileDeviceOs": "Android 4.1",
+    "MobileDeviceRelease": 2013
+  },
+  {
+    "id": 82,
+    "MobileDeviceBrand": "Xiaomi",
+    "MobileDeviceModel": "Xiaomi Redmi 3s",
+    "MobileDeviceOs": "Android 6.0.1, MIUI 9.2",
+    "MobileDeviceRelease": 2016
+  },
+  {
+    "id": 83,
+    "MobileDeviceBrand": "LG",
+    "MobileDeviceModel": "LG Optimus Vu P895",
+    "MobileDeviceOs": "Android 4.0.4",
+    "MobileDeviceRelease": 2012
+  },
+  {
+    "id": 84,
+    "MobileDeviceBrand": "XOLO",
+    "MobileDeviceModel": "XOLO A1010",
+    "MobileDeviceOs": "Android 4.4.2",
+    "MobileDeviceRelease": 2015
+  },
+  {
+    "id": 85,
+    "MobileDeviceBrand": "Huawei",
+    "MobileDeviceModel": "Huawei nova plus",
+    "MobileDeviceOs": "Android 6.0.1, EMUI 4.1",
+    "MobileDeviceRelease": 2016
+  },
+  {
+    "id": 86,
+    "MobileDeviceBrand": "Lava",
+    "MobileDeviceModel": "Lava A51",
+    "MobileDeviceOs": "Android 6.0",
+    "MobileDeviceRelease": 2016
+  },
+  {
+    "id": 87,
+    "MobileDeviceBrand": "Nvidia",
+    "MobileDeviceModel": "Nvidia Shield K1",
+    "MobileDeviceOs": "Android 5.0, up to 7.0",
+    "MobileDeviceRelease": 2015
+  },
+  {
+    "id": 88,
+    "MobileDeviceBrand": "Orange",
+    "MobileDeviceModel": "Orange Rio",
+    "MobileDeviceOs": "Feature phone",
+    "MobileDeviceRelease": 2011
+  },
+  {
+    "id": 89,
+    "MobileDeviceBrand": "Oppo",
+    "MobileDeviceModel": "Oppo Reno4 Lite",
+    "MobileDeviceOs": "Android 10, ColorOS 7.2",
+    "MobileDeviceRelease": 2020
+  },
+  {
+    "id": 90,
+    "MobileDeviceBrand": "Samsung",
+    "MobileDeviceModel": "Samsung Ch@t 333",
+    "MobileDeviceOs": "Feature phone",
+    "MobileDeviceRelease": 2013
+  },
+  {
+    "id": 91,
+    "MobileDeviceBrand": "Telit",
+    "MobileDeviceModel": "Telit t130",
+    "MobileDeviceOs": "Feature phone",
+    "MobileDeviceRelease": 2006
+  },
+  {
+    "id": 92,
+    "MobileDeviceBrand": "Samsung",
+    "MobileDeviceModel": "Samsung Galaxy Tab A 10.5",
+    "MobileDeviceOs": "Android 8.1, up to Android 10",
+    "MobileDeviceRelease": 2018
+  },
+  {
+    "id": 93,
+    "MobileDeviceBrand": "Nokia",
+    "MobileDeviceModel": "Nokia 6260",
+    "MobileDeviceOs": "Symbian 7.0s, Series 60 v2.0 UI",
+    "MobileDeviceRelease": 2004
+  },
+  {
+    "id": 94,
+    "MobileDeviceBrand": "HTC",
+    "MobileDeviceModel": "HTC Wildfire E1 plus",
+    "MobileDeviceOs": "Android 9.0",
+    "MobileDeviceRelease": 2019
+  },
+  {
+    "id": 95,
+    "MobileDeviceBrand": "NIU",
+    "MobileDeviceModel": "NIU C21A",
+    "MobileDeviceOs": "Feature phone",
+    "MobileDeviceRelease": 2013
+  },
+  {
+    "id": 96,
+    "MobileDeviceBrand": "Huawei",
+    "MobileDeviceModel": "Huawei Y3 (2018)",
+    "MobileDeviceOs": "Android 8.0 Oreo",
+    "MobileDeviceRelease": 2018
+  },
+  {
+    "id": 97,
+    "MobileDeviceBrand": "LG",
+    "MobileDeviceModel": "LG KT770",
+    "MobileDeviceOs": "Symbian OS 9.3 Series60 rel. 3.2.3",
+    "MobileDeviceRelease": 2009
+  },
+  {
+    "id": 98,
+    "MobileDeviceBrand": "Samsung",
+    "MobileDeviceModel": "Samsung Galaxy Grand Prime Plus",
+    "MobileDeviceOs": "Android 6.0",
+    "MobileDeviceRelease": 2016
+  },
+  {
+    "id": 99,
+    "MobileDeviceBrand": "HTC",
+    "MobileDeviceModel": "HTC Exodus 1",
+    "MobileDeviceOs": "Android 8.1",
+    "MobileDeviceRelease": 2018
+  },
+  {
+    "id": 100,
+    "MobileDeviceBrand": "Celkon",
+    "MobileDeviceModel": "Celkon C357",
+    "MobileDeviceOs": "Feature phone",
+    "MobileDeviceRelease": 2010
+  },
+  {
+    "id": 101,
+    "MobileDeviceBrand": "i-mobile",
+    "MobileDeviceModel": "i-mobile TV 523",
+    "MobileDeviceOs": "Feature phone",
+    "MobileDeviceRelease": 2008
+  },
+  {
+    "id": 102,
+    "MobileDeviceBrand": "Allview",
+    "MobileDeviceModel": "Allview P5 AllDro",
+    "MobileDeviceOs": "Android 4.0.4",
+    "MobileDeviceRelease": 2012
+  },
+  {
+    "id": 103,
+    "MobileDeviceBrand": "LG",
+    "MobileDeviceModel": "LG K51S",
+    "MobileDeviceOs": "Android 9.0",
+    "MobileDeviceRelease": 2020
+  },
+  {
+    "id": 104,
+    "MobileDeviceBrand": "Apple",
+    "MobileDeviceModel": "Apple iPhone 7",
+    "MobileDeviceOs": "iOS 10.0.1, up to iOS 14.7",
+    "MobileDeviceRelease": 2016
+  },
+  {
+    "id": 105,
+    "MobileDeviceBrand": "Allview",
+    "MobileDeviceModel": "Allview C6 Quad 4G",
+    "MobileDeviceOs": "Android 4.4.2",
+    "MobileDeviceRelease": 2014
+  },
+  {
+    "id": 106,
+    "MobileDeviceBrand": "Micromax",
+    "MobileDeviceModel": "Micromax X111",
+    "MobileDeviceOs": "Feature phone",
+    "MobileDeviceRelease": 2010
+  },
+  {
+    "id": 107,
+    "MobileDeviceBrand": "BlackBerry",
+    "MobileDeviceModel": "BlackBerry Playbook",
+    "MobileDeviceOs": "BlackBerry Tablet OS",
+    "MobileDeviceRelease": 2011
+  },
+  {
+    "id": 108,
+    "MobileDeviceBrand": "LG",
+    "MobileDeviceModel": "LG G5300",
+    "MobileDeviceOs": "Feature phone",
+    "MobileDeviceRelease": 2003
+  },
+  {
+    "id": 109,
+    "MobileDeviceBrand": "verykool",
+    "MobileDeviceModel": "verykool s4510 Luna",
+    "MobileDeviceOs": "Android 4.4.2",
+    "MobileDeviceRelease": 2014
+  },
+  {
+    "id": 110,
+    "MobileDeviceBrand": "Samsung",
+    "MobileDeviceModel": "Samsung Galaxy Win I8550",
+    "MobileDeviceOs": "Android 4.1.2",
+    "MobileDeviceRelease": 2013
+  },
+  {
+    "id": 111,
+    "MobileDeviceBrand": "Yezz",
+    "MobileDeviceModel": "Yezz Classic C20",
+    "MobileDeviceOs": "Feature phone",
+    "MobileDeviceRelease": 2012
+  },
+  {
+    "id": 112,
+    "MobileDeviceBrand": "Meizu",
+    "MobileDeviceModel": "Meizu Zero",
+    "MobileDeviceOs": "Android 9.0",
+    "MobileDeviceRelease": 0
+  },
+  {
+    "id": 113,
+    "MobileDeviceBrand": "Samsung",
+    "MobileDeviceModel": "Samsung E1080T",
+    "MobileDeviceOs": "Feature phone",
+    "MobileDeviceRelease": 2009
+  },
+  {
+    "id": 114,
+    "MobileDeviceBrand": "Asus",
+    "MobileDeviceModel": "Asus Zenfone 2 Laser ZE500KG",
+    "MobileDeviceOs": "Android 5.0, up to 6.0, ZenUI",
+    "MobileDeviceRelease": 2015
+  },
+  {
+    "id": 115,
+    "MobileDeviceBrand": "Huawei",
+    "MobileDeviceModel": "Huawei Enjoy 6",
+    "MobileDeviceOs": "Android 6.0, EMUI 4.1",
+    "MobileDeviceRelease": 2016
+  },
+  {
+    "id": 116,
+    "MobileDeviceBrand": "BLU",
+    "MobileDeviceModel": "BLU Dash C Music",
+    "MobileDeviceOs": "Android 4.4.2",
+    "MobileDeviceRelease": 2014
+  },
+  {
+    "id": 117,
+    "MobileDeviceBrand": "Samsung",
+    "MobileDeviceModel": "Samsung Galaxy J5 Prime",
+    "MobileDeviceOs": "Android 6.0.1, up to Android 8.0",
+    "MobileDeviceRelease": 2016
+  },
+  {
+    "id": 118,
+    "MobileDeviceBrand": "Samsung",
+    "MobileDeviceModel": "Samsung R580 Profile",
+    "MobileDeviceOs": "Feature phone",
+    "MobileDeviceRelease": 2010
+  },
+  {
+    "id": 119,
+    "MobileDeviceBrand": "Spice",
+    "MobileDeviceModel": "Spice S-6005",
+    "MobileDeviceOs": "Feature phone",
+    "MobileDeviceRelease": 2010
+  },
+  {
+    "id": 120,
+    "MobileDeviceBrand": "Lava",
+    "MobileDeviceModel": "Lava 3G 354",
+    "MobileDeviceOs": "Android 4.2",
+    "MobileDeviceRelease": 2014
+  },
+  {
+    "id": 121,
+    "MobileDeviceBrand": "Celkon",
+    "MobileDeviceModel": "Celkon C2",
+    "MobileDeviceOs": "Feature phone",
+    "MobileDeviceRelease": 2011
+  },
+  {
+    "id": 122,
+    "MobileDeviceBrand": "Huawei",
+    "MobileDeviceModel": "Huawei Watch GT 2 Pro",
+    "MobileDeviceOs": "Huawei Lite OS",
+    "MobileDeviceRelease": 2020
+  },
+  {
+    "id": 123,
+    "MobileDeviceBrand": "vivo",
+    "MobileDeviceModel": "vivo Y17",
+    "MobileDeviceOs": "Android 9.0, Funtouch 9",
+    "MobileDeviceRelease": 2019
+  },
+  {
+    "id": 124,
+    "MobileDeviceBrand": "Sony",
+    "MobileDeviceModel": "Sony Ericsson W395",
+    "MobileDeviceOs": "Feature phone",
+    "MobileDeviceRelease": 2009
+  },
+  {
+    "id": 125,
+    "MobileDeviceBrand": "Oppo",
+    "MobileDeviceModel": "Oppo Reno4 Pro",
+    "MobileDeviceOs": "Android 10, ColorOS 7.2",
+    "MobileDeviceRelease": 2020
+  },
+  {
+    "id": 126,
+    "MobileDeviceBrand": "Yezz",
+    "MobileDeviceModel": "Yezz Classic Z51",
+    "MobileDeviceOs": "Feature phone",
+    "MobileDeviceRelease": 2015
+  },
+  {
+    "id": 127,
+    "MobileDeviceBrand": "LG",
+    "MobileDeviceModel": "LG Optimus L7 II Dual P715",
+    "MobileDeviceOs": "Android 4.1.2",
+    "MobileDeviceRelease": 2013
+  },
+  {
+    "id": 128,
+    "MobileDeviceBrand": "Sony",
+    "MobileDeviceModel": "Sony Ericsson Z610",
+    "MobileDeviceOs": "Feature phone",
+    "MobileDeviceRelease": 2006
+  },
+  {
+    "id": 129,
+    "MobileDeviceBrand": "Ericsson",
+    "MobileDeviceModel": "Ericsson A1018s",
+    "MobileDeviceOs": "Feature phone",
+    "MobileDeviceRelease": 1999
+  },
+  {
+    "id": 130,
+    "MobileDeviceBrand": "Huawei",
+    "MobileDeviceModel": "Huawei U8800 Pro",
+    "MobileDeviceOs": "Android 2.3",
+    "MobileDeviceRelease": 2011
+  },
+  {
+    "id": 131,
+    "MobileDeviceBrand": "LG",
+    "MobileDeviceModel": "LG Optimus LTE LU6200",
+    "MobileDeviceOs": "Android 2.3.5, up to 4.0",
+    "MobileDeviceRelease": 2012
+  },
+  {
+    "id": 132,
+    "MobileDeviceBrand": "Panasonic",
+    "MobileDeviceModel": "Panasonic P99",
+    "MobileDeviceOs": "Android 7.0",
+    "MobileDeviceRelease": 2017
+  },
+  {
+    "id": 133,
+    "MobileDeviceBrand": "Realme",
+    "MobileDeviceModel": "Realme C2 2020",
+    "MobileDeviceOs": "Android 9.0, ColorOS 6 Lite",
+    "MobileDeviceRelease": 2019
+  },
+  {
+    "id": 134,
+    "MobileDeviceBrand": "Energizer",
+    "MobileDeviceModel": "Energizer E280s",
+    "MobileDeviceOs": "KaiOS",
+    "MobileDeviceRelease": 2021
+  },
+  {
+    "id": 135,
+    "MobileDeviceBrand": "Microsoft",
+    "MobileDeviceModel": "Microsoft Lumia 532",
+    "MobileDeviceOs": "Microsoft Windows Phone 8.1",
+    "MobileDeviceRelease": 2015
+  },
+  {
+    "id": 136,
+    "MobileDeviceBrand": "vivo",
+    "MobileDeviceModel": "vivo X20 Plus",
+    "MobileDeviceOs": "Android 7.1.1, up to 8.0, Funtouch 3.2",
+    "MobileDeviceRelease": 2017
+  },
+  {
+    "id": 137,
+    "MobileDeviceBrand": "Gionee",
+    "MobileDeviceModel": "Gionee S12 Lite",
+    "MobileDeviceOs": "Android 10",
+    "MobileDeviceRelease": 2020
+  },
+  {
+    "id": 138,
+    "MobileDeviceBrand": "Samsung",
+    "MobileDeviceModel": "Samsung F520",
+    "MobileDeviceOs": "Feature phone",
+    "MobileDeviceRelease": 0
+  },
+  {
+    "id": 139,
+    "MobileDeviceBrand": "Samsung",
+    "MobileDeviceModel": "Samsung Galaxy M51",
+    "MobileDeviceOs": "Android 10, up to Android 11, One UI 3.1",
+    "MobileDeviceRelease": 2020
+  },
+  {
+    "id": 140,
+    "MobileDeviceBrand": "Philips",
+    "MobileDeviceModel": "Philips Ozeo",
+    "MobileDeviceOs": "Feature phone",
+    "MobileDeviceRelease": 2000
+  },
+  {
+    "id": 141,
+    "MobileDeviceBrand": "Acer",
+    "MobileDeviceModel": "Acer Liquid E3 Duo Plus",
+    "MobileDeviceOs": "Android 4.2.2",
+    "MobileDeviceRelease": 2014
+  },
+  {
+    "id": 142,
+    "MobileDeviceBrand": "Samsung",
+    "MobileDeviceModel": "Samsung M7500 Emporio Armani",
+    "MobileDeviceOs": "Feature phone",
+    "MobileDeviceRelease": 2008
+  },
+  {
+    "id": 143,
+    "MobileDeviceBrand": "QMobile",
+    "MobileDeviceModel": "QMobile Noir X350",
+    "MobileDeviceOs": "Android 4.4.2",
+    "MobileDeviceRelease": 2015
+  },
+  {
+    "id": 144,
+    "MobileDeviceBrand": "Celkon",
+    "MobileDeviceModel": "Celkon A97",
+    "MobileDeviceOs": "Android 2.3.6",
+    "MobileDeviceRelease": 2012
+  },
+  {
+    "id": 145,
+    "MobileDeviceBrand": "NEC",
+    "MobileDeviceModel": "NEC N910",
+    "MobileDeviceOs": "Feature phone",
+    "MobileDeviceRelease": 2004
+  },
+  {
+    "id": 146,
+    "MobileDeviceBrand": "Karbonn",
+    "MobileDeviceModel": "Karbonn Titanium S5 Plus",
+    "MobileDeviceOs": "Android 4.2.2",
+    "MobileDeviceRelease": 2013
+  },
+  {
+    "id": 147,
+    "MobileDeviceBrand": "alcatel",
+    "MobileDeviceModel": "alcatel OT-203",
+    "MobileDeviceOs": "Feature phone",
+    "MobileDeviceRelease": 2009
+  },
+  {
+    "id": 148,
+    "MobileDeviceBrand": "verykool",
+    "MobileDeviceModel": "verykool i320",
+    "MobileDeviceOs": "Feature phone",
+    "MobileDeviceRelease": 2012
+  },
+  {
+    "id": 149,
+    "MobileDeviceBrand": "Nokia",
+    "MobileDeviceModel": "Nokia N-Gage QD",
+    "MobileDeviceOs": "Symbian 6.1, Series 60 v1.0 UI",
+    "MobileDeviceRelease": 2004
+  },
+  {
+    "id": 150,
+    "MobileDeviceBrand": "Samsung",
+    "MobileDeviceModel": "Samsung A200",
+    "MobileDeviceOs": "Feature phone",
+    "MobileDeviceRelease": 2001
+  },
+  {
+    "id": 151,
+    "MobileDeviceBrand": "Pantech",
+    "MobileDeviceModel": "Pantech PU-5000",
+    "MobileDeviceOs": "Feature phone",
+    "MobileDeviceRelease": 0
+  },
+  {
+    "id": 152,
+    "MobileDeviceBrand": "alcatel",
+    "MobileDeviceModel": "alcatel Pixi 4 (3.5)",
+    "MobileDeviceOs": "Android 5.1",
+    "MobileDeviceRelease": 2016
+  },
+  {
+    "id": 153,
+    "MobileDeviceBrand": "Karbonn",
+    "MobileDeviceModel": "Karbonn A15",
+    "MobileDeviceOs": "Android 4.0.4",
+    "MobileDeviceRelease": 2012
+  },
+  {
+    "id": 154,
+    "MobileDeviceBrand": "Motorola",
+    "MobileDeviceModel": "Motorola E378i",
+    "MobileDeviceOs": "Feature phone",
+    "MobileDeviceRelease": 2005
+  },
+  {
+    "id": 155,
+    "MobileDeviceBrand": "Nokia",
+    "MobileDeviceModel": "Nokia Asha 500",
+    "MobileDeviceOs": "Nokia Asha software platform 1.1.1, up to 1.4",
+    "MobileDeviceRelease": 2013
+  },
+  {
+    "id": 156,
+    "MobileDeviceBrand": "Infinix",
+    "MobileDeviceModel": "Infinix Note 4 Pro",
+    "MobileDeviceOs": "Android 7.0",
+    "MobileDeviceRelease": 2017
+  },
+  {
+    "id": 157,
+    "MobileDeviceBrand": "alcatel",
+    "MobileDeviceModel": "alcatel OT-C552",
+    "MobileDeviceOs": "Feature phone",
+    "MobileDeviceRelease": 2005
+  },
+  {
+    "id": 158,
+    "MobileDeviceBrand": "Gionee",
+    "MobileDeviceModel": "Gionee K30 Pro",
+    "MobileDeviceOs": "Android",
+    "MobileDeviceRelease": 2020
+  },
+  {
+    "id": 159,
+    "MobileDeviceBrand": "Siemens",
+    "MobileDeviceModel": "Siemens SP65",
+    "MobileDeviceOs": "Feature phone",
+    "MobileDeviceRelease": 2005
+  },
+  {
+    "id": 160,
+    "MobileDeviceBrand": "LG",
+    "MobileDeviceModel": "LG KS365",
+    "MobileDeviceOs": "Feature phone",
+    "MobileDeviceRelease": 2010
+  },
+  {
+    "id": 161,
+    "MobileDeviceBrand": "alcatel",
+    "MobileDeviceModel": "alcatel OT-282",
+    "MobileDeviceOs": "Feature phone",
+    "MobileDeviceRelease": 2011
+  },
+  {
+    "id": 162,
+    "MobileDeviceBrand": "Lenovo",
+    "MobileDeviceModel": "Lenovo A60+",
+    "MobileDeviceOs": "Android 2.3.6",
+    "MobileDeviceRelease": 2012
+  },
+  {
+    "id": 163,
+    "MobileDeviceBrand": "Samsung",
+    "MobileDeviceModel": "Samsung Galaxy Nexus I9250",
+    "MobileDeviceOs": "Android OS 4.0, up to 4.3",
+    "MobileDeviceRelease": 2011
+  },
+  {
+    "id": 164,
+    "MobileDeviceBrand": "alcatel",
+    "MobileDeviceModel": "alcatel OT-203",
+    "MobileDeviceOs": "Feature phone",
+    "MobileDeviceRelease": 2009
+  },
+  {
+    "id": 165,
+    "MobileDeviceBrand": "Icemobile",
+    "MobileDeviceModel": "Icemobile Rainbow",
+    "MobileDeviceOs": "Feature phone",
+    "MobileDeviceRelease": 2011
+  },
+  {
+    "id": 166,
+    "MobileDeviceBrand": "Motorola",
+    "MobileDeviceModel": "Motorola MOTO XT702",
+    "MobileDeviceOs": "Android 2.1",
+    "MobileDeviceRelease": 2009
+  },
+  {
+    "id": 167,
+    "MobileDeviceBrand": "ZTE",
+    "MobileDeviceModel": "ZTE Grand Memo V9815",
+    "MobileDeviceOs": "Android 4.1.2",
+    "MobileDeviceRelease": 2013
+  },
+  {
+    "id": 168,
+    "MobileDeviceBrand": "Nokia",
+    "MobileDeviceModel": "Nokia 9500",
+    "MobileDeviceOs": "Symbian 7.0s, Series 80 v2.0 UI",
+    "MobileDeviceRelease": 2004
+  },
+  {
+    "id": 169,
+    "MobileDeviceBrand": "Realme",
+    "MobileDeviceModel": "Realme XT 730G",
+    "MobileDeviceOs": "Android 9.0, planned upgrade to 10, ColorOS 6",
+    "MobileDeviceRelease": 0
+  },
+  {
+    "id": 170,
+    "MobileDeviceBrand": "ZTE",
+    "MobileDeviceModel": "ZTE Nova 4 V8000",
+    "MobileDeviceOs": "Android 4.0",
+    "MobileDeviceRelease": 2014
+  },
+  {
+    "id": 171,
+    "MobileDeviceBrand": "LG",
+    "MobileDeviceModel": "LG F60",
+    "MobileDeviceOs": "Android 4.4.2",
+    "MobileDeviceRelease": 2014
+  },
+  {
+    "id": 172,
+    "MobileDeviceBrand": "LG",
+    "MobileDeviceModel": "LG KC560",
+    "MobileDeviceOs": "Feature phone",
+    "MobileDeviceRelease": 2009
+  },
+  {
+    "id": 173,
+    "MobileDeviceBrand": "Huawei",
+    "MobileDeviceModel": "Huawei Mate X2",
+    "MobileDeviceOs": "Android 10, EMUI 11, no Google Play Services",
+    "MobileDeviceRelease": 2021
+  },
+  {
+    "id": 174,
+    "MobileDeviceBrand": "Micromax",
+    "MobileDeviceModel": "Micromax Canvas 4 A210",
+    "MobileDeviceOs": "Android 4.2.1",
+    "MobileDeviceRelease": 2013
+  },
+  {
+    "id": 175,
+    "MobileDeviceBrand": "Ericsson",
+    "MobileDeviceModel": "Ericsson PF 768",
+    "MobileDeviceOs": "Feature phone",
+    "MobileDeviceRelease": 1997
+  },
+  {
+    "id": 176,
+    "MobileDeviceBrand": "Panasonic",
+    "MobileDeviceModel": "Panasonic X68/X77",
+    "MobileDeviceOs": "Feature phone",
+    "MobileDeviceRelease": 2004
+  },
+  {
+    "id": 177,
+    "MobileDeviceBrand": "Asus",
+    "MobileDeviceModel": "Asus PadFone mini (Intel)",
+    "MobileDeviceOs": "Android 4.3, up to 4.4.2",
+    "MobileDeviceRelease": 2014
+  },
+  {
+    "id": 178,
+    "MobileDeviceBrand": "alcatel",
+    "MobileDeviceModel": "alcatel Idol 2 Mini S",
+    "MobileDeviceOs": "Android 4.3, up to 4.4",
+    "MobileDeviceRelease": 2014
+  },
+  {
+    "id": 179,
+    "MobileDeviceBrand": "Icemobile",
+    "MobileDeviceModel": "Icemobile Tornado II",
+    "MobileDeviceOs": "Feature phone",
+    "MobileDeviceRelease": 2011
+  },
+  {
+    "id": 180,
+    "MobileDeviceBrand": "Motorola",
+    "MobileDeviceModel": "Motorola A3000",
+    "MobileDeviceOs": "Microsoft Windows Mobile 6.1 Professional",
+    "MobileDeviceRelease": 2009
+  },
+  {
+    "id": 181,
+    "MobileDeviceBrand": "QMobile",
+    "MobileDeviceModel": "QMobile Linq X70",
+    "MobileDeviceOs": "Android 4.4.2",
+    "MobileDeviceRelease": 2015
+  },
+  {
+    "id": 182,
+    "MobileDeviceBrand": "Samsung",
+    "MobileDeviceModel": "Samsung Gear 2",
+    "MobileDeviceOs": "Tizen OS",
+    "MobileDeviceRelease": 2014
+  },
+  {
+    "id": 183,
+    "MobileDeviceBrand": "Spice",
+    "MobileDeviceModel": "Spice Mi-498 Dream Uno",
+    "MobileDeviceOs": "Android 4.4.4, up to 5.1.1, Android One",
+    "MobileDeviceRelease": 2014
+  },
+  {
+    "id": 184,
+    "MobileDeviceBrand": "Icemobile",
+    "MobileDeviceModel": "Icemobile Prime 3.5",
+    "MobileDeviceOs": "Android 4.2.2",
+    "MobileDeviceRelease": 2014
+  },
+  {
+    "id": 185,
+    "MobileDeviceBrand": "Oppo",
+    "MobileDeviceModel": "Oppo Reno4",
+    "MobileDeviceOs": "Android 10, ColorOS 7.2",
+    "MobileDeviceRelease": 2020
+  },
+  {
+    "id": 186,
+    "MobileDeviceBrand": "Samsung",
+    "MobileDeviceModel": "Samsung S5500 Eco",
+    "MobileDeviceOs": "Feature phone",
+    "MobileDeviceRelease": 2010
+  },
+  {
+    "id": 187,
+    "MobileDeviceBrand": "BLU",
+    "MobileDeviceModel": "BLU TV2Go",
+    "MobileDeviceOs": "Feature phone",
+    "MobileDeviceRelease": 2009
+  },
+  {
+    "id": 188,
+    "MobileDeviceBrand": "Coolpad",
+    "MobileDeviceModel": "Coolpad Mega",
+    "MobileDeviceOs": "Android 6, Cool UI 8",
+    "MobileDeviceRelease": 2016
+  },
+  {
+    "id": 189,
+    "MobileDeviceBrand": "verykool",
+    "MobileDeviceModel": "verykool s5528 Cosmo",
+    "MobileDeviceOs": "Android 7.0",
+    "MobileDeviceRelease": 2017
+  },
+  {
+    "id": 190,
+    "MobileDeviceBrand": "LG",
+    "MobileDeviceModel": "LG GB210",
+    "MobileDeviceOs": "Feature phone",
+    "MobileDeviceRelease": 2009
+  },
+  {
+    "id": 191,
+    "MobileDeviceBrand": "Micromax",
+    "MobileDeviceModel": "Micromax Bolt Q339",
+    "MobileDeviceOs": "Android 4.4.2",
+    "MobileDeviceRelease": 2015
+  },
+  {
+    "id": 192,
+    "MobileDeviceBrand": "QMobile",
+    "MobileDeviceModel": "QMobile Noir i7",
+    "MobileDeviceOs": "Android 4.2, up to 4.4",
+    "MobileDeviceRelease": 2014
+  },
+  {
+    "id": 193,
+    "MobileDeviceBrand": "vivo",
+    "MobileDeviceModel": "vivo Y52s",
+    "MobileDeviceOs": "Android 10, Funtouch 10.5",
+    "MobileDeviceRelease": 2020
+  },
+  {
+    "id": 194,
+    "MobileDeviceBrand": "LG",
+    "MobileDeviceModel": "LG X cam",
+    "MobileDeviceOs": "Android 6.0",
+    "MobileDeviceRelease": 2016
+  },
+  {
+    "id": 195,
+    "MobileDeviceBrand": "LG",
+    "MobileDeviceModel": "LG K10",
+    "MobileDeviceOs": "Android 5.1.1 or Android 6.0",
+    "MobileDeviceRelease": 2016
+  },
+  {
+    "id": 196,
+    "MobileDeviceBrand": "ZTE",
+    "MobileDeviceModel": "ZTE Style Messanger",
+    "MobileDeviceOs": "Feature phone",
+    "MobileDeviceRelease": 0
+  },
+  {
+    "id": 197,
+    "MobileDeviceBrand": "Samsung",
+    "MobileDeviceModel": "Samsung Google Nexus S 4G",
+    "MobileDeviceOs": "Android 2.3",
+    "MobileDeviceRelease": 2011
+  },
+  {
+    "id": 198,
+    "MobileDeviceBrand": "Celkon",
+    "MobileDeviceModel": "Celkon Campus Prime",
+    "MobileDeviceOs": "Android 4.4.2",
+    "MobileDeviceRelease": 2015
+  },
+  {
+    "id": 199,
+    "MobileDeviceBrand": "Motorola",
+    "MobileDeviceModel": "Motorola DROID PRO XT610",
+    "MobileDeviceOs": "Android 2.2, up to 2.3",
+    "MobileDeviceRelease": 2010
+  },
+  {
+    "id": 200,
+    "MobileDeviceBrand": "verykool",
+    "MobileDeviceModel": "verykool sl5009 Jet",
+    "MobileDeviceOs": "Android 5.1",
+    "MobileDeviceRelease": 2015
+  },
+  {
+    "id": 201,
+    "MobileDeviceBrand": "LG",
+    "MobileDeviceModel": "LG 450",
+    "MobileDeviceOs": "Feature phone",
+    "MobileDeviceRelease": 2014
+  },
+  {
+    "id": 202,
+    "MobileDeviceBrand": "Sony",
+    "MobileDeviceModel": "Sony Xperia sola",
+    "MobileDeviceOs": "Android 2.3, up to 4.0",
+    "MobileDeviceRelease": 2012
+  },
+  {
+    "id": 203,
+    "MobileDeviceBrand": "Huawei",
+    "MobileDeviceModel": "Huawei MatePad 5G",
+    "MobileDeviceOs": "Android 10, EMUI 10.1",
+    "MobileDeviceRelease": 2020
+  },
+  {
+    "id": 204,
+    "MobileDeviceBrand": "Haier",
+    "MobileDeviceModel": "Haier Hurricane",
+    "MobileDeviceOs": "Android 7.0",
+    "MobileDeviceRelease": 2018
+  },
+  {
+    "id": 205,
+    "MobileDeviceBrand": "Prestigio",
+    "MobileDeviceModel": "Prestigio MultiPad 2 Prime Duo 8.0",
+    "MobileDeviceOs": "Android 4.1",
+    "MobileDeviceRelease": 2013
+  },
+  {
+    "id": 206,
+    "MobileDeviceBrand": "Samsung",
+    "MobileDeviceModel": "Samsung A737",
+    "MobileDeviceOs": "Feature phone",
+    "MobileDeviceRelease": 2007
+  },
+  {
+    "id": 207,
+    "MobileDeviceBrand": "YU",
+    "MobileDeviceModel": "YU Yureka",
+    "MobileDeviceOs": "Android 4.4.4, up to 5.1",
+    "MobileDeviceRelease": 2015
+  },
+  {
+    "id": 208,
+    "MobileDeviceBrand": "LG",
+    "MobileDeviceModel": "LG T385",
+    "MobileDeviceOs": "Feature phone",
+    "MobileDeviceRelease": 2012
+  },
+  {
+    "id": 209,
+    "MobileDeviceBrand": "Thuraya",
+    "MobileDeviceModel": "Thuraya SG-2520",
+    "MobileDeviceOs": "WinCE 4.2",
+    "MobileDeviceRelease": 2007
+  },
+  {
+    "id": 210,
+    "MobileDeviceBrand": "vivo",
+    "MobileDeviceModel": "vivo Y12",
+    "MobileDeviceOs": "Android 9.0, Funtouch 9",
+    "MobileDeviceRelease": 2019
+  },
+  {
+    "id": 211,
+    "MobileDeviceBrand": "Samsung",
+    "MobileDeviceModel": "Samsung Galaxy Note8",
+    "MobileDeviceOs": "Android 7.1.1, up to Android 9.0",
+    "MobileDeviceRelease": 2017
+  },
+  {
+    "id": 212,
+    "MobileDeviceBrand": "Siemens",
+    "MobileDeviceModel": "Siemens ST60",
+    "MobileDeviceOs": "Feature phone",
+    "MobileDeviceRelease": 2004
+  },
+  {
+    "id": 213,
+    "MobileDeviceBrand": "ZTE",
+    "MobileDeviceModel": "ZTE Chorus",
+    "MobileDeviceOs": "Feature phone",
+    "MobileDeviceRelease": 2011
+  },
+  {
+    "id": 214,
+    "MobileDeviceBrand": "Asus",
+    "MobileDeviceModel": "Asus PadFone 2",
+    "MobileDeviceOs": "Android 4.0, up to 4.4.2",
+    "MobileDeviceRelease": 2012
+  },
+  {
+    "id": 215,
+    "MobileDeviceBrand": "Motorola",
+    "MobileDeviceModel": "Motorola C289",
+    "MobileDeviceOs": "Feature phone",
+    "MobileDeviceRelease": 2003
+  },
+  {
+    "id": 216,
+    "MobileDeviceBrand": "Philips",
+    "MobileDeviceModel": "Philips D613",
+    "MobileDeviceOs": "Feature phone",
+    "MobileDeviceRelease": 2011
+  },
+  {
+    "id": 217,
+    "MobileDeviceBrand": "LG",
+    "MobileDeviceModel": "LG Jil Sander Mobile",
+    "MobileDeviceOs": "Microsoft Windows Phone 7.5 Mango",
+    "MobileDeviceRelease": 2011
+  },
+  {
+    "id": 218,
+    "MobileDeviceBrand": "BLU",
+    "MobileDeviceModel": "BLU Life Pure XL",
+    "MobileDeviceOs": "Android 4.2.2, up to 4.4.2",
+    "MobileDeviceRelease": 2014
+  },
+  {
+    "id": 219,
+    "MobileDeviceBrand": "Huawei",
+    "MobileDeviceModel": "Huawei Ascend Y200",
+    "MobileDeviceOs": "Android 2.3",
+    "MobileDeviceRelease": 2012
+  },
+  {
+    "id": 220,
+    "MobileDeviceBrand": "Samsung",
+    "MobileDeviceModel": "Samsung Galaxy Tab 2 10.1 CDMA",
+    "MobileDeviceOs": "Android 4.0",
+    "MobileDeviceRelease": 2012
+  },
+  {
+    "id": 221,
+    "MobileDeviceBrand": "LG",
+    "MobileDeviceModel": "LG G8X ThinQ",
+    "MobileDeviceOs": "Android 9.0, up to Android 10, LG UX 10.0",
+    "MobileDeviceRelease": 2019
+  },
+  {
+    "id": 222,
+    "MobileDeviceBrand": "LG",
+    "MobileDeviceModel": "LG KU970 Shine",
+    "MobileDeviceOs": "Feature phone",
+    "MobileDeviceRelease": 2007
+  },
+  {
+    "id": 223,
+    "MobileDeviceBrand": "Samsung",
+    "MobileDeviceModel": "Samsung Galaxy Tab S 8.4",
+    "MobileDeviceOs": "Android 4.4.2, up to 6.0, TouchWiz UI",
+    "MobileDeviceRelease": 2014
+  },
+  {
+    "id": 224,
+    "MobileDeviceBrand": "HTC",
+    "MobileDeviceModel": "HTC One A9s",
+    "MobileDeviceOs": "Android 6.0, Sense UI",
+    "MobileDeviceRelease": 2016
+  },
+  {
+    "id": 225,
+    "MobileDeviceBrand": "Motorola",
+    "MobileDeviceModel": "Motorola DROID 3",
+    "MobileDeviceOs": "Android 2.3, not up to 4.1",
+    "MobileDeviceRelease": 2011
+  },
+  {
+    "id": 226,
+    "MobileDeviceBrand": "Lenovo",
+    "MobileDeviceModel": "Lenovo A316i",
+    "MobileDeviceOs": "Android 4.2.2",
+    "MobileDeviceRelease": 2014
+  },
+  {
+    "id": 227,
+    "MobileDeviceBrand": "ZTE",
+    "MobileDeviceModel": "ZTE Axon Lux",
+    "MobileDeviceOs": "Android 5.0.2",
+    "MobileDeviceRelease": 2015
+  },
+  {
+    "id": 228,
+    "MobileDeviceBrand": "Allview",
+    "MobileDeviceModel": "Allview Wi8G",
+    "MobileDeviceOs": "Microsoft Windows 10",
+    "MobileDeviceRelease": 2014
+  },
+  {
+    "id": 229,
+    "MobileDeviceBrand": "Panasonic",
+    "MobileDeviceModel": "Panasonic P95",
+    "MobileDeviceOs": "Android 7.1.2",
+    "MobileDeviceRelease": 2018
+  },
+  {
+    "id": 230,
+    "MobileDeviceBrand": "Orange",
+    "MobileDeviceModel": "Orange Gova",
+    "MobileDeviceOs": "Android 4.3",
+    "MobileDeviceRelease": 2014
+  },
+  {
+    "id": 231,
+    "MobileDeviceBrand": "Samsung",
+    "MobileDeviceModel": "Samsung Galaxy S Duos S7562",
+    "MobileDeviceOs": "Android 4.0",
+    "MobileDeviceRelease": 2012
+  },
+  {
+    "id": 232,
+    "MobileDeviceBrand": "Nokia",
+    "MobileDeviceModel": "Nokia Lumia 735",
+    "MobileDeviceOs": "Microsoft Windows Phone 8.1",
+    "MobileDeviceRelease": 2014
+  },
+  {
+    "id": 233,
+    "MobileDeviceBrand": "Gigabyte",
+    "MobileDeviceModel": "Gigabyte GSmart GX2",
+    "MobileDeviceOs": "Android 4.4.2",
+    "MobileDeviceRelease": 2014
+  },
+  {
+    "id": 234,
+    "MobileDeviceBrand": "Samsung",
+    "MobileDeviceModel": "Samsung Galaxy S5 Active",
+    "MobileDeviceOs": "Android 4.4.2, up to 6.0.1, TouchWiz UI",
+    "MobileDeviceRelease": 2014
+  },
+  {
+    "id": 235,
+    "MobileDeviceBrand": "Nokia",
+    "MobileDeviceModel": "Nokia 8110",
+    "MobileDeviceOs": "Feature phone",
+    "MobileDeviceRelease": 1996
+  },
+  {
+    "id": 236,
+    "MobileDeviceBrand": "Lava",
+    "MobileDeviceModel": "Lava Z4",
+    "MobileDeviceOs": "Android 10",
+    "MobileDeviceRelease": 2021
+  },
+  {
+    "id": 237,
+    "MobileDeviceBrand": "Samsung",
+    "MobileDeviceModel": "Samsung Galaxy S6 edge+ (USA)",
+    "MobileDeviceOs": "Android 5.1.1, TouchWiz UI",
+    "MobileDeviceRelease": 2015
+  },
+  {
+    "id": 238,
+    "MobileDeviceBrand": "Telit",
+    "MobileDeviceModel": "Telit GM 882",
+    "MobileDeviceOs": "Feature phone",
+    "MobileDeviceRelease": 2002
+  },
+  {
+    "id": 239,
+    "MobileDeviceBrand": "Icemobile",
+    "MobileDeviceModel": "Icemobile Twilight II",
+    "MobileDeviceOs": "Feature phone",
+    "MobileDeviceRelease": 2012
+  },
+  {
+    "id": 240,
+    "MobileDeviceBrand": "LG",
+    "MobileDeviceModel": "LG GU292",
+    "MobileDeviceOs": "Feature phone",
+    "MobileDeviceRelease": 2010
+  },
+  {
+    "id": 241,
+    "MobileDeviceBrand": "Xiaomi",
+    "MobileDeviceModel": "Xiaomi Mi A2 (Mi 6X)",
+    "MobileDeviceOs": "Android 8.1, up to Android 9.0, Android One",
+    "MobileDeviceRelease": 2018
+  },
+  {
+    "id": 242,
+    "MobileDeviceBrand": "Samsung",
+    "MobileDeviceModel": "Samsung E1190",
+    "MobileDeviceOs": "Feature phone",
+    "MobileDeviceRelease": 2011
+  },
+  {
+    "id": 243,
+    "MobileDeviceBrand": "Lava",
+    "MobileDeviceModel": "Lava Z6",
+    "MobileDeviceOs": "Android 10",
+    "MobileDeviceRelease": 2021
+  },
+  {
+    "id": 244,
+    "MobileDeviceBrand": "i-mate",
+    "MobileDeviceModel": "i-mate Ultimate 6150",
+    "MobileDeviceOs": "Microsoft Windows Mobile 6.0 Professional",
+    "MobileDeviceRelease": 2008
+  },
+  {
+    "id": 245,
+    "MobileDeviceBrand": "Samsung",
+    "MobileDeviceModel": "Samsung Galaxy J3 (2017)",
+    "MobileDeviceOs": "Android 7.0, 8.0, up to Android 9.0",
+    "MobileDeviceRelease": 2017
+  },
+  {
+    "id": 246,
+    "MobileDeviceBrand": "Samsung",
+    "MobileDeviceModel": "Samsung Galaxy J5 (2017)",
+    "MobileDeviceOs": "Android 7.0, up to Android 9.0, One UI",
+    "MobileDeviceRelease": 2017
+  },
+  {
+    "id": 247,
+    "MobileDeviceBrand": "Allview",
+    "MobileDeviceModel": "Allview Viper L",
+    "MobileDeviceOs": "Android 4.4.2",
+    "MobileDeviceRelease": 2015
+  },
+  {
+    "id": 248,
+    "MobileDeviceBrand": "alcatel",
+    "MobileDeviceModel": "alcatel OT-383",
+    "MobileDeviceOs": "Feature phone",
+    "MobileDeviceRelease": 2009
+  },
+  {
+    "id": 249,
+    "MobileDeviceBrand": "LG",
+    "MobileDeviceModel": "LG KF755 Secret",
+    "MobileDeviceOs": "Feature phone",
+    "MobileDeviceRelease": 2008
+  },
+  {
+    "id": 250,
+    "MobileDeviceBrand": "O2",
+    "MobileDeviceModel": "O2 Cosmo",
+    "MobileDeviceOs": "Microsoft Windows Mobile 5.0 Smartphone",
+    "MobileDeviceRelease": 2006
+  },
+  {
+    "id": 251,
+    "MobileDeviceBrand": "i-mobile",
+    "MobileDeviceModel": "i-mobile 202",
+    "MobileDeviceOs": "Feature phone",
+    "MobileDeviceRelease": 2008
+  },
+  {
+    "id": 252,
+    "MobileDeviceBrand": "Plum",
+    "MobileDeviceModel": "Plum Sync 4.0",
+    "MobileDeviceOs": "Android 4.4",
+    "MobileDeviceRelease": 2014
+  },
+  {
+    "id": 253,
+    "MobileDeviceBrand": "Samsung",
+    "MobileDeviceModel": "Samsung P960",
+    "MobileDeviceOs": "Feature phone",
+    "MobileDeviceRelease": 2008
+  },
+  {
+    "id": 254,
+    "MobileDeviceBrand": "Icemobile",
+    "MobileDeviceModel": "Icemobile Comet II",
+    "MobileDeviceOs": "Feature phone",
+    "MobileDeviceRelease": 2011
+  },
+  {
+    "id": 255,
+    "MobileDeviceBrand": "Samsung",
+    "MobileDeviceModel": "Samsung Google Nexus 10 P8110",
+    "MobileDeviceOs": "Android 4.2, up to 5.1",
+    "MobileDeviceRelease": 2012
+  },
+  {
+    "id": 256,
+    "MobileDeviceBrand": "Meizu",
+    "MobileDeviceModel": "Meizu M6s",
+    "MobileDeviceOs": "Android 7.0, Flyme 6.2",
+    "MobileDeviceRelease": 2018
+  },
+  {
+    "id": 257,
+    "MobileDeviceBrand": "Plum",
+    "MobileDeviceModel": "Plum Tweek",
+    "MobileDeviceOs": "Feature phone",
+    "MobileDeviceRelease": 2012
+  },
+  {
+    "id": 258,
+    "MobileDeviceBrand": "Nokia",
+    "MobileDeviceModel": "Nokia Asha 311",
+    "MobileDeviceOs": "Feature phone",
+    "MobileDeviceRelease": 2012
+  },
+  {
+    "id": 259,
+    "MobileDeviceBrand": "Karbonn",
+    "MobileDeviceModel": "Karbonn Smart Tab 7",
+    "MobileDeviceOs": "Android 4.0, up to 4.1",
+    "MobileDeviceRelease": 2012
+  },
+  {
+    "id": 260,
+    "MobileDeviceBrand": "Samsung",
+    "MobileDeviceModel": "Samsung A817 Solstice II",
+    "MobileDeviceOs": "Feature phone",
+    "MobileDeviceRelease": 2010
+  },
+  {
+    "id": 261,
+    "MobileDeviceBrand": "Energizer",
+    "MobileDeviceModel": "Energizer Energy E500S",
+    "MobileDeviceOs": "Android 8.0",
+    "MobileDeviceRelease": 2018
+  },
+  {
+    "id": 262,
+    "MobileDeviceBrand": "Samsung",
+    "MobileDeviceModel": "Samsung Galaxy Prevail",
+    "MobileDeviceOs": "Android 2.2",
+    "MobileDeviceRelease": 2011
+  },
+  {
+    "id": 263,
+    "MobileDeviceBrand": "Samsung",
+    "MobileDeviceModel": "Samsung E1070",
+    "MobileDeviceOs": "Feature phone",
+    "MobileDeviceRelease": 2009
+  },
+  {
+    "id": 264,
+    "MobileDeviceBrand": "alcatel",
+    "MobileDeviceModel": "alcatel OT-E256",
+    "MobileDeviceOs": "Feature phone",
+    "MobileDeviceRelease": 2005
+  },
+  {
+    "id": 265,
+    "MobileDeviceBrand": "Telit",
+    "MobileDeviceModel": "Telit t180",
+    "MobileDeviceOs": "Feature phone",
+    "MobileDeviceRelease": 2006
+  },
+  {
+    "id": 266,
+    "MobileDeviceBrand": "Celkon",
+    "MobileDeviceModel": "Celkon C449",
+    "MobileDeviceOs": "Feature phone",
+    "MobileDeviceRelease": 2010
+  },
+  {
+    "id": 267,
+    "MobileDeviceBrand": "Samsung",
+    "MobileDeviceModel": "Samsung Galaxy Tab 4G LTE",
+    "MobileDeviceOs": "Android 2.2",
+    "MobileDeviceRelease": 2011
+  },
+  {
+    "id": 268,
+    "MobileDeviceBrand": "Motorola",
+    "MobileDeviceModel": "Motorola E11",
+    "MobileDeviceOs": "Feature phone",
+    "MobileDeviceRelease": 2009
+  },
+  {
+    "id": 269,
+    "MobileDeviceBrand": "Sagem",
+    "MobileDeviceModel": "Sagem MY S-7",
+    "MobileDeviceOs": "Microsoft Smartphone 2003 SE",
+    "MobileDeviceRelease": 2004
+  },
+  {
+    "id": 270,
+    "MobileDeviceBrand": "Samsung",
+    "MobileDeviceModel": "Samsung Galaxy A20",
+    "MobileDeviceOs": "Android 9.0, up to Android 11, One UI 3.1",
+    "MobileDeviceRelease": 2019
+  },
+  {
+    "id": 271,
+    "MobileDeviceBrand": "Energizer",
+    "MobileDeviceModel": "Energizer Energy E500S",
+    "MobileDeviceOs": "Android 8.0",
+    "MobileDeviceRelease": 2018
+  },
+  {
+    "id": 272,
+    "MobileDeviceBrand": "verykool",
+    "MobileDeviceModel": "verykool s6004 Cyprus Jr.",
+    "MobileDeviceOs": "Android 6.0",
+    "MobileDeviceRelease": 2016
+  },
+  {
+    "id": 273,
+    "MobileDeviceBrand": "HTC",
+    "MobileDeviceModel": "HTC Touch Diamond2 CDMA",
+    "MobileDeviceOs": "Microsoft Windows Mobile 6.5 Professional",
+    "MobileDeviceRelease": 2009
+  },
+  {
+    "id": 274,
+    "MobileDeviceBrand": "Motorola",
+    "MobileDeviceModel": "Motorola V291",
+    "MobileDeviceOs": "Feature phone",
+    "MobileDeviceRelease": 2003
+  },
+  {
+    "id": 275,
+    "MobileDeviceBrand": "Ericsson",
+    "MobileDeviceModel": "Ericsson GF 337",
+    "MobileDeviceOs": "Feature phone",
+    "MobileDeviceRelease": 1995
+  },
+  {
+    "id": 276,
+    "MobileDeviceBrand": "Sagem",
+    "MobileDeviceModel": "Sagem MY C5-3",
+    "MobileDeviceOs": "Feature phone",
+    "MobileDeviceRelease": 2006
+  },
+  {
+    "id": 277,
+    "MobileDeviceBrand": "Samsung",
+    "MobileDeviceModel": "Samsung A887 Solstice",
+    "MobileDeviceOs": "Feature phone",
+    "MobileDeviceRelease": 2009
+  },
+  {
+    "id": 278,
+    "MobileDeviceBrand": "LG",
+    "MobileDeviceModel": "LG L35",
+    "MobileDeviceOs": "Android OS",
+    "MobileDeviceRelease": 2014
+  },
+  {
+    "id": 279,
+    "MobileDeviceBrand": "Samsung",
+    "MobileDeviceModel": "Samsung T929 Memoir",
+    "MobileDeviceOs": "Feature phone",
+    "MobileDeviceRelease": 2009
+  },
+  {
+    "id": 280,
+    "MobileDeviceBrand": "Jolla",
+    "MobileDeviceModel": "Jolla Jolla C",
+    "MobileDeviceOs": "Sailfish 2.0",
+    "MobileDeviceRelease": 2016
+  },
+  {
+    "id": 281,
+    "MobileDeviceBrand": "Telit",
+    "MobileDeviceModel": "Telit Estremo",
+    "MobileDeviceOs": "Feature phone",
+    "MobileDeviceRelease": 1999
+  },
+  {
+    "id": 282,
+    "MobileDeviceBrand": "Samsung",
+    "MobileDeviceModel": "Samsung Galaxy J2 (2016)",
+    "MobileDeviceOs": "Android 6.0.1",
+    "MobileDeviceRelease": 2016
+  },
+  {
+    "id": 283,
+    "MobileDeviceBrand": "LG",
+    "MobileDeviceModel": "LG Optimus L7 P700",
+    "MobileDeviceOs": "Android 4.0.3",
+    "MobileDeviceRelease": 2012
+  },
+  {
+    "id": 284,
+    "MobileDeviceBrand": "verykool",
+    "MobileDeviceModel": "verykool s5012 Orbit",
+    "MobileDeviceOs": "Android 4.4.2",
+    "MobileDeviceRelease": 2014
+  },
+  {
+    "id": 285,
+    "MobileDeviceBrand": "Philips",
+    "MobileDeviceModel": "Philips 699 Dual SIM",
+    "MobileDeviceOs": "Feature phone",
+    "MobileDeviceRelease": 0
+  },
+  {
+    "id": 286,
+    "MobileDeviceBrand": "Celkon",
+    "MobileDeviceModel": "Celkon A900",
+    "MobileDeviceOs": "Android 2.3.6",
+    "MobileDeviceRelease": 2012
+  },
+  {
+    "id": 287,
+    "MobileDeviceBrand": "Huawei",
+    "MobileDeviceModel": "Huawei Ascend G620s",
+    "MobileDeviceOs": "Android 4.4.2, EMUI 3",
+    "MobileDeviceRelease": 2014
+  },
+  {
+    "id": 288,
+    "MobileDeviceBrand": "Vodafone",
+    "MobileDeviceModel": "Vodafone 810",
+    "MobileDeviceOs": "Feature phone",
+    "MobileDeviceRelease": 2007
+  },
+  {
+    "id": 289,
+    "MobileDeviceBrand": "vivo",
+    "MobileDeviceModel": "vivo X27",
+    "MobileDeviceOs": "Android 9.0, Funtouch 9",
+    "MobileDeviceRelease": 2019
+  },
+  {
+    "id": 290,
+    "MobileDeviceBrand": "Micromax",
+    "MobileDeviceModel": "Micromax Bharat 5 Infinity",
+    "MobileDeviceOs": "Android 8.1 Oreo",
+    "MobileDeviceRelease": 2018
+  },
+  {
+    "id": 291,
+    "MobileDeviceBrand": "Sagem",
+    "MobileDeviceModel": "Sagem my700X",
+    "MobileDeviceOs": "Feature phone",
+    "MobileDeviceRelease": 2006
+  },
+  {
+    "id": 292,
+    "MobileDeviceBrand": "BLU",
+    "MobileDeviceModel": "BLU Studio G Plus HD",
+    "MobileDeviceOs": "Android 6.0",
+    "MobileDeviceRelease": 2016
+  },
+  {
+    "id": 293,
+    "MobileDeviceBrand": "Wiko",
+    "MobileDeviceModel": "Wiko Sunset2",
+    "MobileDeviceOs": "Android 4.4",
+    "MobileDeviceRelease": 2015
+  },
+  {
+    "id": 294,
+    "MobileDeviceBrand": "ZTE",
+    "MobileDeviceModel": "ZTE Light Tab 300",
+    "MobileDeviceOs": "Android 4.0",
+    "MobileDeviceRelease": 2012
+  },
+  {
+    "id": 295,
+    "MobileDeviceBrand": "Yezz",
+    "MobileDeviceModel": "Yezz Andy A5 1GB",
+    "MobileDeviceOs": "Android 4.2",
+    "MobileDeviceRelease": 2013
+  },
+  {
+    "id": 296,
+    "MobileDeviceBrand": "LG",
+    "MobileDeviceModel": "LG KT520",
+    "MobileDeviceOs": "Feature phone",
+    "MobileDeviceRelease": 2008
+  },
+  {
+    "id": 297,
+    "MobileDeviceBrand": "Yezz",
+    "MobileDeviceModel": "Yezz Andy 3G 2.8 YZ11",
+    "MobileDeviceOs": "Android 2.3",
+    "MobileDeviceRelease": 2012
+  },
+  {
+    "id": 298,
+    "MobileDeviceBrand": "Nokia",
+    "MobileDeviceModel": "Nokia 5200",
+    "MobileDeviceOs": "Feature phone",
+    "MobileDeviceRelease": 2006
+  },
+  {
+    "id": 299,
+    "MobileDeviceBrand": "LG",
+    "MobileDeviceModel": "LG Optimus F7",
+    "MobileDeviceOs": "Android 4.1.2",
+    "MobileDeviceRelease": 2013
+  },
+  {
+    "id": 300,
+    "MobileDeviceBrand": "Samsung",
+    "MobileDeviceModel": "Samsung Galaxy Ace 2 I8160",
+    "MobileDeviceOs": "Android 2.3, up to 4.1.2, TouchWiz UI 4",
+    "MobileDeviceRelease": 2012
+  },
+  {
+    "id": 301,
+    "MobileDeviceBrand": "LG",
+    "MobileDeviceModel": "LG SU420 Cafe",
+    "MobileDeviceOs": "Feature phone",
+    "MobileDeviceRelease": 2010
+  },
+  {
+    "id": 302,
+    "MobileDeviceBrand": "Haier",
+    "MobileDeviceModel": "Haier M80",
+    "MobileDeviceOs": "Feature phone",
+    "MobileDeviceRelease": 2006
+  },
+  {
+    "id": 303,
+    "MobileDeviceBrand": "Lenovo",
+    "MobileDeviceModel": "Lenovo Yoga Tablet 10",
+    "MobileDeviceOs": "Android 4.2",
+    "MobileDeviceRelease": 2013
+  },
+  {
+    "id": 304,
+    "MobileDeviceBrand": "Samsung",
+    "MobileDeviceModel": "Samsung DoubleTime I857",
+    "MobileDeviceOs": "Android 2.2",
+    "MobileDeviceRelease": 2011
+  },
+  {
+    "id": 305,
+    "MobileDeviceBrand": "Oppo",
+    "MobileDeviceModel": "Oppo A3s",
+    "MobileDeviceOs": "Android 8.1, ColorOS 5.1",
+    "MobileDeviceRelease": 2018
+  },
+  {
+    "id": 306,
+    "MobileDeviceBrand": "Samsung",
+    "MobileDeviceModel": "Samsung Gear S3 classic LTE",
+    "MobileDeviceOs": "Tizen OS 4.0",
+    "MobileDeviceRelease": 2017
+  },
+  {
+    "id": 307,
+    "MobileDeviceBrand": "Motorola",
+    "MobileDeviceModel": "Motorola Moto G7 Power",
+    "MobileDeviceOs": "Android 9.0, up to Android 10",
+    "MobileDeviceRelease": 2019
+  },
+  {
+    "id": 308,
+    "MobileDeviceBrand": "i-mate",
+    "MobileDeviceModel": "i-mate SP4m",
+    "MobileDeviceOs": "Microsoft Windows Mobile 5.0 Smartphone",
+    "MobileDeviceRelease": 2005
+  },
+  {
+    "id": 309,
+    "MobileDeviceBrand": "Motorola",
+    "MobileDeviceModel": "Motorola XT928",
+    "MobileDeviceOs": "Android 2.3",
+    "MobileDeviceRelease": 2011
+  },
+  {
+    "id": 310,
+    "MobileDeviceBrand": "Apple",
+    "MobileDeviceModel": "Apple Watch Sport 38mm (1st gen)",
+    "MobileDeviceOs": "watchOS 1.0, up to 4.3.2",
+    "MobileDeviceRelease": 2015
+  },
+  {
+    "id": 311,
+    "MobileDeviceBrand": "Samsung",
+    "MobileDeviceModel": "Samsung Mpower Muzik 219",
+    "MobileDeviceOs": "Feature phone",
+    "MobileDeviceRelease": 2010
+  },
+  {
+    "id": 312,
+    "MobileDeviceBrand": "Samsung",
+    "MobileDeviceModel": "Samsung Q200",
+    "MobileDeviceOs": "Feature phone",
+    "MobileDeviceRelease": 2002
+  },
+  {
+    "id": 313,
+    "MobileDeviceBrand": "Nokia",
+    "MobileDeviceModel": "Nokia 3110",
+    "MobileDeviceOs": "Feature phone",
+    "MobileDeviceRelease": 1997
+  },
+  {
+    "id": 314,
+    "MobileDeviceBrand": "Xiaomi",
+    "MobileDeviceModel": "Xiaomi Redmi Note 8T",
+    "MobileDeviceOs": "Android 9.0, up to Android 10, MIUI 12",
+    "MobileDeviceRelease": 2019
+  },
+  {
+    "id": 315,
+    "MobileDeviceBrand": "verykool",
+    "MobileDeviceModel": "verykool S815",
+    "MobileDeviceOs": "Feature phone",
+    "MobileDeviceRelease": 2011
+  },
+  {
+    "id": 316,
+    "MobileDeviceBrand": "Samsung",
+    "MobileDeviceModel": "Samsung E250",
+    "MobileDeviceOs": "Feature phone",
+    "MobileDeviceRelease": 2006
+  },
+  {
+    "id": 317,
+    "MobileDeviceBrand": "verykool",
+    "MobileDeviceModel": "verykool s5019 Wave",
+    "MobileDeviceOs": "Android 6.0",
+    "MobileDeviceRelease": 2017
+  },
+  {
+    "id": 318,
+    "MobileDeviceBrand": "HTC",
+    "MobileDeviceModel": "HTC One X AT&T",
+    "MobileDeviceOs": "Android 4.0, up to 4.1, Sense UI",
+    "MobileDeviceRelease": 2012
+  },
+  {
+    "id": 319,
+    "MobileDeviceBrand": "Samsung",
+    "MobileDeviceModel": "Samsung Galaxy Z Flip",
+    "MobileDeviceOs": "Android 10, up to Android 11, One UI 3.1.1",
+    "MobileDeviceRelease": 2020
+  },
+  {
+    "id": 320,
+    "MobileDeviceBrand": "HTC",
+    "MobileDeviceModel": "HTC Jetstream",
+    "MobileDeviceOs": "Android 3.1",
+    "MobileDeviceRelease": 2011
+  },
+  {
+    "id": 321,
+    "MobileDeviceBrand": "LG",
+    "MobileDeviceModel": "LG Thrill 4G P925",
+    "MobileDeviceOs": "Android 2.2, up to 2.3",
+    "MobileDeviceRelease": 2011
+  },
+  {
+    "id": 322,
+    "MobileDeviceBrand": "Motorola",
+    "MobileDeviceModel": "Motorola C113a",
+    "MobileDeviceOs": "Feature phone",
+    "MobileDeviceRelease": 2005
+  },
+  {
+    "id": 323,
+    "MobileDeviceBrand": "Telit",
+    "MobileDeviceModel": "Telit t210",
+    "MobileDeviceOs": "Feature phone",
+    "MobileDeviceRelease": 2005
+  },
+  {
+    "id": 324,
+    "MobileDeviceBrand": "Nokia",
+    "MobileDeviceModel": "Nokia 7380",
+    "MobileDeviceOs": "Feature phone",
+    "MobileDeviceRelease": 2005
+  },
+  {
+    "id": 325,
+    "MobileDeviceBrand": "Huawei",
+    "MobileDeviceModel": "Huawei Pillar",
+    "MobileDeviceOs": "Feature phone",
+    "MobileDeviceRelease": 2011
+  },
+  {
+    "id": 326,
+    "MobileDeviceBrand": "Micromax",
+    "MobileDeviceModel": "Micromax X100",
+    "MobileDeviceOs": "Feature phone",
+    "MobileDeviceRelease": 2010
+  },
+  {
+    "id": 327,
+    "MobileDeviceBrand": "Realme",
+    "MobileDeviceModel": "Realme X2 Pro",
+    "MobileDeviceOs": "Android 9.0, up to Android 11, Realme UI 2.0",
+    "MobileDeviceRelease": 2019
+  },
+  {
+    "id": 328,
+    "MobileDeviceBrand": "Google",
+    "MobileDeviceModel": "Google Pixel 3a XL",
+    "MobileDeviceOs": "Android 9.0, up to Android 11",
+    "MobileDeviceRelease": 2019
+  },
+  {
+    "id": 329,
+    "MobileDeviceBrand": "Samsung",
+    "MobileDeviceModel": "Samsung Galaxy J6",
+    "MobileDeviceOs": "Android 8.0, up to Android 10, One UI 2.0",
+    "MobileDeviceRelease": 2018
+  },
+  {
+    "id": 330,
+    "MobileDeviceBrand": "Celkon",
+    "MobileDeviceModel": "Celkon A407",
+    "MobileDeviceOs": "Android 4.2.2",
+    "MobileDeviceRelease": 2015
+  },
+  {
+    "id": 331,
+    "MobileDeviceBrand": "Pantech",
+    "MobileDeviceModel": "Pantech Hotshot",
+    "MobileDeviceOs": "Feature phone",
+    "MobileDeviceRelease": 2011
+  },
+  {
+    "id": 332,
+    "MobileDeviceBrand": "Philips",
+    "MobileDeviceModel": "Philips X332",
+    "MobileDeviceOs": "Feature phone",
+    "MobileDeviceRelease": 2012
+  },
+  {
+    "id": 333,
+    "MobileDeviceBrand": "Allview",
+    "MobileDeviceModel": "Allview X2 Xtreme",
+    "MobileDeviceOs": "Android 5.1",
+    "MobileDeviceRelease": 2015
+  },
+  {
+    "id": 334,
+    "MobileDeviceBrand": "Panasonic",
+    "MobileDeviceModel": "Panasonic P55 Novo",
+    "MobileDeviceOs": "Android 6.0",
+    "MobileDeviceRelease": 2016
+  },
+  {
+    "id": 335,
+    "MobileDeviceBrand": "Samsung",
+    "MobileDeviceModel": "Samsung Galaxy J2 (2017)",
+    "MobileDeviceOs": "Android 7.0",
+    "MobileDeviceRelease": 2017
+  },
+  {
+    "id": 336,
+    "MobileDeviceBrand": "VK",
+    "MobileDeviceModel": "VK Mobile VK1020",
+    "MobileDeviceOs": "Feature phone",
+    "MobileDeviceRelease": 2005
+  },
+  {
+    "id": 337,
+    "MobileDeviceBrand": "Xiaomi",
+    "MobileDeviceModel": "Xiaomi Redmi K30 Ultra",
+    "MobileDeviceOs": "Android 10, MIUI 12",
+    "MobileDeviceRelease": 2020
+  },
+  {
+    "id": 338,
+    "MobileDeviceBrand": "Icemobile",
+    "MobileDeviceModel": "Icemobile Prime Plus",
+    "MobileDeviceOs": "Android 4.0",
+    "MobileDeviceRelease": 2012
+  },
+  {
+    "id": 339,
+    "MobileDeviceBrand": "BLU",
+    "MobileDeviceModel": "BLU Dash X LTE",
+    "MobileDeviceOs": "Android 5.1",
+    "MobileDeviceRelease": 2015
+  },
+  {
+    "id": 340,
+    "MobileDeviceBrand": "Bird",
+    "MobileDeviceModel": "Bird S789",
+    "MobileDeviceOs": "Feature phone",
+    "MobileDeviceRelease": 2005
+  },
+  {
+    "id": 341,
+    "MobileDeviceBrand": "Philips",
+    "MobileDeviceModel": "Philips D900",
+    "MobileDeviceOs": "Microsoft Windows Mobile OS",
+    "MobileDeviceRelease": 2010
+  },
+  {
+    "id": 342,
+    "MobileDeviceBrand": "ZTE",
+    "MobileDeviceModel": "ZTE Blade A520",
+    "MobileDeviceOs": "Android 7.0",
+    "MobileDeviceRelease": 2017
+  },
+  {
+    "id": 343,
+    "MobileDeviceBrand": "Samsung",
+    "MobileDeviceModel": "Samsung Galaxy Prevail 2",
+    "MobileDeviceOs": "Android 4.1",
+    "MobileDeviceRelease": 2013
+  },
+  {
+    "id": 344,
+    "MobileDeviceBrand": "vivo",
+    "MobileDeviceModel": "vivo iQOO U1x",
+    "MobileDeviceOs": "Android 10, IQOO UI 1.0",
+    "MobileDeviceRelease": 2020
+  },
+  {
+    "id": 345,
+    "MobileDeviceBrand": "Toshiba",
+    "MobileDeviceModel": "Toshiba Excite 10 AT305",
+    "MobileDeviceOs": "Android 4.0",
+    "MobileDeviceRelease": 2012
+  },
+  {
+    "id": 346,
+    "MobileDeviceBrand": "LG",
+    "MobileDeviceModel": "LG Watch Urbane 2nd Edition LTE",
+    "MobileDeviceOs": "Android Wear OS 2.1",
+    "MobileDeviceRelease": 2016
+  },
+  {
+    "id": 347,
+    "MobileDeviceBrand": "HTC",
+    "MobileDeviceModel": "HTC Incredible S",
+    "MobileDeviceOs": "Android 2.2, 2.3, up to 4.0, Sense UI 3.6",
+    "MobileDeviceRelease": 2011
+  },
+  {
+    "id": 348,
+    "MobileDeviceBrand": "Huawei",
+    "MobileDeviceModel": "Huawei MediaPad T2 7.0",
+    "MobileDeviceOs": "Android 6, EMUI 4",
+    "MobileDeviceRelease": 2016
+  },
+  {
+    "id": 349,
+    "MobileDeviceBrand": "Samsung",
+    "MobileDeviceModel": "Samsung Galaxy Tab S 8.4",
+    "MobileDeviceOs": "Android 4.4.2, up to 6.0, TouchWiz UI",
+    "MobileDeviceRelease": 2014
+  },
+  {
+    "id": 350,
+    "MobileDeviceBrand": "NIU",
+    "MobileDeviceModel": "NIU Z10",
+    "MobileDeviceOs": "Feature phone",
+    "MobileDeviceRelease": 2014
+  },
+  {
+    "id": 351,
+    "MobileDeviceBrand": "Motorola",
+    "MobileDeviceModel": "Motorola One (P30 Play)",
+    "MobileDeviceOs": "Android 8.1, up to Android 10, Android One",
+    "MobileDeviceRelease": 2018
+  },
+  {
+    "id": 352,
+    "MobileDeviceBrand": "alcatel",
+    "MobileDeviceModel": "alcatel OT 512",
+    "MobileDeviceOs": "Feature phone",
+    "MobileDeviceRelease": 2002
+  },
+  {
+    "id": 353,
+    "MobileDeviceBrand": "Spice",
+    "MobileDeviceModel": "Spice M-5750",
+    "MobileDeviceOs": "Feature phone",
+    "MobileDeviceRelease": 2011
+  },
+  {
+    "id": 354,
+    "MobileDeviceBrand": "Sony",
+    "MobileDeviceModel": "Sony Xperia X Premium",
+    "MobileDeviceOs": "Android 6.0.1",
+    "MobileDeviceRelease": 0
+  },
+  {
+    "id": 355,
+    "MobileDeviceBrand": "Sewon",
+    "MobileDeviceModel": "Sewon SG-2880CS",
+    "MobileDeviceOs": "Feature phone",
+    "MobileDeviceRelease": 2004
+  },
+  {
+    "id": 356,
+    "MobileDeviceBrand": "BLU",
+    "MobileDeviceModel": "BLU Life Play S",
+    "MobileDeviceOs": "Android 4.2",
+    "MobileDeviceRelease": 2014
+  },
+  {
+    "id": 357,
+    "MobileDeviceBrand": "Allview",
+    "MobileDeviceModel": "Allview X2 Soul Mini",
+    "MobileDeviceOs": "Android 4.4.2",
+    "MobileDeviceRelease": 2014
+  },
+  {
+    "id": 358,
+    "MobileDeviceBrand": "Blackview",
+    "MobileDeviceModel": "Blackview A7 Pro",
+    "MobileDeviceOs": "Android 7.0",
+    "MobileDeviceRelease": 2017
+  },
+  {
+    "id": 359,
+    "MobileDeviceBrand": "Sony",
+    "MobileDeviceModel": "Sony CMD Z1",
+    "MobileDeviceOs": "Feature phone",
+    "MobileDeviceRelease": 1997
+  },
+  {
+    "id": 360,
+    "MobileDeviceBrand": "Amazon",
+    "MobileDeviceModel": "Amazon Kindle Fire HD 8.9 LTE",
+    "MobileDeviceOs": "Android 4.0",
+    "MobileDeviceRelease": 2012
+  },
+  {
+    "id": 361,
+    "MobileDeviceBrand": "Samsung",
+    "MobileDeviceModel": "Samsung U100",
+    "MobileDeviceOs": "Feature phone",
+    "MobileDeviceRelease": 2007
+  },
+  {
+    "id": 362,
+    "MobileDeviceBrand": "Philips",
+    "MobileDeviceModel": "Philips Genie Sport",
+    "MobileDeviceOs": "Feature phone",
+    "MobileDeviceRelease": 1999
+  },
+  {
+    "id": 363,
+    "MobileDeviceBrand": "Energizer",
+    "MobileDeviceModel": "Energizer Energy 500",
+    "MobileDeviceOs": "Android 4.4",
+    "MobileDeviceRelease": 2015
+  },
+  {
+    "id": 364,
+    "MobileDeviceBrand": "Samsung",
+    "MobileDeviceModel": "Samsung Galaxy S6 edge+ Duos",
+    "MobileDeviceOs": "Android 5.1.1, up to 6.0.1, TouchWiz UI",
+    "MobileDeviceRelease": 2015
+  },
+  {
+    "id": 365,
+    "MobileDeviceBrand": "Motorola",
+    "MobileDeviceModel": "Motorola DROID RAZR MAXX",
+    "MobileDeviceOs": "Android 2.3.6, up to 4.1",
+    "MobileDeviceRelease": 2012
+  },
+  {
+    "id": 366,
+    "MobileDeviceBrand": "alcatel",
+    "MobileDeviceModel": "alcatel 3v (2019)",
+    "MobileDeviceOs": "Android 9.0",
+    "MobileDeviceRelease": 2019
+  },
+  {
+    "id": 367,
+    "MobileDeviceBrand": "Spice",
+    "MobileDeviceModel": "Spice QT-61",
+    "MobileDeviceOs": "Feature phone",
+    "MobileDeviceRelease": 2010
+  },
+  {
+    "id": 368,
+    "MobileDeviceBrand": "Samsung",
+    "MobileDeviceModel": "Samsung Galaxy A5 (2016)",
+    "MobileDeviceOs": "Android 5.1.1, up to 7.0",
+    "MobileDeviceRelease": 2015
+  },
+  {
+    "id": 369,
+    "MobileDeviceBrand": "Archos",
+    "MobileDeviceModel": "Archos Diamond Alpha",
+    "MobileDeviceOs": "Android 6.0",
+    "MobileDeviceRelease": 2017
+  },
+  {
+    "id": 370,
+    "MobileDeviceBrand": "Motorola",
+    "MobileDeviceModel": "Motorola M3788",
+    "MobileDeviceOs": "Feature phone",
+    "MobileDeviceRelease": 1999
+  },
+  {
+    "id": 371,
+    "MobileDeviceBrand": "Sony",
+    "MobileDeviceModel": "Sony Ericsson D750",
+    "MobileDeviceOs": "Feature phone",
+    "MobileDeviceRelease": 2005
+  },
+  {
+    "id": 372,
+    "MobileDeviceBrand": "Motorola",
+    "MobileDeviceModel": "Motorola W220",
+    "MobileDeviceOs": "Feature phone",
+    "MobileDeviceRelease": 2006
+  },
+  {
+    "id": 373,
+    "MobileDeviceBrand": "ZTE",
+    "MobileDeviceModel": "ZTE V5 Lux",
+    "MobileDeviceOs": "Android 4.4, nubia UI 2.5",
+    "MobileDeviceRelease": 2015
+  },
+  {
+    "id": 374,
+    "MobileDeviceBrand": "alcatel",
+    "MobileDeviceModel": "alcatel OT-222",
+    "MobileDeviceOs": "Feature phone",
+    "MobileDeviceRelease": 2009
+  },
+  {
+    "id": 375,
+    "MobileDeviceBrand": "Motorola",
+    "MobileDeviceModel": "Motorola Moto Z3 Play",
+    "MobileDeviceOs": "Android 8.1, up to Android 9.0",
+    "MobileDeviceRelease": 2018
+  },
+  {
+    "id": 376,
+    "MobileDeviceBrand": "Asus",
+    "MobileDeviceModel": "Asus Zenfone 4 Max Pro ZC554KL",
+    "MobileDeviceOs": "Android 7, ZenUI 4",
+    "MobileDeviceRelease": 2017
+  },
+  {
+    "id": 377,
+    "MobileDeviceBrand": "Tecno",
+    "MobileDeviceModel": "Tecno Phantom 6",
+    "MobileDeviceOs": "Android 6.0",
+    "MobileDeviceRelease": 2018
+  },
+  {
+    "id": 378,
+    "MobileDeviceBrand": "Siemens",
+    "MobileDeviceModel": "Siemens A52",
+    "MobileDeviceOs": "Feature phone",
+    "MobileDeviceRelease": 2003
+  },
+  {
+    "id": 379,
+    "MobileDeviceBrand": "Wiko",
+    "MobileDeviceModel": "Wiko View3 Pro",
+    "MobileDeviceOs": "Android 9.0",
+    "MobileDeviceRelease": 2019
+  },
+  {
+    "id": 380,
+    "MobileDeviceBrand": "Micromax",
+    "MobileDeviceModel": "Micromax GC700",
+    "MobileDeviceOs": "Feature phone",
+    "MobileDeviceRelease": 2010
+  },
+  {
+    "id": 381,
+    "MobileDeviceBrand": "Samsung",
+    "MobileDeviceModel": "Samsung Galaxy S II X T989D",
+    "MobileDeviceOs": "Android 2.3, up to 4.0.3",
+    "MobileDeviceRelease": 2011
+  },
+  {
+    "id": 382,
+    "MobileDeviceBrand": "Maxwest",
+    "MobileDeviceModel": "Maxwest Astro 4",
+    "MobileDeviceOs": "Android 4.4.2",
+    "MobileDeviceRelease": 2014
+  },
+  {
+    "id": 383,
+    "MobileDeviceBrand": "alcatel",
+    "MobileDeviceModel": "alcatel Idol 2 Mini S",
+    "MobileDeviceOs": "Android 4.3, up to 4.4",
+    "MobileDeviceRelease": 2014
+  },
+  {
+    "id": 384,
+    "MobileDeviceBrand": "Motorola",
+    "MobileDeviceModel": "Motorola Moto G7 Plus",
+    "MobileDeviceOs": "Android 9.0",
+    "MobileDeviceRelease": 2019
+  },
+  {
+    "id": 385,
+    "MobileDeviceBrand": "Gigabyte",
+    "MobileDeviceModel": "Gigabyte GSmart S1205",
+    "MobileDeviceOs": "Microsoft Windows Mobile 6.5 Professional",
+    "MobileDeviceRelease": 2010
+  },
+  {
+    "id": 386,
+    "MobileDeviceBrand": "Samsung",
+    "MobileDeviceModel": "Samsung E750",
+    "MobileDeviceOs": "Feature phone",
+    "MobileDeviceRelease": 2005
+  },
+  {
+    "id": 387,
+    "MobileDeviceBrand": "Philips",
+    "MobileDeviceModel": "Philips X622",
+    "MobileDeviceOs": "Feature phone",
+    "MobileDeviceRelease": 2011
+  },
+  {
+    "id": 388,
+    "MobileDeviceBrand": "alcatel",
+    "MobileDeviceModel": "alcatel OT-E105",
+    "MobileDeviceOs": "Feature phone",
+    "MobileDeviceRelease": 2006
+  },
+  {
+    "id": 389,
+    "MobileDeviceBrand": "Nokia",
+    "MobileDeviceModel": "Nokia 2100",
+    "MobileDeviceOs": "Feature phone",
+    "MobileDeviceRelease": 2003
+  },
+  {
+    "id": 390,
+    "MobileDeviceBrand": "verykool",
+    "MobileDeviceModel": "verykool s5518 Maverick",
+    "MobileDeviceOs": "Android 4.4.2, up to 5.0",
+    "MobileDeviceRelease": 2015
+  },
+  {
+    "id": 391,
+    "MobileDeviceBrand": "BLU",
+    "MobileDeviceModel": "BLU Brooklyn",
+    "MobileDeviceOs": "Feature phone",
+    "MobileDeviceRelease": 2013
+  },
+  {
+    "id": 392,
+    "MobileDeviceBrand": "Sony",
+    "MobileDeviceModel": "Sony Ericsson Jalou",
+    "MobileDeviceOs": "Feature phone",
+    "MobileDeviceRelease": 2009
+  },
+  {
+    "id": 393,
+    "MobileDeviceBrand": "BlackBerry",
+    "MobileDeviceModel": "BlackBerry Curve 3G 9330",
+    "MobileDeviceOs": "BlackBerry OS 5.0, up",
+    "MobileDeviceRelease": 2010
+  },
+  {
+    "id": 394,
+    "MobileDeviceBrand": "Asus",
+    "MobileDeviceModel": "Asus Zenfone 5 Lite A502CG (2014)",
+    "MobileDeviceOs": "Android 4.4.2",
+    "MobileDeviceRelease": 2014
+  },
+  {
+    "id": 395,
+    "MobileDeviceBrand": "Motorola",
+    "MobileDeviceModel": "Motorola W233 Renew",
+    "MobileDeviceOs": "Feature phone",
+    "MobileDeviceRelease": 2009
+  },
+  {
+    "id": 396,
+    "MobileDeviceBrand": "Huawei",
+    "MobileDeviceModel": "Huawei P40 lite",
+    "MobileDeviceOs": "Android 10, EMUI 10, no Google Play Services",
+    "MobileDeviceRelease": 2020
+  },
+  {
+    "id": 397,
+    "MobileDeviceBrand": "HTC",
+    "MobileDeviceModel": "HTC One S",
+    "MobileDeviceOs": "Android 4.0, up to 4.1.1, Sense UI",
+    "MobileDeviceRelease": 2012
+  },
+  {
+    "id": 398,
+    "MobileDeviceBrand": "Micromax",
+    "MobileDeviceModel": "Micromax X450",
+    "MobileDeviceOs": "Feature phone",
+    "MobileDeviceRelease": 2011
+  },
+  {
+    "id": 399,
+    "MobileDeviceBrand": "Samsung",
+    "MobileDeviceModel": "Samsung Q300",
+    "MobileDeviceOs": "Feature phone",
+    "MobileDeviceRelease": 2002
+  },
+  {
+    "id": 400,
+    "MobileDeviceBrand": "QMobile",
+    "MobileDeviceModel": "QMobile Noir i6 Metal HD",
+    "MobileDeviceOs": "Android 6.0",
+    "MobileDeviceRelease": 2016
+  },
+  {
+    "id": 401,
+    "MobileDeviceBrand": "Gionee",
+    "MobileDeviceModel": "Gionee M7 Plus",
+    "MobileDeviceOs": "Android 7.1, Amigo 5",
+    "MobileDeviceRelease": 2018
+  },
+  {
+    "id": 402,
+    "MobileDeviceBrand": "Ulefone",
+    "MobileDeviceModel": "Ulefone Armor 10 5G",
+    "MobileDeviceOs": "Android 10, planned upgrade to Android 11",
+    "MobileDeviceRelease": 2020
+  },
+  {
+    "id": 403,
+    "MobileDeviceBrand": "Celkon",
+    "MobileDeviceModel": "Celkon C99",
+    "MobileDeviceOs": "Feature phone",
+    "MobileDeviceRelease": 2010
+  },
+  {
+    "id": 404,
+    "MobileDeviceBrand": "Icemobile",
+    "MobileDeviceModel": "Icemobile Mash",
+    "MobileDeviceOs": "Feature phone",
+    "MobileDeviceRelease": 2016
+  },
+  {
+    "id": 405,
+    "MobileDeviceBrand": "iNQ",
+    "MobileDeviceModel": "iNQ Cloud Q",
+    "MobileDeviceOs": "Android 2.2",
+    "MobileDeviceRelease": 0
+  },
+  {
+    "id": 406,
+    "MobileDeviceBrand": "Sagem",
+    "MobileDeviceModel": "Sagem MW X1",
+    "MobileDeviceOs": "Feature phone",
+    "MobileDeviceRelease": 2001
+  },
+  {
+    "id": 407,
+    "MobileDeviceBrand": "Huawei",
+    "MobileDeviceModel": "Huawei Enjoy 10s",
+    "MobileDeviceOs": "Android 9.0, EMUI 9.1",
+    "MobileDeviceRelease": 2019
+  },
+  {
+    "id": 408,
+    "MobileDeviceBrand": "LG",
+    "MobileDeviceModel": "LG KF305",
+    "MobileDeviceOs": "Feature phone",
+    "MobileDeviceRelease": 2010
+  },
+  {
+    "id": 409,
+    "MobileDeviceBrand": "Motorola",
+    "MobileDeviceModel": "Motorola Moto X (2nd Gen)",
+    "MobileDeviceOs": "Android 4.4.4, up to 6.0",
+    "MobileDeviceRelease": 2014
+  },
+  {
+    "id": 410,
+    "MobileDeviceBrand": "Sewon",
+    "MobileDeviceModel": "Sewon SG-2100CS",
+    "MobileDeviceOs": "Feature phone",
+    "MobileDeviceRelease": 2004
+  },
+  {
+    "id": 411,
+    "MobileDeviceBrand": "Asus",
+    "MobileDeviceModel": "Asus Zenfone 3 Deluxe 5.5 ZS550KL",
+    "MobileDeviceOs": "Android 6.1, up to 7, ZenUI 3",
+    "MobileDeviceRelease": 2016
+  },
+  {
+    "id": 412,
+    "MobileDeviceBrand": "Realme",
+    "MobileDeviceModel": "Realme C15 Qualcomm Edition",
+    "MobileDeviceOs": "Android 10, up to Android 11, Realme UI 2.0",
+    "MobileDeviceRelease": 2020
+  },
+  {
+    "id": 413,
+    "MobileDeviceBrand": "Sonim",
+    "MobileDeviceModel": "Sonim XP3.20 Quest Pro",
+    "MobileDeviceOs": "Feature phone",
+    "MobileDeviceRelease": 2010
+  },
+  {
+    "id": 414,
+    "MobileDeviceBrand": "Sendo",
+    "MobileDeviceModel": "Sendo S360",
+    "MobileDeviceOs": "Feature phone",
+    "MobileDeviceRelease": 2004
+  },
+  {
+    "id": 415,
+    "MobileDeviceBrand": "Celkon",
+    "MobileDeviceModel": "Celkon CT-888",
+    "MobileDeviceOs": "Android 4.0.4",
+    "MobileDeviceRelease": 2014
+  },
+  {
+    "id": 416,
+    "MobileDeviceBrand": "LG",
+    "MobileDeviceModel": "LG Univa E510",
+    "MobileDeviceOs": "Android 2.3",
+    "MobileDeviceRelease": 0
+  },
+  {
+    "id": 417,
+    "MobileDeviceBrand": "Nokia",
+    "MobileDeviceModel": "Nokia N81",
+    "MobileDeviceOs": "Symbian OS 9.2, Series 60 v3.1 UI",
+    "MobileDeviceRelease": 2007
+  },
+  {
+    "id": 418,
+    "MobileDeviceBrand": "OnePlus",
+    "MobileDeviceModel": "OnePlus 3",
+    "MobileDeviceOs": "Android 6.0.1, up to Android 9.0",
+    "MobileDeviceRelease": 2016
+  },
+  {
+    "id": 419,
+    "MobileDeviceBrand": "HTC",
+    "MobileDeviceModel": "HTC Desire Eye",
+    "MobileDeviceOs": "Android 4.4.4, up to 6.1, Sense UI 7",
+    "MobileDeviceRelease": 2014
+  },
+  {
+    "id": 420,
+    "MobileDeviceBrand": "alcatel",
+    "MobileDeviceModel": "alcatel Hero 8",
+    "MobileDeviceOs": "Android 4.4.2",
+    "MobileDeviceRelease": 2014
+  },
+  {
+    "id": 421,
+    "MobileDeviceBrand": "Celkon",
+    "MobileDeviceModel": "Celkon C3030",
+    "MobileDeviceOs": "Feature phone",
+    "MobileDeviceRelease": 2012
+  },
+  {
+    "id": 422,
+    "MobileDeviceBrand": "LG",
+    "MobileDeviceModel": "LG KG810",
+    "MobileDeviceOs": "Feature phone",
+    "MobileDeviceRelease": 2006
+  },
+  {
+    "id": 423,
+    "MobileDeviceBrand": "Bird",
+    "MobileDeviceModel": "Bird S199",
+    "MobileDeviceOs": "Feature phone",
+    "MobileDeviceRelease": 2005
+  },
+  {
+    "id": 424,
+    "MobileDeviceBrand": "verykool",
+    "MobileDeviceModel": "verykool s470",
+    "MobileDeviceOs": "Android 4.2.1",
+    "MobileDeviceRelease": 2013
+  },
+  {
+    "id": 425,
+    "MobileDeviceBrand": "Prestigio",
+    "MobileDeviceModel": "Prestigio MultiPad 7.0 Prime +",
+    "MobileDeviceOs": "Android 4.0",
+    "MobileDeviceRelease": 2013
+  },
+  {
+    "id": 426,
+    "MobileDeviceBrand": "Samsung",
+    "MobileDeviceModel": "Samsung Galaxy Star 2 Plus",
+    "MobileDeviceOs": "Android 4.4.2",
+    "MobileDeviceRelease": 2014
+  },
+  {
+    "id": 427,
+    "MobileDeviceBrand": "Samsung",
+    "MobileDeviceModel": "Samsung D900",
+    "MobileDeviceOs": "Feature phone",
+    "MobileDeviceRelease": 2006
+  },
+  {
+    "id": 428,
+    "MobileDeviceBrand": "Samsung",
+    "MobileDeviceModel": "Samsung Galaxy S Light Luxury",
+    "MobileDeviceOs": "Android 8.0",
+    "MobileDeviceRelease": 2018
+  },
+  {
+    "id": 429,
+    "MobileDeviceBrand": "Honor",
+    "MobileDeviceModel": "Honor 8X Max",
+    "MobileDeviceOs": "Android 8.1, up to Android 9, EMUI 9",
+    "MobileDeviceRelease": 2018
+  },
+  {
+    "id": 430,
+    "MobileDeviceBrand": "Lenovo",
+    "MobileDeviceModel": "Lenovo A60+",
+    "MobileDeviceOs": "Android 2.3.6",
+    "MobileDeviceRelease": 2012
+  },
+  {
+    "id": 431,
+    "MobileDeviceBrand": "Palm",
+    "MobileDeviceModel": "Palm Pre Plus",
+    "MobileDeviceOs": "Palm webOS 1.3.5",
+    "MobileDeviceRelease": 2010
+  },
+  {
+    "id": 432,
+    "MobileDeviceBrand": "Nokia",
+    "MobileDeviceModel": "Nokia 6650",
+    "MobileDeviceOs": "Feature phone",
+    "MobileDeviceRelease": 2003
+  },
+  {
+    "id": 433,
+    "MobileDeviceBrand": "QMobile",
+    "MobileDeviceModel": "QMobile A1",
+    "MobileDeviceOs": "Android 5.1, up to 6.0",
+    "MobileDeviceRelease": 2015
+  },
+  {
+    "id": 434,
+    "MobileDeviceBrand": "Huawei",
+    "MobileDeviceModel": "Huawei Y9 (2019)",
+    "MobileDeviceOs": "Android 8.1, EMUI 8.2",
+    "MobileDeviceRelease": 2018
+  },
+  {
+    "id": 435,
+    "MobileDeviceBrand": "Lenovo",
+    "MobileDeviceModel": "Lenovo A536",
+    "MobileDeviceOs": "Android 4.4.2",
+    "MobileDeviceRelease": 2014
+  },
+  {
+    "id": 436,
+    "MobileDeviceBrand": "Karbonn",
+    "MobileDeviceModel": "Karbonn Smart A12 Star",
+    "MobileDeviceOs": "Android 4.4.2",
+    "MobileDeviceRelease": 2014
+  },
+  {
+    "id": 437,
+    "MobileDeviceBrand": "Gigabyte",
+    "MobileDeviceModel": "Gigabyte GSmart G1317 Rola",
+    "MobileDeviceOs": "Android 2.2",
+    "MobileDeviceRelease": 2011
+  },
+  {
+    "id": 438,
+    "MobileDeviceBrand": "Yezz",
+    "MobileDeviceModel": "Yezz Andy C5ML",
+    "MobileDeviceOs": "Android 4.4.2",
+    "MobileDeviceRelease": 2014
+  },
+  {
+    "id": 439,
+    "MobileDeviceBrand": "LG",
+    "MobileDeviceModel": "LG GS390 Prime",
+    "MobileDeviceOs": "Feature phone",
+    "MobileDeviceRelease": 2010
+  },
+  {
+    "id": 440,
+    "MobileDeviceBrand": "Samsung",
+    "MobileDeviceModel": "Samsung F250",
+    "MobileDeviceOs": "Feature phone",
+    "MobileDeviceRelease": 2008
+  },
+  {
+    "id": 441,
+    "MobileDeviceBrand": "Amoi",
+    "MobileDeviceModel": "Amoi A675",
+    "MobileDeviceOs": "Feature phone",
+    "MobileDeviceRelease": 2006
+  },
+  {
+    "id": 442,
+    "MobileDeviceBrand": "Motorola",
+    "MobileDeviceModel": "Motorola SPICE Key",
+    "MobileDeviceOs": "Android 2.3",
+    "MobileDeviceRelease": 2011
+  },
+  {
+    "id": 443,
+    "MobileDeviceBrand": "Maxwest",
+    "MobileDeviceModel": "Maxwest Vice",
+    "MobileDeviceOs": "Feature phone",
+    "MobileDeviceRelease": 2016
+  },
+  {
+    "id": 444,
+    "MobileDeviceBrand": "Philips",
+    "MobileDeviceModel": "Philips Savvy DB",
+    "MobileDeviceOs": "Feature phone",
+    "MobileDeviceRelease": 1999
+  },
+  {
+    "id": 445,
+    "MobileDeviceBrand": "Yezz",
+    "MobileDeviceModel": "Yezz Art 1 Pro",
+    "MobileDeviceOs": "Android 10",
+    "MobileDeviceRelease": 2020
+  },
+  {
+    "id": 446,
+    "MobileDeviceBrand": "BLU",
+    "MobileDeviceModel": "BLU Studio Mega",
+    "MobileDeviceOs": "Android 7.0",
+    "MobileDeviceRelease": 2017
+  },
+  {
+    "id": 447,
+    "MobileDeviceBrand": "Haier",
+    "MobileDeviceModel": "Haier M1100",
+    "MobileDeviceOs": "Feature phone",
+    "MobileDeviceRelease": 2005
+  },
+  {
+    "id": 448,
+    "MobileDeviceBrand": "Samsung",
+    "MobileDeviceModel": "Samsung U960 Rogue",
+    "MobileDeviceOs": "Feature phone",
+    "MobileDeviceRelease": 2009
+  },
+  {
+    "id": 449,
+    "MobileDeviceBrand": "LG",
+    "MobileDeviceModel": "LG Connect 4G MS840",
+    "MobileDeviceOs": "Android 2.3.5",
+    "MobileDeviceRelease": 2012
+  },
+  {
+    "id": 450,
+    "MobileDeviceBrand": "Karbonn",
+    "MobileDeviceModel": "Karbonn Titanium Wind W4",
+    "MobileDeviceOs": "Microsoft Windows Phone 8.1",
+    "MobileDeviceRelease": 2014
+  },
+  {
+    "id": 451,
+    "MobileDeviceBrand": "NEC",
+    "MobileDeviceModel": "NEC e808",
+    "MobileDeviceOs": "Feature phone",
+    "MobileDeviceRelease": 2003
+  },
+  {
+    "id": 452,
+    "MobileDeviceBrand": "Lava",
+    "MobileDeviceModel": "Lava A88",
+    "MobileDeviceOs": "Android 5.1",
+    "MobileDeviceRelease": 2016
+  },
+  {
+    "id": 453,
+    "MobileDeviceBrand": "Philips",
+    "MobileDeviceModel": "Philips Genie db",
+    "MobileDeviceOs": "Feature phone",
+    "MobileDeviceRelease": 1999
+  },
+  {
+    "id": 454,
+    "MobileDeviceBrand": "HTC",
+    "MobileDeviceModel": "HTC P3470",
+    "MobileDeviceOs": "Microsoft Windows Mobile 6.0 Professional",
+    "MobileDeviceRelease": 2008
+  },
+  {
+    "id": 455,
+    "MobileDeviceBrand": "Ericsson",
+    "MobileDeviceModel": "Ericsson GS 18",
+    "MobileDeviceOs": "Feature phone",
+    "MobileDeviceRelease": 1996
+  },
+  {
+    "id": 456,
+    "MobileDeviceBrand": "BLU",
+    "MobileDeviceModel": "BLU Dash 3.5",
+    "MobileDeviceOs": "Android 4.2",
+    "MobileDeviceRelease": 2012
+  },
+  {
+    "id": 457,
+    "MobileDeviceBrand": "Haier",
+    "MobileDeviceModel": "Haier V700",
+    "MobileDeviceOs": "Feature phone",
+    "MobileDeviceRelease": 2010
+  },
+  {
+    "id": 458,
+    "MobileDeviceBrand": "O2",
+    "MobileDeviceModel": "O2 X2i",
+    "MobileDeviceOs": "Feature phone",
+    "MobileDeviceRelease": 2005
+  },
+  {
+    "id": 459,
+    "MobileDeviceBrand": "Motorola",
+    "MobileDeviceModel": "Motorola XT701",
+    "MobileDeviceOs": "Android 2.0",
+    "MobileDeviceRelease": 2010
+  },
+  {
+    "id": 460,
+    "MobileDeviceBrand": "Asus",
+    "MobileDeviceModel": "Asus Zenfone 2 Laser ZE500KG",
+    "MobileDeviceOs": "Android 5.0, up to 6.0, ZenUI",
+    "MobileDeviceRelease": 2015
+  },
+  {
+    "id": 461,
+    "MobileDeviceBrand": "LG",
+    "MobileDeviceModel": "LG KH5200 Andro-1",
+    "MobileDeviceOs": "Android OS",
+    "MobileDeviceRelease": 2010
+  },
+  {
+    "id": 462,
+    "MobileDeviceBrand": "HTC",
+    "MobileDeviceModel": "HTC One M8s",
+    "MobileDeviceOs": "Android 5, Sense UI 7",
+    "MobileDeviceRelease": 2015
+  },
+  {
+    "id": 463,
+    "MobileDeviceBrand": "Samsung",
+    "MobileDeviceModel": "Samsung Ch@t 527",
+    "MobileDeviceOs": "Feature phone",
+    "MobileDeviceRelease": 2011
+  },
+  {
+    "id": 464,
+    "MobileDeviceBrand": "Micromax",
+    "MobileDeviceModel": "Micromax X288",
+    "MobileDeviceOs": "Feature phone",
+    "MobileDeviceRelease": 2012
+  },
+  {
+    "id": 465,
+    "MobileDeviceBrand": "Oppo",
+    "MobileDeviceModel": "Oppo Mirror 5",
+    "MobileDeviceOs": "Android 5.1, ColorOS 2.1",
+    "MobileDeviceRelease": 2015
+  },
+  {
+    "id": 466,
+    "MobileDeviceBrand": "Lava",
+    "MobileDeviceModel": "Lava Iris 504q",
+    "MobileDeviceOs": "Android 4.2",
+    "MobileDeviceRelease": 2013
+  },
+  {
+    "id": 467,
+    "MobileDeviceBrand": "Panasonic",
+    "MobileDeviceModel": "Panasonic GD67",
+    "MobileDeviceOs": "Feature phone",
+    "MobileDeviceRelease": 2002
+  },
+  {
+    "id": 468,
+    "MobileDeviceBrand": "LG",
+    "MobileDeviceModel": "LG M6100",
+    "MobileDeviceOs": "Feature phone",
+    "MobileDeviceRelease": 2006
+  },
+  {
+    "id": 469,
+    "MobileDeviceBrand": "Haier",
+    "MobileDeviceModel": "Haier V6200",
+    "MobileDeviceOs": "Feature phone",
+    "MobileDeviceRelease": 2004
+  },
+  {
+    "id": 470,
+    "MobileDeviceBrand": "Unnecto",
+    "MobileDeviceModel": "Unnecto Swift",
+    "MobileDeviceOs": "Android 5.1",
+    "MobileDeviceRelease": 2015
+  },
+  {
+    "id": 471,
+    "MobileDeviceBrand": "Motorola",
+    "MobileDeviceModel": "Motorola C116",
+    "MobileDeviceOs": "Feature phone",
+    "MobileDeviceRelease": 2004
+  },
+  {
+    "id": 472,
+    "MobileDeviceBrand": "QMobile",
+    "MobileDeviceModel": "QMobile Noir M90",
+    "MobileDeviceOs": "Android 4.2, up to 4.4.2",
+    "MobileDeviceRelease": 2014
+  },
+  {
+    "id": 473,
+    "MobileDeviceBrand": "Lava",
+    "MobileDeviceModel": "Lava Z92",
+    "MobileDeviceOs": "Android 8.1 Oreo",
+    "MobileDeviceRelease": 2019
+  },
+  {
+    "id": 474,
+    "MobileDeviceBrand": "iNQ",
+    "MobileDeviceModel": "iNQ Cloud Touch",
+    "MobileDeviceOs": "Android 2.2",
+    "MobileDeviceRelease": 2011
+  },
+  {
+    "id": 475,
+    "MobileDeviceBrand": "Bird",
+    "MobileDeviceModel": "Bird M01",
+    "MobileDeviceOs": "Feature phone",
+    "MobileDeviceRelease": 2007
+  },
+  {
+    "id": 476,
+    "MobileDeviceBrand": "Huawei",
+    "MobileDeviceModel": "Huawei U8100",
+    "MobileDeviceOs": "Android 2.1",
+    "MobileDeviceRelease": 2010
+  },
+  {
+    "id": 477,
+    "MobileDeviceBrand": "Yezz",
+    "MobileDeviceModel": "Yezz Andy A4.5",
+    "MobileDeviceOs": "Android 4.2",
+    "MobileDeviceRelease": 2013
+  },
+  {
+    "id": 478,
+    "MobileDeviceBrand": "Motorola",
+    "MobileDeviceModel": "Motorola DROID PRO XT610",
+    "MobileDeviceOs": "Android 2.2, up to 2.3",
+    "MobileDeviceRelease": 2010
+  },
+  {
+    "id": 479,
+    "MobileDeviceBrand": "Energizer",
+    "MobileDeviceModel": "Energizer Hardcase H242S",
+    "MobileDeviceOs": "KaiOS",
+    "MobileDeviceRelease": 0
+  },
+  {
+    "id": 480,
+    "MobileDeviceBrand": "Lenovo",
+    "MobileDeviceModel": "Lenovo A6000",
+    "MobileDeviceOs": "Android 4.4.4",
+    "MobileDeviceRelease": 2015
+  },
+  {
+    "id": 481,
+    "MobileDeviceBrand": "Huawei",
+    "MobileDeviceModel": "Huawei nova 6 SE",
+    "MobileDeviceOs": "Android 10, EMUI 10, no Google Play Services",
+    "MobileDeviceRelease": 2019
+  },
+  {
+    "id": 482,
+    "MobileDeviceBrand": "Huawei",
+    "MobileDeviceModel": "Huawei nova 8 5G",
+    "MobileDeviceOs": "Android 10, EMUI 11, no Google Play Services",
+    "MobileDeviceRelease": 2021
+  },
+  {
+    "id": 483,
+    "MobileDeviceBrand": "Microsoft",
+    "MobileDeviceModel": "Microsoft Surface Duo",
+    "MobileDeviceOs": "Android 10",
+    "MobileDeviceRelease": 2020
+  },
+  {
+    "id": 484,
+    "MobileDeviceBrand": "Micromax",
+    "MobileDeviceModel": "Micromax X234+",
+    "MobileDeviceOs": "Feature phone",
+    "MobileDeviceRelease": 2012
+  },
+  {
+    "id": 485,
+    "MobileDeviceBrand": "T-Mobile",
+    "MobileDeviceModel": "T-Mobile Concord",
+    "MobileDeviceOs": "Android 2.3.5",
+    "MobileDeviceRelease": 2012
+  },
+  {
+    "id": 486,
+    "MobileDeviceBrand": "BLU",
+    "MobileDeviceModel": "BLU Touch Book 7.0 Plus",
+    "MobileDeviceOs": "Android 4.0",
+    "MobileDeviceRelease": 2012
+  },
+  {
+    "id": 487,
+    "MobileDeviceBrand": "BQ",
+    "MobileDeviceModel": "BQ Aquaris X",
+    "MobileDeviceOs": "Android 7.1.1",
+    "MobileDeviceRelease": 2017
+  },
+  {
+    "id": 488,
+    "MobileDeviceBrand": "vivo",
+    "MobileDeviceModel": "vivo Xplay5",
+    "MobileDeviceOs": "Android 5.1, Funtouch 2.5",
+    "MobileDeviceRelease": 2016
+  },
+  {
+    "id": 489,
+    "MobileDeviceBrand": "Energizer",
+    "MobileDeviceModel": "Energizer Energy E220",
+    "MobileDeviceOs": "KaiOS",
+    "MobileDeviceRelease": 2019
+  },
+  {
+    "id": 490,
+    "MobileDeviceBrand": "LG",
+    "MobileDeviceModel": "LG K20 plus",
+    "MobileDeviceOs": "Android 7.0",
+    "MobileDeviceRelease": 2016
+  },
+  {
+    "id": 491,
+    "MobileDeviceBrand": "LG",
+    "MobileDeviceModel": "LG KG220",
+    "MobileDeviceOs": "Feature phone",
+    "MobileDeviceRelease": 2006
+  },
+  {
+    "id": 492,
+    "MobileDeviceBrand": "Celkon",
+    "MobileDeviceModel": "Celkon A225",
+    "MobileDeviceOs": "Android 4.1",
+    "MobileDeviceRelease": 2013
+  },
+  {
+    "id": 493,
+    "MobileDeviceBrand": "Nokia",
+    "MobileDeviceModel": "Nokia 3660",
+    "MobileDeviceOs": "Symbian 6.1, Series 60 v1.0 UI",
+    "MobileDeviceRelease": 2003
+  },
+  {
+    "id": 494,
+    "MobileDeviceBrand": "Philips",
+    "MobileDeviceModel": "Philips W626",
+    "MobileDeviceOs": "Android 2.3",
+    "MobileDeviceRelease": 2011
+  },
+  {
+    "id": 495,
+    "MobileDeviceBrand": "LG",
+    "MobileDeviceModel": "LG G3 Screen",
+    "MobileDeviceOs": "Android 4.4.4",
+    "MobileDeviceRelease": 2014
+  },
+  {
+    "id": 496,
+    "MobileDeviceBrand": "Motorola",
+    "MobileDeviceModel": "Motorola Moto E6s (2020)",
+    "MobileDeviceOs": "Android 9.0",
+    "MobileDeviceRelease": 2020
+  },
+  {
+    "id": 497,
+    "MobileDeviceBrand": "Celkon",
+    "MobileDeviceModel": "Celkon ARR35",
+    "MobileDeviceOs": "Feature phone",
+    "MobileDeviceRelease": 2014
+  },
+  {
+    "id": 498,
+    "MobileDeviceBrand": "Samsung",
+    "MobileDeviceModel": "Samsung C5130",
+    "MobileDeviceOs": "Feature phone",
+    "MobileDeviceRelease": 2010
+  },
+  {
+    "id": 499,
+    "MobileDeviceBrand": "Samsung",
+    "MobileDeviceModel": "Samsung T409",
+    "MobileDeviceOs": "Feature phone",
+    "MobileDeviceRelease": 2007
+  },
+  {
+    "id": 500,
+    "MobileDeviceBrand": "Maxwest",
+    "MobileDeviceModel": "Maxwest MX-200TV",
+    "MobileDeviceOs": "Feature phone",
+    "MobileDeviceRelease": 2013
+  },
+  {
+    "id": 501,
+    "MobileDeviceBrand": "Samsung",
+    "MobileDeviceModel": "Samsung E3213 Hero",
+    "MobileDeviceOs": "Feature phone",
+    "MobileDeviceRelease": 2011
+  },
+  {
+    "id": 502,
+    "MobileDeviceBrand": "Allview",
+    "MobileDeviceModel": "Allview X3 Soul Style",
+    "MobileDeviceOs": "Android 6.0",
+    "MobileDeviceRelease": 2016
+  },
+  {
+    "id": 503,
+    "MobileDeviceBrand": "Siemens",
+    "MobileDeviceModel": "Siemens A50",
+    "MobileDeviceOs": "Feature phone",
+    "MobileDeviceRelease": 2002
+  },
+  {
+    "id": 504,
+    "MobileDeviceBrand": "Philips",
+    "MobileDeviceModel": "Philips Xenium 9@9 ++",
+    "MobileDeviceOs": "Feature phone",
+    "MobileDeviceRelease": 2003
+  },
+  {
+    "id": 505,
+    "MobileDeviceBrand": "Micromax",
+    "MobileDeviceModel": "Micromax X560",
+    "MobileDeviceOs": "Feature phone",
+    "MobileDeviceRelease": 2010
+  },
+  {
+    "id": 506,
+    "MobileDeviceBrand": "LG",
+    "MobileDeviceModel": "LG U830",
+    "MobileDeviceOs": "Feature phone",
+    "MobileDeviceRelease": 2006
+  },
+  {
+    "id": 507,
+    "MobileDeviceBrand": "Chea",
+    "MobileDeviceModel": "Chea A90",
+    "MobileDeviceOs": "Feature phone",
+    "MobileDeviceRelease": 2004
+  },
+  {
+    "id": 508,
+    "MobileDeviceBrand": "Samsung",
+    "MobileDeviceModel": "Samsung T469 Gravity 2",
+    "MobileDeviceOs": "Feature phone",
+    "MobileDeviceRelease": 2009
+  },
+  {
+    "id": 509,
+    "MobileDeviceBrand": "QMobile",
+    "MobileDeviceModel": "QMobile Noir i5",
+    "MobileDeviceOs": "Android 4.2, up to 4.4",
+    "MobileDeviceRelease": 2014
+  },
+  {
+    "id": 510,
+    "MobileDeviceBrand": "VK",
+    "MobileDeviceModel": "VK Mobile VK570",
+    "MobileDeviceOs": "Feature phone",
+    "MobileDeviceRelease": 2005
+  },
+  {
+    "id": 511,
+    "MobileDeviceBrand": "Pantech",
+    "MobileDeviceModel": "Pantech GB200",
+    "MobileDeviceOs": "Feature phone",
+    "MobileDeviceRelease": 2004
+  },
+  {
+    "id": 512,
+    "MobileDeviceBrand": "Samsung",
+    "MobileDeviceModel": "Samsung Galaxy On7 (2016)",
+    "MobileDeviceOs": "Android 6.0.1, up to Android 8.0",
+    "MobileDeviceRelease": 2016
+  },
+  {
+    "id": 513,
+    "MobileDeviceBrand": "Samsung",
+    "MobileDeviceModel": "Samsung i770 Saga",
+    "MobileDeviceOs": "Microsoft Windows Mobile 6.1 Professional",
+    "MobileDeviceRelease": 2008
+  },
+  {
+    "id": 514,
+    "MobileDeviceBrand": "LG",
+    "MobileDeviceModel": "LG W10 Alpha",
+    "MobileDeviceOs": "Android 9.0",
+    "MobileDeviceRelease": 2020
+  },
+  {
+    "id": 515,
+    "MobileDeviceBrand": "HP",
+    "MobileDeviceModel": "HP Slate6 VoiceTab II",
+    "MobileDeviceOs": "Android 4.4.2",
+    "MobileDeviceRelease": 2014
+  },
+  {
+    "id": 516,
+    "MobileDeviceBrand": "LG",
+    "MobileDeviceModel": "LG Optimus L4 II E440",
+    "MobileDeviceOs": "Android 4.1.2",
+    "MobileDeviceRelease": 2013
+  },
+  {
+    "id": 517,
+    "MobileDeviceBrand": "LG",
+    "MobileDeviceModel": "LG KU250",
+    "MobileDeviceOs": "Feature phone",
+    "MobileDeviceRelease": 2007
+  },
+  {
+    "id": 518,
+    "MobileDeviceBrand": "Orange",
+    "MobileDeviceModel": "Orange Rono",
+    "MobileDeviceOs": "Android 4.4.2",
+    "MobileDeviceRelease": 2014
+  },
+  {
+    "id": 519,
+    "MobileDeviceBrand": "alcatel",
+    "MobileDeviceModel": "alcatel Pop 2 (4)",
+    "MobileDeviceOs": "Android 5.0",
+    "MobileDeviceRelease": 2015
+  },
+  {
+    "id": 520,
+    "MobileDeviceBrand": "HTC",
+    "MobileDeviceModel": "HTC Desire L",
+    "MobileDeviceOs": "Android 4.1.2",
+    "MobileDeviceRelease": 2013
+  },
+  {
+    "id": 521,
+    "MobileDeviceBrand": "vivo",
+    "MobileDeviceModel": "vivo iQOO 5 5G",
+    "MobileDeviceOs": "Android 10, IQOO UI 1.5",
+    "MobileDeviceRelease": 2020
+  },
+  {
+    "id": 522,
+    "MobileDeviceBrand": "vivo",
+    "MobileDeviceModel": "vivo S7e",
+    "MobileDeviceOs": "Android 10, Funtouch 10.5",
+    "MobileDeviceRelease": 2020
+  },
+  {
+    "id": 523,
+    "MobileDeviceBrand": "Sony",
+    "MobileDeviceModel": "Sony Ericsson W888",
+    "MobileDeviceOs": "Feature phone",
+    "MobileDeviceRelease": 2007
+  },
+  {
+    "id": 524,
+    "MobileDeviceBrand": "vivo",
+    "MobileDeviceModel": "vivo X27",
+    "MobileDeviceOs": "Android 9.0, Funtouch 9",
+    "MobileDeviceRelease": 2019
+  },
+  {
+    "id": 525,
+    "MobileDeviceBrand": "Xiaomi",
+    "MobileDeviceModel": "Xiaomi Redmi K30 5G Racing",
+    "MobileDeviceOs": "Android 10, MIUI 11",
+    "MobileDeviceRelease": 2020
+  },
+  {
+    "id": 526,
+    "MobileDeviceBrand": "Celkon",
+    "MobileDeviceModel": "Celkon C404",
+    "MobileDeviceOs": "Feature phone",
+    "MobileDeviceRelease": 2011
+  },
+  {
+    "id": 527,
+    "MobileDeviceBrand": "Icemobile",
+    "MobileDeviceModel": "Icemobile Apollo 3G",
+    "MobileDeviceOs": "Android 4.2.2",
+    "MobileDeviceRelease": 2014
+  },
+  {
+    "id": 528,
+    "MobileDeviceBrand": "Ericsson",
+    "MobileDeviceModel": "Ericsson GF 388",
+    "MobileDeviceOs": "Feature phone",
+    "MobileDeviceRelease": 1995
+  },
+  {
+    "id": 529,
+    "MobileDeviceBrand": "Asus",
+    "MobileDeviceModel": "Asus Zenfone 4 Max Pro ZC554KL",
+    "MobileDeviceOs": "Android 7, ZenUI 4",
+    "MobileDeviceRelease": 2017
+  },
+  {
+    "id": 530,
+    "MobileDeviceBrand": "Samsung",
+    "MobileDeviceModel": "Samsung Galaxy Tab Active LTE",
+    "MobileDeviceOs": "Android 4.4.2, TouchWiz UI",
+    "MobileDeviceRelease": 2014
+  },
+  {
+    "id": 531,
+    "MobileDeviceBrand": "LG",
+    "MobileDeviceModel": "LG KU730",
+    "MobileDeviceOs": "Feature phone",
+    "MobileDeviceRelease": 2006
+  },
+  {
+    "id": 532,
+    "MobileDeviceBrand": "Panasonic",
+    "MobileDeviceModel": "Panasonic Toughpad JT-B1",
+    "MobileDeviceOs": "Android 3.2",
+    "MobileDeviceRelease": 2012
+  },
+  {
+    "id": 533,
+    "MobileDeviceBrand": "Amoi",
+    "MobileDeviceModel": "Amoi H815",
+    "MobileDeviceOs": "Feature phone",
+    "MobileDeviceRelease": 2006
+  },
+  {
+    "id": 534,
+    "MobileDeviceBrand": "Nokia",
+    "MobileDeviceModel": "Nokia 2630",
+    "MobileDeviceOs": "Feature phone",
+    "MobileDeviceRelease": 2007
+  },
+  {
+    "id": 535,
+    "MobileDeviceBrand": "verykool",
+    "MobileDeviceModel": "verykool s4002 Leo",
+    "MobileDeviceOs": "Android 4.4.2",
+    "MobileDeviceRelease": 2015
+  },
+  {
+    "id": 536,
+    "MobileDeviceBrand": "Nokia",
+    "MobileDeviceModel": "Nokia 5130 XpressMusic",
+    "MobileDeviceOs": "Feature phone",
+    "MobileDeviceRelease": 2009
+  },
+  {
+    "id": 537,
+    "MobileDeviceBrand": "YU",
+    "MobileDeviceModel": "YU Yunicorn",
+    "MobileDeviceOs": "Android 5.1.1",
+    "MobileDeviceRelease": 2016
+  },
+  {
+    "id": 538,
+    "MobileDeviceBrand": "ZTE",
+    "MobileDeviceModel": "ZTE Skate Acqua",
+    "MobileDeviceOs": "Android 4.0",
+    "MobileDeviceRelease": 2012
+  },
+  {
+    "id": 539,
+    "MobileDeviceBrand": "LG",
+    "MobileDeviceModel": "LG G Flex",
+    "MobileDeviceOs": "Android 4.2.2, up to 4.4.2",
+    "MobileDeviceRelease": 2013
+  },
+  {
+    "id": 540,
+    "MobileDeviceBrand": "Plum",
+    "MobileDeviceModel": "Plum Link",
+    "MobileDeviceOs": "Android 4.0",
+    "MobileDeviceRelease": 2012
+  },
+  {
+    "id": 541,
+    "MobileDeviceBrand": "Gionee",
+    "MobileDeviceModel": "Gionee Ctrl V4s",
+    "MobileDeviceOs": "Android 4.4.2",
+    "MobileDeviceRelease": 2014
+  },
+  {
+    "id": 542,
+    "MobileDeviceBrand": "Lenovo",
+    "MobileDeviceModel": "Lenovo B",
+    "MobileDeviceOs": "Android 6.0",
+    "MobileDeviceRelease": 2016
+  },
+  {
+    "id": 543,
+    "MobileDeviceBrand": "Micromax",
+    "MobileDeviceModel": "Micromax A85",
+    "MobileDeviceOs": "Android 2.2",
+    "MobileDeviceRelease": 2011
+  },
+  {
+    "id": 544,
+    "MobileDeviceBrand": "BQ",
+    "MobileDeviceModel": "BQ Aquaris V",
+    "MobileDeviceOs": "Android 7.1.2, up to Android 8.0",
+    "MobileDeviceRelease": 2017
+  },
+  {
+    "id": 545,
+    "MobileDeviceBrand": "verykool",
+    "MobileDeviceModel": "verykool s4513 Luna II",
+    "MobileDeviceOs": "Android 6.0",
+    "MobileDeviceRelease": 2017
+  },
+  {
+    "id": 546,
+    "MobileDeviceBrand": "Nokia",
+    "MobileDeviceModel": "Nokia 7200",
+    "MobileDeviceOs": "Feature phone",
+    "MobileDeviceRelease": 2003
+  },
+  {
+    "id": 547,
+    "MobileDeviceBrand": "Pantech",
+    "MobileDeviceModel": "Pantech GI100",
+    "MobileDeviceOs": "Feature phone",
+    "MobileDeviceRelease": 2004
+  },
+  {
+    "id": 548,
+    "MobileDeviceBrand": "Honor",
+    "MobileDeviceModel": "Honor 9X",
+    "MobileDeviceOs": "Android 9.0, EMUI 9.1",
+    "MobileDeviceRelease": 2019
+  },
+  {
+    "id": 549,
+    "MobileDeviceBrand": "Realme",
+    "MobileDeviceModel": "Realme Q",
+    "MobileDeviceOs": "Android 9.0, ColorOS 6",
+    "MobileDeviceRelease": 2019
+  },
+  {
+    "id": 550,
+    "MobileDeviceBrand": "Samsung",
+    "MobileDeviceModel": "Samsung T200",
+    "MobileDeviceOs": "Feature phone",
+    "MobileDeviceRelease": 2002
+  },
+  {
+    "id": 551,
+    "MobileDeviceBrand": "Bird",
+    "MobileDeviceModel": "Bird M11",
+    "MobileDeviceOs": "Feature phone",
+    "MobileDeviceRelease": 0
+  },
+  {
+    "id": 552,
+    "MobileDeviceBrand": "Samsung",
+    "MobileDeviceModel": "Samsung P705",
+    "MobileDeviceOs": "Feature phone",
+    "MobileDeviceRelease": 0
+  },
+  {
+    "id": 553,
+    "MobileDeviceBrand": "vivo",
+    "MobileDeviceModel": "vivo Z5i",
+    "MobileDeviceOs": "Android 9.0, Funtouch 9.2",
+    "MobileDeviceRelease": 2019
+  },
+  {
+    "id": 554,
+    "MobileDeviceBrand": "LG",
+    "MobileDeviceModel": "LG Tribute Empire",
+    "MobileDeviceOs": "Android 8.1",
+    "MobileDeviceRelease": 2019
+  },
+  {
+    "id": 555,
+    "MobileDeviceBrand": "Motorola",
+    "MobileDeviceModel": "Motorola Moto E4 (USA)",
+    "MobileDeviceOs": "Android 7.1",
+    "MobileDeviceRelease": 2017
+  },
+  {
+    "id": 556,
+    "MobileDeviceBrand": "Gigabyte",
+    "MobileDeviceModel": "Gigabyte GSmart Mika MX",
+    "MobileDeviceOs": "Android 4.4",
+    "MobileDeviceRelease": 2015
+  },
+  {
+    "id": 557,
+    "MobileDeviceBrand": "Samsung",
+    "MobileDeviceModel": "Samsung S730i",
+    "MobileDeviceOs": "Feature phone",
+    "MobileDeviceRelease": 2007
+  },
+  {
+    "id": 558,
+    "MobileDeviceBrand": "Pantech",
+    "MobileDeviceModel": "Pantech PG-1400",
+    "MobileDeviceOs": "Feature phone",
+    "MobileDeviceRelease": 2005
+  },
+  {
+    "id": 559,
+    "MobileDeviceBrand": "alcatel",
+    "MobileDeviceModel": "alcatel OT 715",
+    "MobileDeviceOs": "Feature phone",
+    "MobileDeviceRelease": 2002
+  },
+  {
+    "id": 560,
+    "MobileDeviceBrand": "Xiaomi",
+    "MobileDeviceModel": "Xiaomi Redmi 10X Pro 5G",
+    "MobileDeviceOs": "Android 10, MIUI 11",
+    "MobileDeviceRelease": 2020
+  },
+  {
+    "id": 561,
+    "MobileDeviceBrand": "Nokia",
+    "MobileDeviceModel": "Nokia 5.1 Plus (Nokia X5)",
+    "MobileDeviceOs": "Android 8.1, up to Android 10, Android One",
+    "MobileDeviceRelease": 2018
+  },
+  {
+    "id": 562,
+    "MobileDeviceBrand": "BlackBerry",
+    "MobileDeviceModel": "BlackBerry 8800",
+    "MobileDeviceOs": "BlackBerry OS",
+    "MobileDeviceRelease": 2007
+  },
+  {
+    "id": 563,
+    "MobileDeviceBrand": "Samsung",
+    "MobileDeviceModel": "Samsung Galaxy Fame Lite S6790",
+    "MobileDeviceOs": "Android 4.1.2",
+    "MobileDeviceRelease": 2013
+  },
+  {
+    "id": 564,
+    "MobileDeviceBrand": "ZTE",
+    "MobileDeviceModel": "ZTE Avid 4G",
+    "MobileDeviceOs": "Android 4.0",
+    "MobileDeviceRelease": 2012
+  },
+  {
+    "id": 565,
+    "MobileDeviceBrand": "Innostream",
+    "MobileDeviceModel": "Innostream INNO P10",
+    "MobileDeviceOs": "Feature phone",
+    "MobileDeviceRelease": 2005
+  },
+  {
+    "id": 566,
+    "MobileDeviceBrand": "O2",
+    "MobileDeviceModel": "O2 XDA Atom Life",
+    "MobileDeviceOs": "Microsoft Windows Mobile 5.0 PocketPC",
+    "MobileDeviceRelease": 2007
+  },
+  {
+    "id": 567,
+    "MobileDeviceBrand": "Motorola",
+    "MobileDeviceModel": "Motorola MOTOKEY Mini EX109",
+    "MobileDeviceOs": "Feature phone",
+    "MobileDeviceRelease": 2011
+  },
+  {
+    "id": 568,
+    "MobileDeviceBrand": "alcatel",
+    "MobileDeviceModel": "alcatel Pop D5",
+    "MobileDeviceOs": "Android 4.4.2",
+    "MobileDeviceRelease": 2014
+  },
+  {
+    "id": 569,
+    "MobileDeviceBrand": "Celkon",
+    "MobileDeviceModel": "Celkon C227",
+    "MobileDeviceOs": "Feature phone",
+    "MobileDeviceRelease": 2011
+  },
+  {
+    "id": 570,
+    "MobileDeviceBrand": "Huawei",
+    "MobileDeviceModel": "Huawei Mate 20 X",
+    "MobileDeviceOs": "Android 9.0, EMUI 9.1",
+    "MobileDeviceRelease": 2018
+  },
+  {
+    "id": 571,
+    "MobileDeviceBrand": "Samsung",
+    "MobileDeviceModel": "Samsung E2130",
+    "MobileDeviceOs": "Feature phone",
+    "MobileDeviceRelease": 2009
+  },
+  {
+    "id": 572,
+    "MobileDeviceBrand": "Huawei",
+    "MobileDeviceModel": "Huawei Y7a",
+    "MobileDeviceOs": "Android 10, EMUI 10.1",
+    "MobileDeviceRelease": 2020
+  },
+  {
+    "id": 573,
+    "MobileDeviceBrand": "Huawei",
+    "MobileDeviceModel": "Huawei Ascend P6 S",
+    "MobileDeviceOs": "Android 4.2.2, up to 4.4.2, EMUI 2",
+    "MobileDeviceRelease": 2014
+  },
+  {
+    "id": 574,
+    "MobileDeviceBrand": "Nokia",
+    "MobileDeviceModel": "Nokia 7250i",
+    "MobileDeviceOs": "Feature phone",
+    "MobileDeviceRelease": 2003
+  },
+  {
+    "id": 575,
+    "MobileDeviceBrand": "vivo",
+    "MobileDeviceModel": "vivo X5Max Platinum Edition",
+    "MobileDeviceOs": "Android 4.4.4, Funtouch 2",
+    "MobileDeviceRelease": 2015
+  },
+  {
+    "id": 576,
+    "MobileDeviceBrand": "HP",
+    "MobileDeviceModel": "HP Slate8 Pro",
+    "MobileDeviceOs": "Android 4.2.2",
+    "MobileDeviceRelease": 2013
+  },
+  {
+    "id": 577,
+    "MobileDeviceBrand": "Allview",
+    "MobileDeviceModel": "Allview V2 Viper i4G",
+    "MobileDeviceOs": "Android 5.1",
+    "MobileDeviceRelease": 2016
+  },
+  {
+    "id": 578,
+    "MobileDeviceBrand": "BLU",
+    "MobileDeviceModel": "BLU Vivo 5",
+    "MobileDeviceOs": "Android 5.1, up to 6.0",
+    "MobileDeviceRelease": 2016
+  },
+  {
+    "id": 579,
+    "MobileDeviceBrand": "ZTE",
+    "MobileDeviceModel": "ZTE Blade V7 Lite",
+    "MobileDeviceOs": "Android 6.0",
+    "MobileDeviceRelease": 2016
+  },
+  {
+    "id": 580,
+    "MobileDeviceBrand": "Celkon",
+    "MobileDeviceModel": "Celkon C206",
+    "MobileDeviceOs": "Feature phone",
+    "MobileDeviceRelease": 2012
+  },
+  {
+    "id": 581,
+    "MobileDeviceBrand": "Sony",
+    "MobileDeviceModel": "Sony Ericsson K510",
+    "MobileDeviceOs": "Feature phone",
+    "MobileDeviceRelease": 2006
+  },
+  {
+    "id": 582,
+    "MobileDeviceBrand": "Samsung",
+    "MobileDeviceModel": "Samsung Galaxy A8 Star (A9 Star)",
+    "MobileDeviceOs": "Android 8.0, up to Android 9.0, One UI",
+    "MobileDeviceRelease": 2018
+  },
+  {
+    "id": 583,
+    "MobileDeviceBrand": "Nokia",
+    "MobileDeviceModel": "Nokia X",
+    "MobileDeviceOs": "Android 4.1.2, X platform 1.1",
+    "MobileDeviceRelease": 2014
+  },
+  {
+    "id": 584,
+    "MobileDeviceBrand": "LG",
+    "MobileDeviceModel": "LG BL40 New Chocolate",
+    "MobileDeviceOs": "Feature phone",
+    "MobileDeviceRelease": 2009
+  },
+  {
+    "id": 585,
+    "MobileDeviceBrand": "LG",
+    "MobileDeviceModel": "LG GB250",
+    "MobileDeviceOs": "Feature phone",
+    "MobileDeviceRelease": 2009
+  },
+  {
+    "id": 586,
+    "MobileDeviceBrand": "Samsung",
+    "MobileDeviceModel": "Samsung N105",
+    "MobileDeviceOs": "Feature phone",
+    "MobileDeviceRelease": 2001
+  },
+  {
+    "id": 587,
+    "MobileDeviceBrand": "Coolpad",
+    "MobileDeviceModel": "Coolpad Cool 5",
+    "MobileDeviceOs": "Android 9.0",
+    "MobileDeviceRelease": 2019
+  },
+  {
+    "id": 588,
+    "MobileDeviceBrand": "Sharp",
+    "MobileDeviceModel": "Sharp 880SH",
+    "MobileDeviceOs": "Feature phone",
+    "MobileDeviceRelease": 2007
+  },
+  {
+    "id": 589,
+    "MobileDeviceBrand": "Infinix",
+    "MobileDeviceModel": "Infinix Hot S",
+    "MobileDeviceOs": "Android 6.0",
+    "MobileDeviceRelease": 2016
+  },
+  {
+    "id": 590,
+    "MobileDeviceBrand": "Nokia",
+    "MobileDeviceModel": "Nokia 3120 classic",
+    "MobileDeviceOs": "Feature phone",
+    "MobileDeviceRelease": 2008
+  },
+  {
+    "id": 591,
+    "MobileDeviceBrand": "Huawei",
+    "MobileDeviceModel": "Huawei U8180 IDEOS X1",
+    "MobileDeviceOs": "Android 2.2",
+    "MobileDeviceRelease": 2011
+  },
+  {
+    "id": 592,
+    "MobileDeviceBrand": "Huawei",
+    "MobileDeviceModel": "Huawei nova 5 Pro",
+    "MobileDeviceOs": "Android 9.0, EMUI 9.1",
+    "MobileDeviceRelease": 2019
+  },
+  {
+    "id": 593,
+    "MobileDeviceBrand": "Samsung",
+    "MobileDeviceModel": "Samsung Ativ S I8750",
+    "MobileDeviceOs": "Microsoft Windows Phone 8, up to 8.1.1",
+    "MobileDeviceRelease": 2012
+  },
+  {
+    "id": 594,
+    "MobileDeviceBrand": "Infinix",
+    "MobileDeviceModel": "Infinix Note 3 Pro",
+    "MobileDeviceOs": "Android 6.0",
+    "MobileDeviceRelease": 2016
+  },
+  {
+    "id": 595,
+    "MobileDeviceBrand": "ZTE",
+    "MobileDeviceModel": "ZTE V887",
+    "MobileDeviceOs": "Android 4.0",
+    "MobileDeviceRelease": 2012
+  },
+  {
+    "id": 596,
+    "MobileDeviceBrand": "Bird",
+    "MobileDeviceModel": "Bird M29",
+    "MobileDeviceOs": "Feature phone",
+    "MobileDeviceRelease": 2007
+  },
+  {
+    "id": 597,
+    "MobileDeviceBrand": "BLU",
+    "MobileDeviceModel": "BLU Deejay Touch",
+    "MobileDeviceOs": "Feature phone",
+    "MobileDeviceRelease": 2011
+  },
+  {
+    "id": 598,
+    "MobileDeviceBrand": "Vodafone",
+    "MobileDeviceModel": "Vodafone 227",
+    "MobileDeviceOs": "Feature phone",
+    "MobileDeviceRelease": 2007
+  },
+  {
+    "id": 599,
+    "MobileDeviceBrand": "Asus",
+    "MobileDeviceModel": "Asus Zenfone 6 A600CG (2014)",
+    "MobileDeviceOs": "Android 4.3, up to 5.0.2",
+    "MobileDeviceRelease": 2014
+  },
+  {
+    "id": 600,
+    "MobileDeviceBrand": "LG",
+    "MobileDeviceModel": "LG GW910",
+    "MobileDeviceOs": "Microsoft Windows Phone 7",
+    "MobileDeviceRelease": 2011
+  },
+  {
+    "id": 601,
+    "MobileDeviceBrand": "ZTE",
+    "MobileDeviceModel": "ZTE Axon 11 4G",
+    "MobileDeviceOs": "Android 10, MiFavor 10",
+    "MobileDeviceRelease": 2020
+  },
+  {
+    "id": 602,
+    "MobileDeviceBrand": "Philips",
+    "MobileDeviceModel": "Philips X2301",
+    "MobileDeviceOs": "Feature phone",
+    "MobileDeviceRelease": 2013
+  },
+  {
+    "id": 603,
+    "MobileDeviceBrand": "BQ",
+    "MobileDeviceModel": "BQ Aquaris V",
+    "MobileDeviceOs": "Android 7.1.2, up to Android 8.0",
+    "MobileDeviceRelease": 2017
+  },
+  {
+    "id": 604,
+    "MobileDeviceBrand": "Benefon",
+    "MobileDeviceModel": "Benefon Vega",
+    "MobileDeviceOs": "Feature phone",
+    "MobileDeviceRelease": 1999
+  },
+  {
+    "id": 605,
+    "MobileDeviceBrand": "Sagem",
+    "MobileDeviceModel": "Sagem my500X",
+    "MobileDeviceOs": "Feature phone",
+    "MobileDeviceRelease": 2006
+  },
+  {
+    "id": 606,
+    "MobileDeviceBrand": "Nokia",
+    "MobileDeviceModel": "Nokia 150 (2020)",
+    "MobileDeviceOs": "Feature phone",
+    "MobileDeviceRelease": 2020
+  },
+  {
+    "id": 607,
+    "MobileDeviceBrand": "vivo",
+    "MobileDeviceModel": "vivo Y12s",
+    "MobileDeviceOs": "Android 10, Funtouch 11",
+    "MobileDeviceRelease": 2020
+  },
+  {
+    "id": 608,
+    "MobileDeviceBrand": "Motorola",
+    "MobileDeviceModel": "Motorola C300",
+    "MobileDeviceOs": "Feature phone",
+    "MobileDeviceRelease": 2002
+  },
+  {
+    "id": 609,
+    "MobileDeviceBrand": "Nokia",
+    "MobileDeviceModel": "Nokia 6136",
+    "MobileDeviceOs": "Feature phone",
+    "MobileDeviceRelease": 2006
+  },
+  {
+    "id": 610,
+    "MobileDeviceBrand": "Panasonic",
+    "MobileDeviceModel": "Panasonic P100",
+    "MobileDeviceOs": "Android 7.0",
+    "MobileDeviceRelease": 2018
+  },
+  {
+    "id": 611,
+    "MobileDeviceBrand": "Lenovo",
+    "MobileDeviceModel": "Lenovo K6 Enjoy",
+    "MobileDeviceOs": "Android 9.0",
+    "MobileDeviceRelease": 2019
+  },
+  {
+    "id": 612,
+    "MobileDeviceBrand": "BLU",
+    "MobileDeviceModel": "BLU Studio G4",
+    "MobileDeviceOs": "Android 8.1 Oreo",
+    "MobileDeviceRelease": 2018
+  },
+  {
+    "id": 613,
+    "MobileDeviceBrand": "LG",
+    "MobileDeviceModel": "LG Q60",
+    "MobileDeviceOs": "Android 9.0, LG UX 7",
+    "MobileDeviceRelease": 2019
+  },
+  {
+    "id": 614,
+    "MobileDeviceBrand": "ZTE",
+    "MobileDeviceModel": "ZTE nubia Z18",
+    "MobileDeviceOs": "Android 8.1, nubia UI 6",
+    "MobileDeviceRelease": 2018
+  },
+  {
+    "id": 615,
+    "MobileDeviceBrand": "Motorola",
+    "MobileDeviceModel": "Motorola Q 9h",
+    "MobileDeviceOs": "Microsoft Windows Mobile 6.0 Standard",
+    "MobileDeviceRelease": 2007
+  },
+  {
+    "id": 616,
+    "MobileDeviceBrand": "Motorola",
+    "MobileDeviceModel": "Motorola Moto G Turbo",
+    "MobileDeviceOs": "Android 5.1.1, up to 6.0",
+    "MobileDeviceRelease": 2015
+  },
+  {
+    "id": 617,
+    "MobileDeviceBrand": "Philips",
+    "MobileDeviceModel": "Philips X332",
+    "MobileDeviceOs": "Feature phone",
+    "MobileDeviceRelease": 2012
+  },
+  {
+    "id": 618,
+    "MobileDeviceBrand": "Haier",
+    "MobileDeviceModel": "Haier U69",
+    "MobileDeviceOs": "Microsoft Windows Mobile 6.5 Professional",
+    "MobileDeviceRelease": 2010
+  },
+  {
+    "id": 619,
+    "MobileDeviceBrand": "LeEco",
+    "MobileDeviceModel": "LeEco Le 2 Pro",
+    "MobileDeviceOs": "Android 6.0, eUI 5.6",
+    "MobileDeviceRelease": 2016
+  },
+  {
+    "id": 620,
+    "MobileDeviceBrand": "Celkon",
+    "MobileDeviceModel": "Celkon C102",
+    "MobileDeviceOs": "Feature phone",
+    "MobileDeviceRelease": 2011
+  },
+  {
+    "id": 621,
+    "MobileDeviceBrand": "Honor",
+    "MobileDeviceModel": "Honor Pad X6",
+    "MobileDeviceOs": "Android 10, Magic UI 3.1",
+    "MobileDeviceRelease": 2020
+  },
+  {
+    "id": 622,
+    "MobileDeviceBrand": "Siemens",
+    "MobileDeviceModel": "Siemens C55",
+    "MobileDeviceOs": "Feature phone",
+    "MobileDeviceRelease": 2002
+  },
+  {
+    "id": 623,
+    "MobileDeviceBrand": "alcatel",
+    "MobileDeviceModel": "alcatel Pop D3",
+    "MobileDeviceOs": "Android 4.4.2",
+    "MobileDeviceRelease": 2014
+  },
+  {
+    "id": 624,
+    "MobileDeviceBrand": "BLU",
+    "MobileDeviceModel": "BLU Diva",
+    "MobileDeviceOs": "Feature phone",
+    "MobileDeviceRelease": 2013
+  },
+  {
+    "id": 625,
+    "MobileDeviceBrand": "Energizer",
+    "MobileDeviceModel": "Energizer Energy E220",
+    "MobileDeviceOs": "KaiOS",
+    "MobileDeviceRelease": 2019
+  },
+  {
+    "id": 626,
+    "MobileDeviceBrand": "verykool",
+    "MobileDeviceModel": "verykool s352",
+    "MobileDeviceOs": "Android 4.2",
+    "MobileDeviceRelease": 2014
+  },
+  {
+    "id": 627,
+    "MobileDeviceBrand": "Energizer",
+    "MobileDeviceModel": "Energizer Energy E10+",
+    "MobileDeviceOs": "Feature phone",
+    "MobileDeviceRelease": 2018
+  },
+  {
+    "id": 628,
+    "MobileDeviceBrand": "BlackBerry",
+    "MobileDeviceModel": "BlackBerry Torch 9810",
+    "MobileDeviceOs": "BlackBerry OS 7.0",
+    "MobileDeviceRelease": 2011
+  },
+  {
+    "id": 629,
+    "MobileDeviceBrand": "Icemobile",
+    "MobileDeviceModel": "Icemobile Hurricane II",
+    "MobileDeviceOs": "Feature phone",
+    "MobileDeviceRelease": 2011
+  },
+  {
+    "id": 630,
+    "MobileDeviceBrand": "T-Mobile",
+    "MobileDeviceModel": "T-Mobile G2 Touch",
+    "MobileDeviceOs": "Android 1.5, Sense UI",
+    "MobileDeviceRelease": 2009
+  },
+  {
+    "id": 631,
+    "MobileDeviceBrand": "Allview",
+    "MobileDeviceModel": "Allview X1 Soul Mini",
+    "MobileDeviceOs": "Android 4.2",
+    "MobileDeviceRelease": 2013
+  },
+  {
+    "id": 632,
+    "MobileDeviceBrand": "Motorola",
+    "MobileDeviceModel": "Motorola RAZR2 V9",
+    "MobileDeviceOs": "Feature phone",
+    "MobileDeviceRelease": 2007
+  },
+  {
+    "id": 633,
+    "MobileDeviceBrand": "vivo",
+    "MobileDeviceModel": "vivo Y91i (India)",
+    "MobileDeviceOs": "Android 8.1, Funtouch 4.5",
+    "MobileDeviceRelease": 2019
+  },
+  {
+    "id": 634,
+    "MobileDeviceBrand": "BLU",
+    "MobileDeviceModel": "BLU Studio C 8+8 LTE",
+    "MobileDeviceOs": "Android 6.0",
+    "MobileDeviceRelease": 2016
+  },
+  {
+    "id": 635,
+    "MobileDeviceBrand": "Realme",
+    "MobileDeviceModel": "Realme 6S",
+    "MobileDeviceOs": "Android 11, Realme UI 2.0",
+    "MobileDeviceRelease": 2020
+  },
+  {
+    "id": 636,
+    "MobileDeviceBrand": "Sharp",
+    "MobileDeviceModel": "Sharp GX33",
+    "MobileDeviceOs": "Feature phone",
+    "MobileDeviceRelease": 2007
+  },
+  {
+    "id": 637,
+    "MobileDeviceBrand": "Micromax",
+    "MobileDeviceModel": "Micromax X277",
+    "MobileDeviceOs": "Feature phone",
+    "MobileDeviceRelease": 2012
+  },
+  {
+    "id": 638,
+    "MobileDeviceBrand": "alcatel",
+    "MobileDeviceModel": "alcatel OT-802 Wave",
+    "MobileDeviceOs": "Feature phone",
+    "MobileDeviceRelease": 2009
+  },
+  {
+    "id": 639,
+    "MobileDeviceBrand": "vivo",
+    "MobileDeviceModel": "vivo Z1x",
+    "MobileDeviceOs": "Android 9.0, up to Android 10, Funtouch 10",
+    "MobileDeviceRelease": 2019
+  },
+  {
+    "id": 640,
+    "MobileDeviceBrand": "Realme",
+    "MobileDeviceModel": "Realme 5s",
+    "MobileDeviceOs": "Android 9.0, up to Android 10, Realme UI",
+    "MobileDeviceRelease": 2019
+  },
+  {
+    "id": 641,
+    "MobileDeviceBrand": "Samsung",
+    "MobileDeviceModel": "Samsung P500",
+    "MobileDeviceOs": "Feature phone",
+    "MobileDeviceRelease": 0
+  },
+  {
+    "id": 642,
+    "MobileDeviceBrand": "LG",
+    "MobileDeviceModel": "LG G Pad X 8.0",
+    "MobileDeviceOs": "Android 6.0.1",
+    "MobileDeviceRelease": 2016
+  },
+  {
+    "id": 643,
+    "MobileDeviceBrand": "LG",
+    "MobileDeviceModel": "LG KP202",
+    "MobileDeviceOs": "Feature phone",
+    "MobileDeviceRelease": 2007
+  },
+  {
+    "id": 644,
+    "MobileDeviceBrand": "Nokia",
+    "MobileDeviceModel": "Nokia 6267",
+    "MobileDeviceOs": "Feature phone",
+    "MobileDeviceRelease": 2007
+  },
+  {
+    "id": 645,
+    "MobileDeviceBrand": "Samsung",
+    "MobileDeviceModel": "Samsung Z720",
+    "MobileDeviceOs": "Feature phone",
+    "MobileDeviceRelease": 2006
+  },
+  {
+    "id": 646,
+    "MobileDeviceBrand": "Archos",
+    "MobileDeviceModel": "Archos Diamond Tab",
+    "MobileDeviceOs": "Android 7.0",
+    "MobileDeviceRelease": 2017
+  },
+  {
+    "id": 647,
+    "MobileDeviceBrand": "ZTE",
+    "MobileDeviceModel": "ZTE V5 Lux",
+    "MobileDeviceOs": "Android 4.4, nubia UI 2.5",
+    "MobileDeviceRelease": 2015
+  },
+  {
+    "id": 648,
+    "MobileDeviceBrand": "Samsung",
+    "MobileDeviceModel": "Samsung A800",
+    "MobileDeviceOs": "Feature phone",
+    "MobileDeviceRelease": 2002
+  },
+  {
+    "id": 649,
+    "MobileDeviceBrand": "LG",
+    "MobileDeviceModel": "LG Fantasy E740",
+    "MobileDeviceOs": "Microsoft Windows Phone 7",
+    "MobileDeviceRelease": 0
+  },
+  {
+    "id": 650,
+    "MobileDeviceBrand": "Sony",
+    "MobileDeviceModel": "Sony Ericsson Z750",
+    "MobileDeviceOs": "Feature phone",
+    "MobileDeviceRelease": 2007
+  },
+  {
+    "id": 651,
+    "MobileDeviceBrand": "NEC",
+    "MobileDeviceModel": "NEC N830",
+    "MobileDeviceOs": "Feature phone",
+    "MobileDeviceRelease": 2004
+  },
+  {
+    "id": 652,
+    "MobileDeviceBrand": "Panasonic",
+    "MobileDeviceModel": "Panasonic Eluga DL1",
+    "MobileDeviceOs": "Android 2.3.5, up to 4.0",
+    "MobileDeviceRelease": 2012
+  },
+  {
+    "id": 653,
+    "MobileDeviceBrand": "Lenovo",
+    "MobileDeviceModel": "Lenovo A850+",
+    "MobileDeviceOs": "Android 4.2.2",
+    "MobileDeviceRelease": 2014
+  },
+  {
+    "id": 654,
+    "MobileDeviceBrand": "LG",
+    "MobileDeviceModel": "LG KS500",
+    "MobileDeviceOs": "Feature phone",
+    "MobileDeviceRelease": 2009
+  },
+  {
+    "id": 655,
+    "MobileDeviceBrand": "Gigabyte",
+    "MobileDeviceModel": "Gigabyte GSmart Arty A3",
+    "MobileDeviceOs": "Android 4.4.2",
+    "MobileDeviceRelease": 2014
+  },
+  {
+    "id": 656,
+    "MobileDeviceBrand": "LG",
+    "MobileDeviceModel": "LG B2000",
+    "MobileDeviceOs": "Feature phone",
+    "MobileDeviceRelease": 2005
+  },
+  {
+    "id": 657,
+    "MobileDeviceBrand": "alcatel",
+    "MobileDeviceModel": "alcatel OT-978",
+    "MobileDeviceOs": "Android 2.3",
+    "MobileDeviceRelease": 2012
+  },
+  {
+    "id": 658,
+    "MobileDeviceBrand": "Motorola",
+    "MobileDeviceModel": "Motorola ATRIX TV XT687",
+    "MobileDeviceOs": "Android 4.0",
+    "MobileDeviceRelease": 2012
+  },
+  {
+    "id": 659,
+    "MobileDeviceBrand": "Motorola",
+    "MobileDeviceModel": "Motorola PEBL U3",
+    "MobileDeviceOs": "Feature phone",
+    "MobileDeviceRelease": 2008
+  },
+  {
+    "id": 660,
+    "MobileDeviceBrand": "Apple",
+    "MobileDeviceModel": "Apple iPad mini 2",
+    "MobileDeviceOs": "iOS 7, up to iPadOS 12.4.6",
+    "MobileDeviceRelease": 2013
+  },
+  {
+    "id": 661,
+    "MobileDeviceBrand": "Huawei",
+    "MobileDeviceModel": "Huawei MediaPad 10 Link",
+    "MobileDeviceOs": "Android 4.0, up to 4.1",
+    "MobileDeviceRelease": 2013
+  },
+  {
+    "id": 662,
+    "MobileDeviceBrand": "Samsung",
+    "MobileDeviceModel": "Samsung Galaxy A10",
+    "MobileDeviceOs": "Android 9.0, up to Android 10, One UI 2.0",
+    "MobileDeviceRelease": 2019
+  },
+  {
+    "id": 663,
+    "MobileDeviceBrand": "BLU",
+    "MobileDeviceModel": "BLU Studio Energy",
+    "MobileDeviceOs": "Android 4.4.2",
+    "MobileDeviceRelease": 2015
+  },
+  {
+    "id": 664,
+    "MobileDeviceBrand": "Nokia",
+    "MobileDeviceModel": "Nokia 9.3 PureView",
+    "MobileDeviceOs": "Android 10, Android One",
+    "MobileDeviceRelease": 0
+  },
+  {
+    "id": 665,
+    "MobileDeviceBrand": "Samsung",
+    "MobileDeviceModel": "Samsung S5600v Blade",
+    "MobileDeviceOs": "Feature phone",
+    "MobileDeviceRelease": 2009
+  },
+  {
+    "id": 666,
+    "MobileDeviceBrand": "Wiko",
+    "MobileDeviceModel": "Wiko Pulp Fab",
+    "MobileDeviceOs": "Android 5.1",
+    "MobileDeviceRelease": 2015
+  },
+  {
+    "id": 667,
+    "MobileDeviceBrand": "Samsung",
+    "MobileDeviceModel": "Samsung R640 Character",
+    "MobileDeviceOs": "Feature phone",
+    "MobileDeviceRelease": 2011
+  },
+  {
+    "id": 668,
+    "MobileDeviceBrand": "Micromax",
+    "MobileDeviceModel": "Micromax Q7",
+    "MobileDeviceOs": "Feature phone",
+    "MobileDeviceRelease": 2010
+  },
+  {
+    "id": 669,
+    "MobileDeviceBrand": "Panasonic",
+    "MobileDeviceModel": "Panasonic P9",
+    "MobileDeviceOs": "Android 7.0",
+    "MobileDeviceRelease": 2017
+  },
+  {
+    "id": 670,
+    "MobileDeviceBrand": "Toshiba",
+    "MobileDeviceModel": "Toshiba TS803",
+    "MobileDeviceOs": "Feature phone",
+    "MobileDeviceRelease": 2005
+  },
+  {
+    "id": 671,
+    "MobileDeviceBrand": "alcatel",
+    "MobileDeviceModel": "alcatel OT-300",
+    "MobileDeviceOs": "Feature phone",
+    "MobileDeviceRelease": 2010
+  },
+  {
+    "id": 672,
+    "MobileDeviceBrand": "LG",
+    "MobileDeviceModel": "LG KP501 Cookie",
+    "MobileDeviceOs": "Feature phone",
+    "MobileDeviceRelease": 2009
+  },
+  {
+    "id": 673,
+    "MobileDeviceBrand": "Motorola",
+    "MobileDeviceModel": "Motorola MOTO XT702",
+    "MobileDeviceOs": "Android 2.1",
+    "MobileDeviceRelease": 2009
+  },
+  {
+    "id": 674,
+    "MobileDeviceBrand": "Huawei",
+    "MobileDeviceModel": "Huawei MediaPad T3 8.0",
+    "MobileDeviceOs": "Android 7.0, EMUI 5.1",
+    "MobileDeviceRelease": 2017
+  },
+  {
+    "id": 675,
+    "MobileDeviceBrand": "Apple",
+    "MobileDeviceModel": "Apple iPad Air (2020)",
+    "MobileDeviceOs": "iPadOS 14.1, up to iPadOS 14.6",
+    "MobileDeviceRelease": 2020
+  },
+  {
+    "id": 676,
+    "MobileDeviceBrand": "Kyocera",
+    "MobileDeviceModel": "Kyocera S1600",
+    "MobileDeviceOs": "Feature phone",
+    "MobileDeviceRelease": 2008
+  },
+  {
+    "id": 677,
+    "MobileDeviceBrand": "Panasonic",
+    "MobileDeviceModel": "Panasonic Eluga I5",
+    "MobileDeviceOs": "Android 7.0",
+    "MobileDeviceRelease": 2017
+  },
+  {
+    "id": 678,
+    "MobileDeviceBrand": "Xiaomi",
+    "MobileDeviceModel": "Xiaomi Mi Note 10 Pro",
+    "MobileDeviceOs": "Android 9.0, up to Android 10, MIUI 12",
+    "MobileDeviceRelease": 2019
+  },
+  {
+    "id": 679,
+    "MobileDeviceBrand": "BlackBerry",
+    "MobileDeviceModel": "BlackBerry Curve 8900",
+    "MobileDeviceOs": "BlackBerry OS",
+    "MobileDeviceRelease": 2008
+  },
+  {
+    "id": 680,
+    "MobileDeviceBrand": "Sony",
+    "MobileDeviceModel": "Sony Xperia XA",
+    "MobileDeviceOs": "Android 6.0.1, up to 7.0",
+    "MobileDeviceRelease": 2016
+  },
+  {
+    "id": 681,
+    "MobileDeviceBrand": "YU",
+    "MobileDeviceModel": "YU Yutopia",
+    "MobileDeviceOs": "Android 5.1.1, Cyanogen 12.1",
+    "MobileDeviceRelease": 2015
+  },
+  {
+    "id": 682,
+    "MobileDeviceBrand": "Motorola",
+    "MobileDeviceModel": "Motorola ATRIX 4G",
+    "MobileDeviceOs": "Android 2.3, not up to 4.1",
+    "MobileDeviceRelease": 2011
+  },
+  {
+    "id": 683,
+    "MobileDeviceBrand": "Xiaomi",
+    "MobileDeviceModel": "Xiaomi Mi Note",
+    "MobileDeviceOs": "Android 4.4.4, up to 6.0",
+    "MobileDeviceRelease": 2015
+  },
+  {
+    "id": 684,
+    "MobileDeviceBrand": "alcatel",
+    "MobileDeviceModel": "alcatel 2052",
+    "MobileDeviceOs": "Feature phone",
+    "MobileDeviceRelease": 2014
+  },
+  {
+    "id": 685,
+    "MobileDeviceBrand": "BenQ",
+    "MobileDeviceModel": "BenQ M100",
+    "MobileDeviceOs": "Feature phone",
+    "MobileDeviceRelease": 2004
+  },
+  {
+    "id": 686,
+    "MobileDeviceBrand": "Samsung",
+    "MobileDeviceModel": "Samsung Mpower TV S239",
+    "MobileDeviceOs": "Feature phone",
+    "MobileDeviceRelease": 2010
+  },
+  {
+    "id": 687,
+    "MobileDeviceBrand": "alcatel",
+    "MobileDeviceModel": "alcatel OT-C630",
+    "MobileDeviceOs": "Feature phone",
+    "MobileDeviceRelease": 2006
+  },
+  {
+    "id": 688,
+    "MobileDeviceBrand": "LG",
+    "MobileDeviceModel": "LG G4 Stylus",
+    "MobileDeviceOs": "Android 5.0, up to 5.1",
+    "MobileDeviceRelease": 2015
+  },
+  {
+    "id": 689,
+    "MobileDeviceBrand": "Gigabyte",
+    "MobileDeviceModel": "Gigabyte GSmart i (128)",
+    "MobileDeviceOs": "Microsoft Windows Mobile 5.0 for &hellip;",
+    "MobileDeviceRelease": 2005
+  },
+  {
+    "id": 690,
+    "MobileDeviceBrand": "Nokia",
+    "MobileDeviceModel": "Nokia 6085",
+    "MobileDeviceOs": "Feature phone",
+    "MobileDeviceRelease": 2006
+  },
+  {
+    "id": 691,
+    "MobileDeviceBrand": "LG",
+    "MobileDeviceModel": "LG Nexus 4 E960",
+    "MobileDeviceOs": "Android 4.2, up to 5.1",
+    "MobileDeviceRelease": 2012
+  },
+  {
+    "id": 692,
+    "MobileDeviceBrand": "Acer",
+    "MobileDeviceModel": "Acer Iconia Tab 10 A3-A30",
+    "MobileDeviceOs": "Android 5.0",
+    "MobileDeviceRelease": 2015
+  },
+  {
+    "id": 693,
+    "MobileDeviceBrand": "Haier",
+    "MobileDeviceModel": "Haier M1200",
+    "MobileDeviceOs": "Feature phone",
+    "MobileDeviceRelease": 2005
+  },
+  {
+    "id": 694,
+    "MobileDeviceBrand": "LG",
+    "MobileDeviceModel": "LG KF245",
+    "MobileDeviceOs": "Feature phone",
+    "MobileDeviceRelease": 2008
+  },
+  {
+    "id": 695,
+    "MobileDeviceBrand": "Cat",
+    "MobileDeviceModel": "Cat B25",
+    "MobileDeviceOs": "Feature phone",
+    "MobileDeviceRelease": 2013
+  },
+  {
+    "id": 696,
+    "MobileDeviceBrand": "Meizu",
+    "MobileDeviceModel": "Meizu 16",
+    "MobileDeviceOs": "Android 8.1, Flyme UI",
+    "MobileDeviceRelease": 2018
+  },
+  {
+    "id": 697,
+    "MobileDeviceBrand": "ZTE",
+    "MobileDeviceModel": "ZTE nubia Z7 mini",
+    "MobileDeviceOs": "Android 4.4.2, nubia UI 2",
+    "MobileDeviceRelease": 2014
+  },
+  {
+    "id": 698,
+    "MobileDeviceBrand": "Sony",
+    "MobileDeviceModel": "Sony Ericsson W710",
+    "MobileDeviceOs": "Feature phone",
+    "MobileDeviceRelease": 2006
+  },
+  {
+    "id": 699,
+    "MobileDeviceBrand": "Gigabyte",
+    "MobileDeviceModel": "Gigabyte GSmart Roma RX",
+    "MobileDeviceOs": "Android 4.4",
+    "MobileDeviceRelease": 2015
+  },
+  {
+    "id": 700,
+    "MobileDeviceBrand": "Motorola",
+    "MobileDeviceModel": "Motorola Defy Pro XT560",
+    "MobileDeviceOs": "Android 2.3",
+    "MobileDeviceRelease": 2012
+  },
+  {
+    "id": 701,
+    "MobileDeviceBrand": "Samsung",
+    "MobileDeviceModel": "Samsung Galaxy S6 edge (USA)",
+    "MobileDeviceOs": "Android 5.0.2, up to 5.1, TouchWiz UI",
+    "MobileDeviceRelease": 2015
+  },
+  {
+    "id": 702,
+    "MobileDeviceBrand": "verykool",
+    "MobileDeviceModel": "verykool i240",
+    "MobileDeviceOs": "Feature phone",
+    "MobileDeviceRelease": 2014
+  },
+  {
+    "id": 703,
+    "MobileDeviceBrand": "Sony",
+    "MobileDeviceModel": "Sony Ericsson W205",
+    "MobileDeviceOs": "Feature phone",
+    "MobileDeviceRelease": 2009
+  },
+  {
+    "id": 704,
+    "MobileDeviceBrand": "Karbonn",
+    "MobileDeviceModel": "Karbonn K309 Boombastic",
+    "MobileDeviceOs": "Feature phone",
+    "MobileDeviceRelease": 2012
+  },
+  {
+    "id": 705,
+    "MobileDeviceBrand": "Oppo",
+    "MobileDeviceModel": "Oppo R11s",
+    "MobileDeviceOs": "Android 7.1.1, ColorOS 3.2",
+    "MobileDeviceRelease": 2017
+  },
+  {
+    "id": 706,
+    "MobileDeviceBrand": "Micromax",
+    "MobileDeviceModel": "Micromax Bolt Q331",
+    "MobileDeviceOs": "Android 4.4.2",
+    "MobileDeviceRelease": 2015
+  },
+  {
+    "id": 707,
+    "MobileDeviceBrand": "Sagem",
+    "MobileDeviceModel": "Sagem MW 3052",
+    "MobileDeviceOs": "Feature phone",
+    "MobileDeviceRelease": 2001
+  },
+  {
+    "id": 708,
+    "MobileDeviceBrand": "Sony",
+    "MobileDeviceModel": "Sony Ericsson T68i",
+    "MobileDeviceOs": "Feature phone",
+    "MobileDeviceRelease": 2002
+  },
+  {
+    "id": 709,
+    "MobileDeviceBrand": "Lenovo",
+    "MobileDeviceModel": "Lenovo A6010 Plus",
+    "MobileDeviceOs": "Android 5",
+    "MobileDeviceRelease": 2015
+  },
+  {
+    "id": 710,
+    "MobileDeviceBrand": "Nokia",
+    "MobileDeviceModel": "Nokia N92",
+    "MobileDeviceOs": "Symbian, Series 60 UI",
+    "MobileDeviceRelease": 2005
+  },
+  {
+    "id": 711,
+    "MobileDeviceBrand": "Samsung",
+    "MobileDeviceModel": "Samsung E490",
+    "MobileDeviceOs": "Feature phone",
+    "MobileDeviceRelease": 2006
+  },
+  {
+    "id": 712,
+    "MobileDeviceBrand": "Asus",
+    "MobileDeviceModel": "Asus Transformer Pad Infinity 700 3G",
+    "MobileDeviceOs": "Android 4.0",
+    "MobileDeviceRelease": 2012
+  },
+  {
+    "id": 713,
+    "MobileDeviceBrand": "Nokia",
+    "MobileDeviceModel": "Nokia 3110",
+    "MobileDeviceOs": "Feature phone",
+    "MobileDeviceRelease": 1997
+  },
+  {
+    "id": 714,
+    "MobileDeviceBrand": "Acer",
+    "MobileDeviceModel": "Acer Iconia Tab A701",
+    "MobileDeviceOs": "Android 4.0",
+    "MobileDeviceRelease": 2012
+  },
+  {
+    "id": 715,
+    "MobileDeviceBrand": "Pantech",
+    "MobileDeviceModel": "Pantech Jest II",
+    "MobileDeviceOs": "Feature phone",
+    "MobileDeviceRelease": 2011
+  },
+  {
+    "id": 716,
+    "MobileDeviceBrand": "Celkon",
+    "MobileDeviceModel": "Celkon C10",
+    "MobileDeviceOs": "Feature phone",
+    "MobileDeviceRelease": 2011
+  },
+  {
+    "id": 717,
+    "MobileDeviceBrand": "alcatel",
+    "MobileDeviceModel": "alcatel A3",
+    "MobileDeviceOs": "Android 6.0",
+    "MobileDeviceRelease": 2017
+  },
+  {
+    "id": 718,
+    "MobileDeviceBrand": "Asus",
+    "MobileDeviceModel": "Asus Zenfone 4 Selfie Pro ZD552KL",
+    "MobileDeviceOs": "Android 7, ZenUI 4",
+    "MobileDeviceRelease": 2017
+  },
+  {
+    "id": 719,
+    "MobileDeviceBrand": "Yezz",
+    "MobileDeviceModel": "Yezz Max 1",
+    "MobileDeviceOs": "Android 8.1",
+    "MobileDeviceRelease": 2018
+  },
+  {
+    "id": 720,
+    "MobileDeviceBrand": "Nokia",
+    "MobileDeviceModel": "Nokia 8210",
+    "MobileDeviceOs": "Feature phone",
+    "MobileDeviceRelease": 1999
+  },
+  {
+    "id": 721,
+    "MobileDeviceBrand": "Asus",
+    "MobileDeviceModel": "Asus Zenpad C 7.0",
+    "MobileDeviceOs": "Android 5.0",
+    "MobileDeviceRelease": 2015
+  },
+  {
+    "id": 722,
+    "MobileDeviceBrand": "Oppo",
+    "MobileDeviceModel": "Oppo A33 (2015)",
+    "MobileDeviceOs": "Android 5.1, ColorOS 2.1",
+    "MobileDeviceRelease": 2015
+  },
+  {
+    "id": 723,
+    "MobileDeviceBrand": "Samsung",
+    "MobileDeviceModel": "Samsung Galaxy C5 Pro",
+    "MobileDeviceOs": "Android 7.0",
+    "MobileDeviceRelease": 2017
+  },
+  {
+    "id": 724,
+    "MobileDeviceBrand": "Lenovo",
+    "MobileDeviceModel": "Lenovo A60+",
+    "MobileDeviceOs": "Android 2.3.6",
+    "MobileDeviceRelease": 2012
+  },
+  {
+    "id": 725,
+    "MobileDeviceBrand": "Samsung",
+    "MobileDeviceModel": "Samsung I8530 Galaxy Beam",
+    "MobileDeviceOs": "Android 2.3.6, up to 4.1, TouchWiz UI 4",
+    "MobileDeviceRelease": 2012
+  },
+  {
+    "id": 726,
+    "MobileDeviceBrand": "Philips",
+    "MobileDeviceModel": "Philips Fisio 820",
+    "MobileDeviceOs": "Feature phone",
+    "MobileDeviceRelease": 2002
+  },
+  {
+    "id": 727,
+    "MobileDeviceBrand": "BlackBerry",
+    "MobileDeviceModel": "BlackBerry Porsche Design P'9983",
+    "MobileDeviceOs": "BlackBerry OS 10.3, up to 10.3.1",
+    "MobileDeviceRelease": 2014
+  },
+  {
+    "id": 728,
+    "MobileDeviceBrand": "Acer",
+    "MobileDeviceModel": "Acer beTouch E100",
+    "MobileDeviceOs": "Microsoft Windows Mobile 6.5 Professional",
+    "MobileDeviceRelease": 2009
+  },
+  {
+    "id": 729,
+    "MobileDeviceBrand": "QMobile",
+    "MobileDeviceModel": "QMobile M800",
+    "MobileDeviceOs": "Feature phone",
+    "MobileDeviceRelease": 2014
+  },
+  {
+    "id": 730,
+    "MobileDeviceBrand": "Nokia",
+    "MobileDeviceModel": "Nokia Asha 311",
+    "MobileDeviceOs": "Feature phone",
+    "MobileDeviceRelease": 2012
+  },
+  {
+    "id": 731,
+    "MobileDeviceBrand": "Celkon",
+    "MobileDeviceModel": "Celkon C3",
+    "MobileDeviceOs": "Feature phone",
+    "MobileDeviceRelease": 2011
+  },
+  {
+    "id": 732,
+    "MobileDeviceBrand": "Bird",
+    "MobileDeviceModel": "Bird D706",
+    "MobileDeviceOs": "Feature phone",
+    "MobileDeviceRelease": 0
+  },
+  {
+    "id": 733,
+    "MobileDeviceBrand": "LG",
+    "MobileDeviceModel": "LG GT550 Encore",
+    "MobileDeviceOs": "Feature phone",
+    "MobileDeviceRelease": 2010
+  },
+  {
+    "id": 734,
+    "MobileDeviceBrand": "Motorola",
+    "MobileDeviceModel": "Motorola Talkabout T2288",
+    "MobileDeviceOs": "Feature phone",
+    "MobileDeviceRelease": 2000
+  },
+  {
+    "id": 735,
+    "MobileDeviceBrand": "Realme",
+    "MobileDeviceModel": "Realme X",
+    "MobileDeviceOs": "Android 9.0, up to Android 10, Realme UI",
+    "MobileDeviceRelease": 2019
+  },
+  {
+    "id": 736,
+    "MobileDeviceBrand": "HTC",
+    "MobileDeviceModel": "HTC U11",
+    "MobileDeviceOs": "Android 7.1, up to Android 9.0, Sense UI",
+    "MobileDeviceRelease": 2017
+  },
+  {
+    "id": 737,
+    "MobileDeviceBrand": "Asus",
+    "MobileDeviceModel": "Asus Zenfone Max Pro (M1) ZB601KL/ZB602K",
+    "MobileDeviceOs": "Android 8.1, up to Android 9.0",
+    "MobileDeviceRelease": 2018
+  },
+  {
+    "id": 738,
+    "MobileDeviceBrand": "HTC",
+    "MobileDeviceModel": "HTC Evo 4G+",
+    "MobileDeviceOs": "Android 2.3.4, up to 4.0.3, Sense UI 3",
+    "MobileDeviceRelease": 2011
+  },
+  {
+    "id": 739,
+    "MobileDeviceBrand": "Nokia",
+    "MobileDeviceModel": "Nokia 5330 Mobile TV Edition",
+    "MobileDeviceOs": "Feature phone",
+    "MobileDeviceRelease": 2010
+  },
+  {
+    "id": 740,
+    "MobileDeviceBrand": "Asus",
+    "MobileDeviceModel": "Asus M530w",
+    "MobileDeviceOs": "Microsoft Windows Mobile 6 Standard",
+    "MobileDeviceRelease": 2008
+  },
+  {
+    "id": 741,
+    "MobileDeviceBrand": "Celkon",
+    "MobileDeviceModel": "Celkon C909",
+    "MobileDeviceOs": "Feature phone",
+    "MobileDeviceRelease": 2011
+  },
+  {
+    "id": 742,
+    "MobileDeviceBrand": "Sony",
+    "MobileDeviceModel": "Sony Ericsson K810",
+    "MobileDeviceOs": "Feature phone",
+    "MobileDeviceRelease": 2007
+  },
+  {
+    "id": 743,
+    "MobileDeviceBrand": "vivo",
+    "MobileDeviceModel": "vivo X9s",
+    "MobileDeviceOs": "Android 7.1, up to Android 8.0, Funtouch 3.1",
+    "MobileDeviceRelease": 2017
+  },
+  {
+    "id": 744,
+    "MobileDeviceBrand": "Motorola",
+    "MobileDeviceModel": "Motorola ES400",
+    "MobileDeviceOs": "Microsoft Windows Mobile 6.5.3 Professional",
+    "MobileDeviceRelease": 2010
+  },
+  {
+    "id": 745,
+    "MobileDeviceBrand": "Sony",
+    "MobileDeviceModel": "Sony Xperia Z5 Compact",
+    "MobileDeviceOs": "Android 5.1.1, up to 7.1.1",
+    "MobileDeviceRelease": 2015
+  },
+  {
+    "id": 746,
+    "MobileDeviceBrand": "i-mobile",
+    "MobileDeviceModel": "i-mobile 522",
+    "MobileDeviceOs": "Feature phone",
+    "MobileDeviceRelease": 2008
+  },
+  {
+    "id": 747,
+    "MobileDeviceBrand": "Spice",
+    "MobileDeviceModel": "Spice Mi-310",
+    "MobileDeviceOs": "Android 2.2",
+    "MobileDeviceRelease": 2011
+  },
+  {
+    "id": 748,
+    "MobileDeviceBrand": "Acer",
+    "MobileDeviceModel": "Acer Liquid E600",
+    "MobileDeviceOs": "Android 4.4.2",
+    "MobileDeviceRelease": 2014
+  },
+  {
+    "id": 749,
+    "MobileDeviceBrand": "Lenovo",
+    "MobileDeviceModel": "Lenovo Z6 Pro",
+    "MobileDeviceOs": "Android 9.0, ZUI 11.1",
+    "MobileDeviceRelease": 2019
+  },
+  {
+    "id": 750,
+    "MobileDeviceBrand": "Motorola",
+    "MobileDeviceModel": "Motorola C289",
+    "MobileDeviceOs": "Feature phone",
+    "MobileDeviceRelease": 2003
+  },
+  {
+    "id": 751,
+    "MobileDeviceBrand": "Orange",
+    "MobileDeviceModel": "Orange Rono",
+    "MobileDeviceOs": "Android 4.4.2",
+    "MobileDeviceRelease": 2014
+  },
+  {
+    "id": 752,
+    "MobileDeviceBrand": "Oppo",
+    "MobileDeviceModel": "Oppo R7",
+    "MobileDeviceOs": "Android 4.4.2, ColorOS 2.1",
+    "MobileDeviceRelease": 2015
+  },
+  {
+    "id": 753,
+    "MobileDeviceBrand": "Xiaomi",
+    "MobileDeviceModel": "Xiaomi Mi 8 SE",
+    "MobileDeviceOs": "Android 8.1, MIUI 9.5",
+    "MobileDeviceRelease": 2018
+  },
+  {
+    "id": 754,
+    "MobileDeviceBrand": "Modu",
+    "MobileDeviceModel": "Modu Mini jacket",
+    "MobileDeviceOs": "Feature phone",
+    "MobileDeviceRelease": 2009
+  },
+  {
+    "id": 755,
+    "MobileDeviceBrand": "Lenovo",
+    "MobileDeviceModel": "Lenovo Vibe K4 Note",
+    "MobileDeviceOs": "Android 5.1.1, up to 6.0",
+    "MobileDeviceRelease": 2016
+  },
+  {
+    "id": 756,
+    "MobileDeviceBrand": "Micromax",
+    "MobileDeviceModel": "Micromax A67 Bolt",
+    "MobileDeviceOs": "Android 4.0.3",
+    "MobileDeviceRelease": 2013
+  },
+  {
+    "id": 757,
+    "MobileDeviceBrand": "alcatel",
+    "MobileDeviceModel": "alcatel OT-V607A",
+    "MobileDeviceOs": "Feature phone",
+    "MobileDeviceRelease": 2008
+  },
+  {
+    "id": 758,
+    "MobileDeviceBrand": "Plum",
+    "MobileDeviceModel": "Plum Debut",
+    "MobileDeviceOs": "Android 4.0",
+    "MobileDeviceRelease": 2012
+  },
+  {
+    "id": 759,
+    "MobileDeviceBrand": "BLU",
+    "MobileDeviceModel": "BLU Dash L3",
+    "MobileDeviceOs": "Android 6.0",
+    "MobileDeviceRelease": 2017
+  },
+  {
+    "id": 760,
+    "MobileDeviceBrand": "ZTE",
+    "MobileDeviceModel": "ZTE Axon Elite",
+    "MobileDeviceOs": "Android 5.0",
+    "MobileDeviceRelease": 2015
+  },
+  {
+    "id": 761,
+    "MobileDeviceBrand": "Samsung",
+    "MobileDeviceModel": "Samsung Galaxy A9 (2016)",
+    "MobileDeviceOs": "Android 5.1.1, up to 6.0.1",
+    "MobileDeviceRelease": 2016
+  },
+  {
+    "id": 762,
+    "MobileDeviceBrand": "Lenovo",
+    "MobileDeviceModel": "Lenovo Vibe X2 Pro",
+    "MobileDeviceOs": "Android 4.4, Vibe UI 2",
+    "MobileDeviceRelease": 2015
+  },
+  {
+    "id": 763,
+    "MobileDeviceBrand": "Siemens",
+    "MobileDeviceModel": "Siemens AL21",
+    "MobileDeviceOs": "Feature phone",
+    "MobileDeviceRelease": 2005
+  },
+  {
+    "id": 764,
+    "MobileDeviceBrand": "Samsung",
+    "MobileDeviceModel": "Samsung Rex 70 S3802",
+    "MobileDeviceOs": "Feature phone",
+    "MobileDeviceRelease": 2013
+  },
+  {
+    "id": 765,
+    "MobileDeviceBrand": "Panasonic",
+    "MobileDeviceModel": "Panasonic Eluga Turbo",
+    "MobileDeviceOs": "Android 5.1, FitHome UI ",
+    "MobileDeviceRelease": 2016
+  },
+  {
+    "id": 766,
+    "MobileDeviceBrand": "alcatel",
+    "MobileDeviceModel": "alcatel OT-890D",
+    "MobileDeviceOs": "Android 2.2",
+    "MobileDeviceRelease": 2011
+  },
+  {
+    "id": 767,
+    "MobileDeviceBrand": "Huawei",
+    "MobileDeviceModel": "Huawei Y7p",
+    "MobileDeviceOs": "Android 9.0, EMUI 9, no Google Play Services",
+    "MobileDeviceRelease": 2020
+  },
+  {
+    "id": 768,
+    "MobileDeviceBrand": "Pantech",
+    "MobileDeviceModel": "Pantech G600",
+    "MobileDeviceOs": "Feature phone",
+    "MobileDeviceRelease": 2004
+  },
+  {
+    "id": 769,
+    "MobileDeviceBrand": "Apple",
+    "MobileDeviceModel": "Apple iPhone 11 Pro Max",
+    "MobileDeviceOs": "iOS 13, up to iOS 14.7",
+    "MobileDeviceRelease": 2019
+  },
+  {
+    "id": 770,
+    "MobileDeviceBrand": "Motorola",
+    "MobileDeviceModel": "Motorola Moto E3 Power",
+    "MobileDeviceOs": "Android 6.0",
+    "MobileDeviceRelease": 2016
+  },
+  {
+    "id": 771,
+    "MobileDeviceBrand": "Allview",
+    "MobileDeviceModel": "Allview P1 AllDro",
+    "MobileDeviceOs": "Android 2.2",
+    "MobileDeviceRelease": 2011
+  },
+  {
+    "id": 772,
+    "MobileDeviceBrand": "Vodafone",
+    "MobileDeviceModel": "Vodafone Smart Tab II 7",
+    "MobileDeviceOs": "Android 4.0.4",
+    "MobileDeviceRelease": 2012
+  },
+  {
+    "id": 773,
+    "MobileDeviceBrand": "Gionee",
+    "MobileDeviceModel": "Gionee Pioneer P5L",
+    "MobileDeviceOs": "Android 5.1, Amigo 3.1",
+    "MobileDeviceRelease": 2014
+  },
+  {
+    "id": 774,
+    "MobileDeviceBrand": "Sony",
+    "MobileDeviceModel": "Sony CMD J5",
+    "MobileDeviceOs": "Feature phone",
+    "MobileDeviceRelease": 2000
+  },
+  {
+    "id": 775,
+    "MobileDeviceBrand": "Sewon",
+    "MobileDeviceModel": "Sewon SRD-3000",
+    "MobileDeviceOs": "Feature phone",
+    "MobileDeviceRelease": 2004
+  },
+  {
+    "id": 776,
+    "MobileDeviceBrand": "i-mobile",
+    "MobileDeviceModel": "i-mobile TV 628",
+    "MobileDeviceOs": "Feature phone",
+    "MobileDeviceRelease": 2009
+  },
+  {
+    "id": 777,
+    "MobileDeviceBrand": "Sharp",
+    "MobileDeviceModel": "Sharp GX34",
+    "MobileDeviceOs": "Feature phone",
+    "MobileDeviceRelease": 2007
+  },
+  {
+    "id": 778,
+    "MobileDeviceBrand": "Nokia",
+    "MobileDeviceModel": "Nokia 2.2",
+    "MobileDeviceOs": "Android 9.0, up to Android 11, Android One",
+    "MobileDeviceRelease": 2019
+  },
+  {
+    "id": 779,
+    "MobileDeviceBrand": "Samsung",
+    "MobileDeviceModel": "Samsung C200",
+    "MobileDeviceOs": "Feature phone",
+    "MobileDeviceRelease": 2004
+  },
+  {
+    "id": 780,
+    "MobileDeviceBrand": "Nokia",
+    "MobileDeviceModel": "Nokia Asha 230",
+    "MobileDeviceOs": "Nokia Asha software platform 1.1.1, up to 1.4",
+    "MobileDeviceRelease": 2014
+  },
+  {
+    "id": 781,
+    "MobileDeviceBrand": "Celkon",
+    "MobileDeviceModel": "Celkon C867",
+    "MobileDeviceOs": "Feature phone",
+    "MobileDeviceRelease": 2010
+  },
+  {
+    "id": 782,
+    "MobileDeviceBrand": "Vertu",
+    "MobileDeviceModel": "Vertu Ascent Ti",
+    "MobileDeviceOs": "Feature phone",
+    "MobileDeviceRelease": 2008
+  },
+  {
+    "id": 783,
+    "MobileDeviceBrand": "Nokia",
+    "MobileDeviceModel": "Nokia 6301",
+    "MobileDeviceOs": "Feature phone",
+    "MobileDeviceRelease": 2008
+  },
+  {
+    "id": 784,
+    "MobileDeviceBrand": "Asus",
+    "MobileDeviceModel": "Asus Zenfone Max Pro (M2) ZB631KL",
+    "MobileDeviceOs": "Android 8.1, up to Android 9.0",
+    "MobileDeviceRelease": 2018
+  },
+  {
+    "id": 785,
+    "MobileDeviceBrand": "Samsung",
+    "MobileDeviceModel": "Samsung Galaxy A72 5G",
+    "MobileDeviceOs": "Android 11, One UI 3.1",
+    "MobileDeviceRelease": 0
+  },
+  {
+    "id": 786,
+    "MobileDeviceBrand": "VK",
+    "MobileDeviceModel": "VK Mobile VK1500",
+    "MobileDeviceOs": "Feature phone",
+    "MobileDeviceRelease": 0
+  },
+  {
+    "id": 787,
+    "MobileDeviceBrand": "alcatel",
+    "MobileDeviceModel": "alcatel Pop 3 (5.5)",
+    "MobileDeviceOs": "Android 5.1",
+    "MobileDeviceRelease": 2016
+  },
+  {
+    "id": 788,
+    "MobileDeviceBrand": "Coolpad",
+    "MobileDeviceModel": "Coolpad Cool Play 6",
+    "MobileDeviceOs": "Android 7.1.1, Journey UI",
+    "MobileDeviceRelease": 2017
+  },
+  {
+    "id": 789,
+    "MobileDeviceBrand": "QMobile",
+    "MobileDeviceModel": "QMobile Noir i9",
+    "MobileDeviceOs": "Android 4.2, up to 4.4",
+    "MobileDeviceRelease": 2014
+  },
+  {
+    "id": 790,
+    "MobileDeviceBrand": "vivo",
+    "MobileDeviceModel": "vivo Y51a",
+    "MobileDeviceOs": "Android 11, Funtouch 11",
+    "MobileDeviceRelease": 2021
+  },
+  {
+    "id": 791,
+    "MobileDeviceBrand": "Gigabyte",
+    "MobileDeviceModel": "Gigabyte GSmart Classic",
+    "MobileDeviceOs": "Android 5.1",
+    "MobileDeviceRelease": 2015
+  },
+  {
+    "id": 792,
+    "MobileDeviceBrand": "LG",
+    "MobileDeviceModel": "LG LG-200",
+    "MobileDeviceOs": "Feature phone",
+    "MobileDeviceRelease": 0
+  },
+  {
+    "id": 793,
+    "MobileDeviceBrand": "Ericsson",
+    "MobileDeviceModel": "Ericsson T10s",
+    "MobileDeviceOs": "Feature phone",
+    "MobileDeviceRelease": 1999
+  },
+  {
+    "id": 794,
+    "MobileDeviceBrand": "HTC",
+    "MobileDeviceModel": "HTC Paradise",
+    "MobileDeviceOs": "Android OS",
+    "MobileDeviceRelease": 0
+  },
+  {
+    "id": 795,
+    "MobileDeviceBrand": "Spice",
+    "MobileDeviceModel": "Spice M-5454",
+    "MobileDeviceOs": "Feature phone",
+    "MobileDeviceRelease": 2010
+  },
+  {
+    "id": 796,
+    "MobileDeviceBrand": "LG",
+    "MobileDeviceModel": "LG Trax CU575",
+    "MobileDeviceOs": "Feature phone",
+    "MobileDeviceRelease": 2007
+  },
+  {
+    "id": 797,
+    "MobileDeviceBrand": "Acer",
+    "MobileDeviceModel": "Acer Iconia Tab B1-A71",
+    "MobileDeviceOs": "Android 4.1",
+    "MobileDeviceRelease": 2013
+  },
+  {
+    "id": 798,
+    "MobileDeviceBrand": "Samsung",
+    "MobileDeviceModel": "Samsung I9003 Galaxy SL",
+    "MobileDeviceOs": "Android 2.2, up to 2.3, TouchWiz UI 3",
+    "MobileDeviceRelease": 2011
+  },
+  {
+    "id": 799,
+    "MobileDeviceBrand": "Sagem",
+    "MobileDeviceModel": "Sagem MY X-3",
+    "MobileDeviceOs": "Feature phone",
+    "MobileDeviceRelease": 2002
+  },
+  {
+    "id": 800,
+    "MobileDeviceBrand": "Acer",
+    "MobileDeviceModel": "Acer beTouch E400",
+    "MobileDeviceOs": "Android 2.1",
+    "MobileDeviceRelease": 2010
+  },
+  {
+    "id": 801,
+    "MobileDeviceBrand": "Motorola",
+    "MobileDeviceModel": "Motorola Moto C",
+    "MobileDeviceOs": "Android 7.0",
+    "MobileDeviceRelease": 2017
+  },
+  {
+    "id": 802,
+    "MobileDeviceBrand": "ZTE",
+    "MobileDeviceModel": "ZTE Blade G V880G",
+    "MobileDeviceOs": "Android 4.1.2",
+    "MobileDeviceRelease": 2013
+  },
+  {
+    "id": 803,
+    "MobileDeviceBrand": "Micromax",
+    "MobileDeviceModel": "Micromax Canvas Fire 4 A107",
+    "MobileDeviceOs": "Android 5.0",
+    "MobileDeviceRelease": 2015
+  },
+  {
+    "id": 804,
+    "MobileDeviceBrand": "Microsoft",
+    "MobileDeviceModel": "Microsoft Lumia 1030",
+    "MobileDeviceOs": "Microsoft Windows 8.1",
+    "MobileDeviceRelease": 0
+  },
+  {
+    "id": 805,
+    "MobileDeviceBrand": "Xiaomi",
+    "MobileDeviceModel": "Xiaomi Mi Watch (China)",
+    "MobileDeviceOs": "Proprietary OS",
+    "MobileDeviceRelease": 2019
+  },
+  {
+    "id": 806,
+    "MobileDeviceBrand": "Motorola",
+    "MobileDeviceModel": "Motorola Moto G6 Play",
+    "MobileDeviceOs": "Android 8.0, up to Android 9.0",
+    "MobileDeviceRelease": 2018
+  },
+  {
+    "id": 807,
+    "MobileDeviceBrand": "Celkon",
+    "MobileDeviceModel": "Celkon Q450",
+    "MobileDeviceOs": "Android 4.4.2",
+    "MobileDeviceRelease": 2015
+  },
+  {
+    "id": 808,
+    "MobileDeviceBrand": "QMobile",
+    "MobileDeviceModel": "QMobile Noir i5",
+    "MobileDeviceOs": "Android 4.2, up to 4.4",
+    "MobileDeviceRelease": 2014
+  },
+  {
+    "id": 809,
+    "MobileDeviceBrand": "BLU",
+    "MobileDeviceModel": "BLU Tattoo TV",
+    "MobileDeviceOs": "Feature phone",
+    "MobileDeviceRelease": 2010
+  },
+  {
+    "id": 810,
+    "MobileDeviceBrand": "LG",
+    "MobileDeviceModel": "LG W30",
+    "MobileDeviceOs": "Android 9.0",
+    "MobileDeviceRelease": 2019
+  },
+  {
+    "id": 811,
+    "MobileDeviceBrand": "Lenovo",
+    "MobileDeviceModel": "Lenovo LePad S2010",
+    "MobileDeviceOs": "Android 2.3, up to 4.0",
+    "MobileDeviceRelease": 2012
+  },
+  {
+    "id": 812,
+    "MobileDeviceBrand": "QMobile",
+    "MobileDeviceModel": "QMobile Noir V4",
+    "MobileDeviceOs": "Android 4.2",
+    "MobileDeviceRelease": 2014
+  },
+  {
+    "id": 813,
+    "MobileDeviceBrand": "LG",
+    "MobileDeviceModel": "LG Folder 2",
+    "MobileDeviceOs": "Feature phone",
+    "MobileDeviceRelease": 2020
+  },
+  {
+    "id": 814,
+    "MobileDeviceBrand": "BLU",
+    "MobileDeviceModel": "BLU Life Mark",
+    "MobileDeviceOs": "Android 5.1",
+    "MobileDeviceRelease": 2016
+  },
+  {
+    "id": 815,
+    "MobileDeviceBrand": "BLU",
+    "MobileDeviceModel": "BLU Studio X10",
+    "MobileDeviceOs": "Android 10",
+    "MobileDeviceRelease": 2020
+  },
+  {
+    "id": 816,
+    "MobileDeviceBrand": "Samsung",
+    "MobileDeviceModel": "Samsung Vibrant",
+    "MobileDeviceOs": "Android 2.1, up to 2.2",
+    "MobileDeviceRelease": 2010
+  },
+  {
+    "id": 817,
+    "MobileDeviceBrand": "Icemobile",
+    "MobileDeviceModel": "Icemobile Acqua",
+    "MobileDeviceOs": "Feature phone",
+    "MobileDeviceRelease": 2012
+  },
+  {
+    "id": 818,
+    "MobileDeviceBrand": "Oppo",
+    "MobileDeviceModel": "Oppo F3 Plus",
+    "MobileDeviceOs": "Android 6, ColorOS 3",
+    "MobileDeviceRelease": 2017
+  },
+  {
+    "id": 819,
+    "MobileDeviceBrand": "LG",
+    "MobileDeviceModel": "LG F2410",
+    "MobileDeviceOs": "Feature phone",
+    "MobileDeviceRelease": 2005
+  },
+  {
+    "id": 820,
+    "MobileDeviceBrand": "HTC",
+    "MobileDeviceModel": "HTC Desire 625",
+    "MobileDeviceOs": "Android 5.1, Sense UI",
+    "MobileDeviceRelease": 2016
+  },
+  {
+    "id": 821,
+    "MobileDeviceBrand": "Motorola",
+    "MobileDeviceModel": "Motorola Moto G9 Play",
+    "MobileDeviceOs": "Android 10",
+    "MobileDeviceRelease": 2020
+  },
+  {
+    "id": 822,
+    "MobileDeviceBrand": "Huawei",
+    "MobileDeviceModel": "Huawei Y625",
+    "MobileDeviceOs": "Android 4.4.2, EMUI Lite 2.3",
+    "MobileDeviceRelease": 2015
+  },
+  {
+    "id": 823,
+    "MobileDeviceBrand": "Vodafone",
+    "MobileDeviceModel": "Vodafone Smart 4 max",
+    "MobileDeviceOs": "Android 4.4.2",
+    "MobileDeviceRelease": 2015
+  },
+  {
+    "id": 824,
+    "MobileDeviceBrand": "Philips",
+    "MobileDeviceModel": "Philips 892",
+    "MobileDeviceOs": "Feature phone",
+    "MobileDeviceRelease": 0
+  },
+  {
+    "id": 825,
+    "MobileDeviceBrand": "LG",
+    "MobileDeviceModel": "LG K51S",
+    "MobileDeviceOs": "Android 9.0",
+    "MobileDeviceRelease": 2020
+  },
+  {
+    "id": 826,
+    "MobileDeviceBrand": "Huawei",
+    "MobileDeviceModel": "Huawei Fusion U8652",
+    "MobileDeviceOs": "Android 2.3.3",
+    "MobileDeviceRelease": 2012
+  },
+  {
+    "id": 827,
+    "MobileDeviceBrand": "HTC",
+    "MobileDeviceModel": "HTC 7 Mozart",
+    "MobileDeviceOs": "Microsoft Windows Phone 7",
+    "MobileDeviceRelease": 2010
+  },
+  {
+    "id": 828,
+    "MobileDeviceBrand": "Huawei",
+    "MobileDeviceModel": "Huawei P8lite ALE-L04",
+    "MobileDeviceOs": "Android 4.4.4, EMUI 3",
+    "MobileDeviceRelease": 2015
+  },
+  {
+    "id": 829,
+    "MobileDeviceBrand": "HTC",
+    "MobileDeviceModel": "HTC Ville",
+    "MobileDeviceOs": "Android 4.0, Sense UI 4",
+    "MobileDeviceRelease": 0
+  },
+  {
+    "id": 830,
+    "MobileDeviceBrand": "Samsung",
+    "MobileDeviceModel": "Samsung S9402 Ego",
+    "MobileDeviceOs": "Feature phone",
+    "MobileDeviceRelease": 2009
+  },
+  {
+    "id": 831,
+    "MobileDeviceBrand": "Oppo",
+    "MobileDeviceModel": "Oppo A73 5G",
+    "MobileDeviceOs": "Android 10, ColorOS 7.2",
+    "MobileDeviceRelease": 2020
+  },
+  {
+    "id": 832,
+    "MobileDeviceBrand": "Nokia",
+    "MobileDeviceModel": "Nokia E90",
+    "MobileDeviceOs": "Symbian 9.2, S60 rel. 3.1",
+    "MobileDeviceRelease": 2007
+  },
+  {
+    "id": 833,
+    "MobileDeviceBrand": "alcatel",
+    "MobileDeviceModel": "alcatel Hero 2",
+    "MobileDeviceOs": "Android 4.4.2",
+    "MobileDeviceRelease": 2014
+  },
+  {
+    "id": 834,
+    "MobileDeviceBrand": "ZTE",
+    "MobileDeviceModel": "ZTE Quartz",
+    "MobileDeviceOs": "Android Wear OS 2.1",
+    "MobileDeviceRelease": 2017
+  },
+  {
+    "id": 835,
+    "MobileDeviceBrand": "Philips",
+    "MobileDeviceModel": "Philips Genie db",
+    "MobileDeviceOs": "Feature phone",
+    "MobileDeviceRelease": 1999
+  },
+  {
+    "id": 836,
+    "MobileDeviceBrand": "Mitsubishi",
+    "MobileDeviceModel": "Mitsubishi Trium Mars",
+    "MobileDeviceOs": "Feature phone",
+    "MobileDeviceRelease": 2000
+  },
+  {
+    "id": 837,
+    "MobileDeviceBrand": "YU",
+    "MobileDeviceModel": "YU Yutopia",
+    "MobileDeviceOs": "Android 5.1.1, Cyanogen 12.1",
+    "MobileDeviceRelease": 2015
+  },
+  {
+    "id": 838,
+    "MobileDeviceBrand": "LG",
+    "MobileDeviceModel": "LG Fathom VS750",
+    "MobileDeviceOs": "Microsoft Windows Mobile 6.5 Professional",
+    "MobileDeviceRelease": 2010
+  },
+  {
+    "id": 839,
+    "MobileDeviceBrand": "Sharp",
+    "MobileDeviceModel": "Sharp 936SH",
+    "MobileDeviceOs": "Feature phone",
+    "MobileDeviceRelease": 2009
+  },
+  {
+    "id": 840,
+    "MobileDeviceBrand": "LG",
+    "MobileDeviceModel": "LG GS107",
+    "MobileDeviceOs": "Feature phone",
+    "MobileDeviceRelease": 2010
+  },
+  {
+    "id": 841,
+    "MobileDeviceBrand": "Samsung",
+    "MobileDeviceModel": "Samsung C500",
+    "MobileDeviceOs": "Feature phone",
+    "MobileDeviceRelease": 2007
+  },
+  {
+    "id": 842,
+    "MobileDeviceBrand": "Allview",
+    "MobileDeviceModel": "Allview E4",
+    "MobileDeviceOs": "Android 5.1",
+    "MobileDeviceRelease": 2015
+  },
+  {
+    "id": 843,
+    "MobileDeviceBrand": "alcatel",
+    "MobileDeviceModel": "alcatel OT View db @",
+    "MobileDeviceOs": "Feature phone",
+    "MobileDeviceRelease": 2000
+  },
+  {
+    "id": 844,
+    "MobileDeviceBrand": "Motorola",
+    "MobileDeviceModel": "Motorola XOOM 2 3G MZ616",
+    "MobileDeviceOs": "Android 3.2, up to 4.0.4",
+    "MobileDeviceRelease": 2011
+  },
+  {
+    "id": 845,
+    "MobileDeviceBrand": "Motorola",
+    "MobileDeviceModel": "Motorola DROID XYBOARD 8.2 MZ609 ",
+    "MobileDeviceOs": "Android 3.2, up to 4.0",
+    "MobileDeviceRelease": 2011
+  },
+  {
+    "id": 846,
+    "MobileDeviceBrand": "i-mate",
+    "MobileDeviceModel": "i-mate Ultimate 9502",
+    "MobileDeviceOs": "Microsoft Windows Mobile 6.0 Professional",
+    "MobileDeviceRelease": 2008
+  },
+  {
+    "id": 847,
+    "MobileDeviceBrand": "HTC",
+    "MobileDeviceModel": "HTC Ignite",
+    "MobileDeviceOs": "Microsoft Windows Phone 7",
+    "MobileDeviceRelease": 0
+  },
+  {
+    "id": 848,
+    "MobileDeviceBrand": "HTC",
+    "MobileDeviceModel": "HTC One M8 Prime",
+    "MobileDeviceOs": "Android 4.4.2, Sense UI",
+    "MobileDeviceRelease": 0
+  },
+  {
+    "id": 849,
+    "MobileDeviceBrand": "OnePlus",
+    "MobileDeviceModel": "OnePlus 3",
+    "MobileDeviceOs": "Android 6.0.1, up to Android 9.0",
+    "MobileDeviceRelease": 2016
+  },
+  {
+    "id": 850,
+    "MobileDeviceBrand": "Icemobile",
+    "MobileDeviceModel": "Icemobile G7 Pro",
+    "MobileDeviceOs": "Android 4.2.2",
+    "MobileDeviceRelease": 2014
+  },
+  {
+    "id": 851,
+    "MobileDeviceBrand": "verykool",
+    "MobileDeviceModel": "verykool i122",
+    "MobileDeviceOs": "Feature phone",
+    "MobileDeviceRelease": 2011
+  },
+  {
+    "id": 852,
+    "MobileDeviceBrand": "Tecno",
+    "MobileDeviceModel": "Tecno Pop 1 Pro",
+    "MobileDeviceOs": "Android 7.0",
+    "MobileDeviceRelease": 2018
+  },
+  {
+    "id": 853,
+    "MobileDeviceBrand": "Lenovo",
+    "MobileDeviceModel": "Lenovo Tab P11",
+    "MobileDeviceOs": "Android 10",
+    "MobileDeviceRelease": 2021
+  },
+  {
+    "id": 854,
+    "MobileDeviceBrand": "Gigabyte",
+    "MobileDeviceModel": "Gigabyte GSmart G1362",
+    "MobileDeviceOs": "Android 4.0",
+    "MobileDeviceRelease": 2012
+  },
+  {
+    "id": 855,
+    "MobileDeviceBrand": "Spice",
+    "MobileDeviceModel": "Spice Mi-535 Stellar Pinnacle Pro",
+    "MobileDeviceOs": "Android 4.2",
+    "MobileDeviceRelease": 2013
+  },
+  {
+    "id": 856,
+    "MobileDeviceBrand": "Siemens",
+    "MobileDeviceModel": "Siemens C10",
+    "MobileDeviceOs": "Feature phone",
+    "MobileDeviceRelease": 1998
+  },
+  {
+    "id": 857,
+    "MobileDeviceBrand": "Nokia",
+    "MobileDeviceModel": "Nokia 8800",
+    "MobileDeviceOs": "Feature phone",
+    "MobileDeviceRelease": 2005
+  },
+  {
+    "id": 858,
+    "MobileDeviceBrand": "Samsung",
+    "MobileDeviceModel": "Samsung P705",
+    "MobileDeviceOs": "Feature phone",
+    "MobileDeviceRelease": 0
+  },
+  {
+    "id": 859,
+    "MobileDeviceBrand": "Xiaomi",
+    "MobileDeviceModel": "Xiaomi Mi 10T Pro 5G",
+    "MobileDeviceOs": "Android 10, up to Android 11, MIUI 12.5",
+    "MobileDeviceRelease": 2020
+  },
+  {
+    "id": 860,
+    "MobileDeviceBrand": "Celkon",
+    "MobileDeviceModel": "Celkon CT-888",
+    "MobileDeviceOs": "Android 4.0.4",
+    "MobileDeviceRelease": 2014
+  },
+  {
+    "id": 861,
+    "MobileDeviceBrand": "HTC",
+    "MobileDeviceModel": "HTC U12 life",
+    "MobileDeviceOs": "Android 8.1",
+    "MobileDeviceRelease": 2018
+  },
+  {
+    "id": 862,
+    "MobileDeviceBrand": "Motorola",
+    "MobileDeviceModel": "Motorola DROID BIONIC XT865",
+    "MobileDeviceOs": "Android 2.2.1, up to 4.1.2",
+    "MobileDeviceRelease": 0
+  },
+  {
+    "id": 863,
+    "MobileDeviceBrand": "BLU",
+    "MobileDeviceModel": "BLU Studio Mega 2019",
+    "MobileDeviceOs": "Android 9.0",
+    "MobileDeviceRelease": 2019
+  },
+  {
+    "id": 864,
+    "MobileDeviceBrand": "Haier",
+    "MobileDeviceModel": "Haier G7",
+    "MobileDeviceOs": "Android 7.0",
+    "MobileDeviceRelease": 2017
+  },
+  {
+    "id": 865,
+    "MobileDeviceBrand": "Nokia",
+    "MobileDeviceModel": "Nokia N93i",
+    "MobileDeviceOs": "Symbian OS 9.1, S60 3rd edition",
+    "MobileDeviceRelease": 2007
+  },
+  {
+    "id": 866,
+    "MobileDeviceBrand": "ZTE",
+    "MobileDeviceModel": "ZTE Blade V7 Lite",
+    "MobileDeviceOs": "Android 6.0",
+    "MobileDeviceRelease": 2016
+  },
+  {
+    "id": 867,
+    "MobileDeviceBrand": "Nokia",
+    "MobileDeviceModel": "Nokia C5",
+    "MobileDeviceOs": "Symbian 9.3, Series 60 rel. 3.2",
+    "MobileDeviceRelease": 2010
+  },
+  {
+    "id": 868,
+    "MobileDeviceBrand": "Nokia",
+    "MobileDeviceModel": "Nokia 7373",
+    "MobileDeviceOs": "Feature phone",
+    "MobileDeviceRelease": 2006
+  },
+  {
+    "id": 869,
+    "MobileDeviceBrand": "Xiaomi",
+    "MobileDeviceModel": "Xiaomi Mi Watch",
+    "MobileDeviceOs": "Proprietary OS",
+    "MobileDeviceRelease": 2020
+  },
+  {
+    "id": 870,
+    "MobileDeviceBrand": "Nokia",
+    "MobileDeviceModel": "Nokia C6",
+    "MobileDeviceOs": "Symbian 9.4, Series 60 rel. 5",
+    "MobileDeviceRelease": 2010
+  },
+  {
+    "id": 871,
+    "MobileDeviceBrand": "Motorola",
+    "MobileDeviceModel": "Motorola XOOM MZ601",
+    "MobileDeviceOs": "Android 3.0, 4.1.2, not up to 4.2",
+    "MobileDeviceRelease": 2011
+  },
+  {
+    "id": 872,
+    "MobileDeviceBrand": "Motorola",
+    "MobileDeviceModel": "Motorola W388",
+    "MobileDeviceOs": "Feature phone",
+    "MobileDeviceRelease": 2008
+  },
+  {
+    "id": 873,
+    "MobileDeviceBrand": "Oppo",
+    "MobileDeviceModel": "Oppo A31",
+    "MobileDeviceOs": "Android 9.0, ColorOS 6.1",
+    "MobileDeviceRelease": 2020
+  },
+  {
+    "id": 874,
+    "MobileDeviceBrand": "Yezz",
+    "MobileDeviceModel": "Yezz Andy A5QP",
+    "MobileDeviceOs": "Android 4.2, up to 4.4",
+    "MobileDeviceRelease": 2014
+  },
+  {
+    "id": 875,
+    "MobileDeviceBrand": "Samsung",
+    "MobileDeviceModel": "Samsung Galaxy Fame Lite Duos S6792L",
+    "MobileDeviceOs": "Android 4.1.2",
+    "MobileDeviceRelease": 2013
+  },
+  {
+    "id": 876,
+    "MobileDeviceBrand": "BenQ-Siemens",
+    "MobileDeviceModel": "BenQ-Siemens SF71",
+    "MobileDeviceOs": "Feature phone",
+    "MobileDeviceRelease": 2007
+  },
+  {
+    "id": 877,
+    "MobileDeviceBrand": "Celkon",
+    "MobileDeviceModel": "Celkon C44+",
+    "MobileDeviceOs": "Feature phone",
+    "MobileDeviceRelease": 2014
+  },
+  {
+    "id": 878,
+    "MobileDeviceBrand": "Casio",
+    "MobileDeviceModel": "Casio G'zOne CA-201L",
+    "MobileDeviceOs": "Android 4.0",
+    "MobileDeviceRelease": 2013
+  },
+  {
+    "id": 879,
+    "MobileDeviceBrand": "Motorola",
+    "MobileDeviceModel": "Motorola BRAVO MB520",
+    "MobileDeviceOs": "Android 2.1, up to 2.2",
+    "MobileDeviceRelease": 2010
+  },
+  {
+    "id": 880,
+    "MobileDeviceBrand": "Micromax",
+    "MobileDeviceModel": "Micromax A60",
+    "MobileDeviceOs": "Android 2.1",
+    "MobileDeviceRelease": 2010
+  },
+  {
+    "id": 881,
+    "MobileDeviceBrand": "Panasonic",
+    "MobileDeviceModel": "Panasonic T31",
+    "MobileDeviceOs": "Android 4.2.2",
+    "MobileDeviceRelease": 2013
+  },
+  {
+    "id": 882,
+    "MobileDeviceBrand": "Samsung",
+    "MobileDeviceModel": "Samsung Galaxy Tab 2 7.0 P3100",
+    "MobileDeviceOs": "Android 4.0.3, up to 4.2.2, TouchWiz UX UI",
+    "MobileDeviceRelease": 2012
+  },
+  {
+    "id": 883,
+    "MobileDeviceBrand": "vivo",
+    "MobileDeviceModel": "vivo iQOO Neo 855",
+    "MobileDeviceOs": "Android 9.0, Funtouch 9",
+    "MobileDeviceRelease": 2019
+  },
+  {
+    "id": 884,
+    "MobileDeviceBrand": "Icemobile",
+    "MobileDeviceModel": "Icemobile Rainbow",
+    "MobileDeviceOs": "Feature phone",
+    "MobileDeviceRelease": 2011
+  },
+  {
+    "id": 885,
+    "MobileDeviceBrand": "HTC",
+    "MobileDeviceModel": "HTC Desire 326G dual sim",
+    "MobileDeviceOs": "Android 4.4.2",
+    "MobileDeviceRelease": 2015
+  },
+  {
+    "id": 886,
+    "MobileDeviceBrand": "alcatel",
+    "MobileDeviceModel": "alcatel Pop 7 LTE",
+    "MobileDeviceOs": "Android 6.0.1",
+    "MobileDeviceRelease": 2016
+  },
+  {
+    "id": 887,
+    "MobileDeviceBrand": "HTC",
+    "MobileDeviceModel": "HTC One M9 Prime Camera",
+    "MobileDeviceOs": "Android 5, Sense UI 7",
+    "MobileDeviceRelease": 2016
+  },
+  {
+    "id": 888,
+    "MobileDeviceBrand": "ZTE",
+    "MobileDeviceModel": "ZTE N880E",
+    "MobileDeviceOs": "Android 2.3, 4.1.1, up to 4.2",
+    "MobileDeviceRelease": 2012
+  },
+  {
+    "id": 889,
+    "MobileDeviceBrand": "Celkon",
+    "MobileDeviceModel": "Celkon Millennia Hero",
+    "MobileDeviceOs": "Android 5.1",
+    "MobileDeviceRelease": 2015
+  },
+  {
+    "id": 890,
+    "MobileDeviceBrand": "Samsung",
+    "MobileDeviceModel": "Samsung i640",
+    "MobileDeviceOs": "Microsoft Windows Mobile 6.0 Standard",
+    "MobileDeviceRelease": 2008
+  },
+  {
+    "id": 891,
+    "MobileDeviceBrand": "Samsung",
+    "MobileDeviceModel": "Samsung Dart T499",
+    "MobileDeviceOs": "Android 2.2",
+    "MobileDeviceRelease": 2011
+  },
+  {
+    "id": 892,
+    "MobileDeviceBrand": "Apple",
+    "MobileDeviceModel": "Apple iPhone 11 Pro",
+    "MobileDeviceOs": "iOS 13, up to iOS 14.7",
+    "MobileDeviceRelease": 2019
+  },
+  {
+    "id": 893,
+    "MobileDeviceBrand": "Amoi",
+    "MobileDeviceModel": "Amoi A9B",
+    "MobileDeviceOs": "Feature phone",
+    "MobileDeviceRelease": 2003
+  },
+  {
+    "id": 894,
+    "MobileDeviceBrand": "Micromax",
+    "MobileDeviceModel": "Micromax X101",
+    "MobileDeviceOs": "Feature phone",
+    "MobileDeviceRelease": 2012
+  },
+  {
+    "id": 895,
+    "MobileDeviceBrand": "Xiaomi",
+    "MobileDeviceModel": "Xiaomi Redmi Note 4G",
+    "MobileDeviceOs": "Android 4.2, up to 4.4.2, MIUI 5",
+    "MobileDeviceRelease": 2014
+  },
+  {
+    "id": 896,
+    "MobileDeviceBrand": "Micromax",
+    "MobileDeviceModel": "Micromax Funbook Pro",
+    "MobileDeviceOs": "Android 4.0.3",
+    "MobileDeviceRelease": 2012
+  },
+  {
+    "id": 897,
+    "MobileDeviceBrand": "Huawei",
+    "MobileDeviceModel": "Huawei Mate 10 Pro",
+    "MobileDeviceOs": "Android 8.0, up to Android 10, EMUI 10.2",
+    "MobileDeviceRelease": 2017
+  },
+  {
+    "id": 898,
+    "MobileDeviceBrand": "Panasonic",
+    "MobileDeviceModel": "Panasonic P61",
+    "MobileDeviceOs": "Android 4.4.2",
+    "MobileDeviceRelease": 2014
+  },
+  {
+    "id": 899,
+    "MobileDeviceBrand": "Xiaomi",
+    "MobileDeviceModel": "Xiaomi Mi Max 4",
+    "MobileDeviceOs": "Android 9.0, MIUI 11",
+    "MobileDeviceRelease": 0
+  },
+  {
+    "id": 900,
+    "MobileDeviceBrand": "Allview",
+    "MobileDeviceModel": "Allview P10 Life",
+    "MobileDeviceOs": "Android 8.1",
+    "MobileDeviceRelease": 2019
+  },
+  {
+    "id": 901,
+    "MobileDeviceBrand": "Sony",
+    "MobileDeviceModel": "Sony Ericsson W700",
+    "MobileDeviceOs": "Feature phone",
+    "MobileDeviceRelease": 2006
+  },
+  {
+    "id": 902,
+    "MobileDeviceBrand": "Oppo",
+    "MobileDeviceModel": "Oppo Reno2 Z",
+    "MobileDeviceOs": "Android 9.0, up to Android 11, ColorOS 11",
+    "MobileDeviceRelease": 2019
+  },
+  {
+    "id": 903,
+    "MobileDeviceBrand": "Samsung",
+    "MobileDeviceModel": "Samsung E2370 Xcover",
+    "MobileDeviceOs": "Feature phone",
+    "MobileDeviceRelease": 2010
+  },
+  {
+    "id": 904,
+    "MobileDeviceBrand": "alcatel",
+    "MobileDeviceModel": "alcatel OT-808",
+    "MobileDeviceOs": "Feature phone",
+    "MobileDeviceRelease": 2010
+  },
+  {
+    "id": 905,
+    "MobileDeviceBrand": "Samsung",
+    "MobileDeviceModel": "Samsung T500",
+    "MobileDeviceOs": "Feature phone",
+    "MobileDeviceRelease": 2003
+  },
+  {
+    "id": 906,
+    "MobileDeviceBrand": "LG",
+    "MobileDeviceModel": "LG G5310",
+    "MobileDeviceOs": "Feature phone",
+    "MobileDeviceRelease": 2003
+  },
+  {
+    "id": 907,
+    "MobileDeviceBrand": "Samsung",
+    "MobileDeviceModel": "Samsung Galaxy Pocket Neo S5310",
+    "MobileDeviceOs": "Android 4.1.2",
+    "MobileDeviceRelease": 2013
+  },
+  {
+    "id": 908,
+    "MobileDeviceBrand": "XOLO",
+    "MobileDeviceModel": "XOLO Era 1X",
+    "MobileDeviceOs": "Android 6.0",
+    "MobileDeviceRelease": 2016
+  },
+  {
+    "id": 909,
+    "MobileDeviceBrand": "Honor",
+    "MobileDeviceModel": "Honor 4X",
+    "MobileDeviceOs": "Android 4.4.2, up to 6, EMUI 3",
+    "MobileDeviceRelease": 2014
+  },
+  {
+    "id": 910,
+    "MobileDeviceBrand": "AT&T",
+    "MobileDeviceModel": "AT&T 8525",
+    "MobileDeviceOs": "Microsoft Windows Mobile 6 Professional",
+    "MobileDeviceRelease": 2006
+  },
+  {
+    "id": 911,
+    "MobileDeviceBrand": "ZTE",
+    "MobileDeviceModel": "ZTE T98",
+    "MobileDeviceOs": "Android 4.0",
+    "MobileDeviceRelease": 2012
+  },
+  {
+    "id": 912,
+    "MobileDeviceBrand": "YU",
+    "MobileDeviceModel": "YU Yureka Black",
+    "MobileDeviceOs": "Android 6.0",
+    "MobileDeviceRelease": 2017
+  },
+  {
+    "id": 913,
+    "MobileDeviceBrand": "Icemobile",
+    "MobileDeviceModel": "Icemobile Tropical II",
+    "MobileDeviceOs": "Feature phone",
+    "MobileDeviceRelease": 2011
+  },
+  {
+    "id": 914,
+    "MobileDeviceBrand": "Nokia",
+    "MobileDeviceModel": "Nokia Lumia 525",
+    "MobileDeviceOs": "Microsoft Windows Phone 8, up to 8.1",
+    "MobileDeviceRelease": 2014
+  },
+  {
+    "id": 915,
+    "MobileDeviceBrand": "Pantech",
+    "MobileDeviceModel": "Pantech Vega R3 IM-A850L",
+    "MobileDeviceOs": "Android 4.0.4, up to 4.1",
+    "MobileDeviceRelease": 2012
+  },
+  {
+    "id": 916,
+    "MobileDeviceBrand": "Infinix",
+    "MobileDeviceModel": "Infinix Hot 7",
+    "MobileDeviceOs": "Android 8.0 Oreo",
+    "MobileDeviceRelease": 2019
+  },
+  {
+    "id": 917,
+    "MobileDeviceBrand": "Micromax",
+    "MobileDeviceModel": "Micromax X098",
+    "MobileDeviceOs": "Feature phone",
+    "MobileDeviceRelease": 2013
+  },
+  {
+    "id": 918,
+    "MobileDeviceBrand": "QMobile",
+    "MobileDeviceModel": "QMobile B100TV",
+    "MobileDeviceOs": "Feature phone",
+    "MobileDeviceRelease": 2014
+  },
+  {
+    "id": 919,
+    "MobileDeviceBrand": "Sony",
+    "MobileDeviceModel": "Sony Xperia Z3+ dual",
+    "MobileDeviceOs": "Android 5.0, up to 6.0",
+    "MobileDeviceRelease": 2015
+  },
+  {
+    "id": 920,
+    "MobileDeviceBrand": "HTC",
+    "MobileDeviceModel": "HTC EVO 3D",
+    "MobileDeviceOs": "Android 2.3, up to 4.0, Sense UI",
+    "MobileDeviceRelease": 2011
+  },
+  {
+    "id": 921,
+    "MobileDeviceBrand": "BLU",
+    "MobileDeviceModel": "BLU Energy XL",
+    "MobileDeviceOs": "Android 5.1",
+    "MobileDeviceRelease": 2016
+  },
+  {
+    "id": 922,
+    "MobileDeviceBrand": "HTC",
+    "MobileDeviceModel": "HTC One (M8) CDMA",
+    "MobileDeviceOs": "Android 4.4.2, up to 6, Sense UI 6",
+    "MobileDeviceRelease": 2014
+  },
+  {
+    "id": 923,
+    "MobileDeviceBrand": "Celkon",
+    "MobileDeviceModel": "Celkon C76",
+    "MobileDeviceOs": "Feature phone",
+    "MobileDeviceRelease": 2013
+  },
+  {
+    "id": 924,
+    "MobileDeviceBrand": "LG",
+    "MobileDeviceModel": "LG KE970 Shine",
+    "MobileDeviceOs": "Feature phone",
+    "MobileDeviceRelease": 2007
+  },
+  {
+    "id": 925,
+    "MobileDeviceBrand": "Allview",
+    "MobileDeviceModel": "Allview Allwatch Hybrid T",
+    "MobileDeviceOs": "Proprietary OS",
+    "MobileDeviceRelease": 2018
+  },
+  {
+    "id": 926,
+    "MobileDeviceBrand": "Philips",
+    "MobileDeviceModel": "Philips W8555",
+    "MobileDeviceOs": "Android 4.2",
+    "MobileDeviceRelease": 2013
+  },
+  {
+    "id": 927,
+    "MobileDeviceBrand": "Haier",
+    "MobileDeviceModel": "Haier G7",
+    "MobileDeviceOs": "Android 7.0",
+    "MobileDeviceRelease": 2017
+  },
+  {
+    "id": 928,
+    "MobileDeviceBrand": "XOLO",
+    "MobileDeviceModel": "XOLO One HD",
+    "MobileDeviceOs": "Android 5.1",
+    "MobileDeviceRelease": 2016
+  },
+  {
+    "id": 929,
+    "MobileDeviceBrand": "Lenovo",
+    "MobileDeviceModel": "Lenovo A269i",
+    "MobileDeviceOs": "Android 2.3",
+    "MobileDeviceRelease": 2013
+  },
+  {
+    "id": 930,
+    "MobileDeviceBrand": "ZTE",
+    "MobileDeviceModel": "ZTE F952",
+    "MobileDeviceOs": "Feature phone",
+    "MobileDeviceRelease": 2009
+  },
+  {
+    "id": 931,
+    "MobileDeviceBrand": "Parla",
+    "MobileDeviceModel": "Parla Minu P123",
+    "MobileDeviceOs": "Feature phone",
+    "MobileDeviceRelease": 2014
+  },
+  {
+    "id": 932,
+    "MobileDeviceBrand": "Huawei",
+    "MobileDeviceModel": "Huawei Watch Fit",
+    "MobileDeviceOs": "Proprietary OS",
+    "MobileDeviceRelease": 2020
+  },
+  {
+    "id": 933,
+    "MobileDeviceBrand": "Siemens",
+    "MobileDeviceModel": "Siemens SX1",
+    "MobileDeviceOs": "Symbian 6.1, Series 60 v1.0 UI",
+    "MobileDeviceRelease": 2003
+  },
+  {
+    "id": 934,
+    "MobileDeviceBrand": "Sagem",
+    "MobileDeviceModel": "Sagem VS4",
+    "MobileDeviceOs": "Feature phone",
+    "MobileDeviceRelease": 2005
+  },
+  {
+    "id": 935,
+    "MobileDeviceBrand": "Asus",
+    "MobileDeviceModel": "Asus Zenfone 2 Laser ZE500KG",
+    "MobileDeviceOs": "Android 5.0, up to 6.0, ZenUI",
+    "MobileDeviceRelease": 2015
+  },
+  {
+    "id": 936,
+    "MobileDeviceBrand": "HTC",
+    "MobileDeviceModel": "HTC Touch Diamond2",
+    "MobileDeviceOs": "Microsoft Windows Mobile 6.1 Professional",
+    "MobileDeviceRelease": 2009
+  },
+  {
+    "id": 937,
+    "MobileDeviceBrand": "Realme",
+    "MobileDeviceModel": "Realme Narzo 20",
+    "MobileDeviceOs": "Android 10, up to Android 11, Realme UI 2.0",
+    "MobileDeviceRelease": 2020
+  },
+  {
+    "id": 938,
+    "MobileDeviceBrand": "Bird",
+    "MobileDeviceModel": "Bird D706",
+    "MobileDeviceOs": "Feature phone",
+    "MobileDeviceRelease": 0
+  },
+  {
+    "id": 939,
+    "MobileDeviceBrand": "VK",
+    "MobileDeviceModel": "VK Mobile VK580",
+    "MobileDeviceOs": "Feature phone",
+    "MobileDeviceRelease": 2004
+  },
+  {
+    "id": 940,
+    "MobileDeviceBrand": "NIU",
+    "MobileDeviceModel": "NIU Niutek 3.5B",
+    "MobileDeviceOs": "Android 2.3",
+    "MobileDeviceRelease": 2013
+  },
+  {
+    "id": 941,
+    "MobileDeviceBrand": "Maxwest",
+    "MobileDeviceModel": "Maxwest MX-100",
+    "MobileDeviceOs": "Feature phone",
+    "MobileDeviceRelease": 2013
+  },
+  {
+    "id": 942,
+    "MobileDeviceBrand": "Micromax",
+    "MobileDeviceModel": "Micromax A90",
+    "MobileDeviceOs": "Android 4.0.3",
+    "MobileDeviceRelease": 2012
+  },
+  {
+    "id": 943,
+    "MobileDeviceBrand": "vivo",
+    "MobileDeviceModel": "vivo X5Max+",
+    "MobileDeviceOs": "Android 4.4.4, Funtouch 2",
+    "MobileDeviceRelease": 2015
+  },
+  {
+    "id": 944,
+    "MobileDeviceBrand": "Unnecto",
+    "MobileDeviceModel": "Unnecto Blaze",
+    "MobileDeviceOs": "Feature phone",
+    "MobileDeviceRelease": 2012
+  },
+  {
+    "id": 945,
+    "MobileDeviceBrand": "Karbonn",
+    "MobileDeviceModel": "Karbonn Titanium S1 Plus",
+    "MobileDeviceOs": "Android 4.3",
+    "MobileDeviceRelease": 2014
+  },
+  {
+    "id": 946,
+    "MobileDeviceBrand": "Nokia",
+    "MobileDeviceModel": "Nokia 2710 Navigation Edition",
+    "MobileDeviceOs": "Feature phone",
+    "MobileDeviceRelease": 2010
+  },
+  {
+    "id": 947,
+    "MobileDeviceBrand": "Spice",
+    "MobileDeviceModel": "Spice M-6800 FLO",
+    "MobileDeviceOs": "Feature phone",
+    "MobileDeviceRelease": 2011
+  },
+  {
+    "id": 948,
+    "MobileDeviceBrand": "Samsung",
+    "MobileDeviceModel": "Samsung Galaxy M30",
+    "MobileDeviceOs": "Android 8.1, up to Android 10, One UI 2",
+    "MobileDeviceRelease": 2019
+  },
+  {
+    "id": 949,
+    "MobileDeviceBrand": "Orange",
+    "MobileDeviceModel": "Orange Stockholm",
+    "MobileDeviceOs": "Android 2.2",
+    "MobileDeviceRelease": 2011
+  },
+  {
+    "id": 950,
+    "MobileDeviceBrand": "Karbonn",
+    "MobileDeviceModel": "Karbonn A2",
+    "MobileDeviceOs": "Android 2.3.6",
+    "MobileDeviceRelease": 2013
+  },
+  {
+    "id": 951,
+    "MobileDeviceBrand": "Samsung",
+    "MobileDeviceModel": "Samsung T439",
+    "MobileDeviceOs": "Feature phone",
+    "MobileDeviceRelease": 2007
+  },
+  {
+    "id": 952,
+    "MobileDeviceBrand": "BenQ",
+    "MobileDeviceModel": "BenQ E72",
+    "MobileDeviceOs": "Microsoft Windows Mobile 6.0",
+    "MobileDeviceRelease": 2007
+  },
+  {
+    "id": 953,
+    "MobileDeviceBrand": "Motorola",
+    "MobileDeviceModel": "Motorola RAZR D1",
+    "MobileDeviceOs": "Android 4.1, up to 4.4.2",
+    "MobileDeviceRelease": 2013
+  },
+  {
+    "id": 954,
+    "MobileDeviceBrand": "LG",
+    "MobileDeviceModel": "LG Cookie WiFi T310i",
+    "MobileDeviceOs": "Feature phone",
+    "MobileDeviceRelease": 2010
+  },
+  {
+    "id": 955,
+    "MobileDeviceBrand": "Tecno",
+    "MobileDeviceModel": "Tecno Pop 1",
+    "MobileDeviceOs": "Android 7.0",
+    "MobileDeviceRelease": 2018
+  },
+  {
+    "id": 956,
+    "MobileDeviceBrand": "LG",
+    "MobileDeviceModel": "LG KE820",
+    "MobileDeviceOs": "Feature phone",
+    "MobileDeviceRelease": 2006
+  },
+  {
+    "id": 957,
+    "MobileDeviceBrand": "BLU",
+    "MobileDeviceModel": "BLU Advance 4.0 L2",
+    "MobileDeviceOs": "Android 6.0",
+    "MobileDeviceRelease": 2016
+  },
+  {
+    "id": 958,
+    "MobileDeviceBrand": "Motorola",
+    "MobileDeviceModel": "Motorola V60i",
+    "MobileDeviceOs": "Feature phone",
+    "MobileDeviceRelease": 2002
+  },
+  {
+    "id": 959,
+    "MobileDeviceBrand": "Samsung",
+    "MobileDeviceModel": "Samsung Galaxy 551",
+    "MobileDeviceOs": "Android 2.2, up to 2.3.6",
+    "MobileDeviceRelease": 2010
+  },
+  {
+    "id": 960,
+    "MobileDeviceBrand": "Nokia",
+    "MobileDeviceModel": "Nokia 7210 Supernova",
+    "MobileDeviceOs": "Feature phone",
+    "MobileDeviceRelease": 2008
+  },
+  {
+    "id": 961,
+    "MobileDeviceBrand": "BLU",
+    "MobileDeviceModel": "BLU Samba",
+    "MobileDeviceOs": "Feature phone",
+    "MobileDeviceRelease": 2010
+  },
+  {
+    "id": 962,
+    "MobileDeviceBrand": "Celkon",
+    "MobileDeviceModel": "Celkon Q3000",
+    "MobileDeviceOs": "Android 4.4.2",
+    "MobileDeviceRelease": 2014
+  },
+  {
+    "id": 963,
+    "MobileDeviceBrand": "Samsung",
+    "MobileDeviceModel": "Samsung SPH-i325 Ace",
+    "MobileDeviceOs": "Microsoft Windows Mobile 6.0 Standard Edition",
+    "MobileDeviceRelease": 2007
+  },
+  {
+    "id": 964,
+    "MobileDeviceBrand": "HTC",
+    "MobileDeviceModel": "HTC Status",
+    "MobileDeviceOs": "Android 2.3",
+    "MobileDeviceRelease": 2011
+  },
+  {
+    "id": 965,
+    "MobileDeviceBrand": "Celkon",
+    "MobileDeviceModel": "Celkon C770 Dj",
+    "MobileDeviceOs": "Feature phone",
+    "MobileDeviceRelease": 2012
+  },
+  {
+    "id": 966,
+    "MobileDeviceBrand": "Motorola",
+    "MobileDeviceModel": "Motorola Moto G 4G Dual SIM (2nd gen)",
+    "MobileDeviceOs": "Android 5.0.2",
+    "MobileDeviceRelease": 2015
+  },
+  {
+    "id": 967,
+    "MobileDeviceBrand": "Siemens",
+    "MobileDeviceModel": "Siemens S65",
+    "MobileDeviceOs": "Feature phone",
+    "MobileDeviceRelease": 2004
+  },
+  {
+    "id": 968,
+    "MobileDeviceBrand": "LG",
+    "MobileDeviceModel": "LG Optimus L1 II E410",
+    "MobileDeviceOs": "Android 4.1.2",
+    "MobileDeviceRelease": 2013
+  },
+  {
+    "id": 969,
+    "MobileDeviceBrand": "Lenovo",
+    "MobileDeviceModel": "Lenovo A6 Note",
+    "MobileDeviceOs": "Android 9.0",
+    "MobileDeviceRelease": 2019
+  },
+  {
+    "id": 970,
+    "MobileDeviceBrand": "Sony",
+    "MobileDeviceModel": "Sony Ericsson Z500",
+    "MobileDeviceOs": "Feature phone",
+    "MobileDeviceRelease": 2004
+  },
+  {
+    "id": 971,
+    "MobileDeviceBrand": "Samsung",
+    "MobileDeviceModel": "Samsung Galaxy Tab 4 10.1",
+    "MobileDeviceOs": "Android 4.4.2, TouchWiz UX UI",
+    "MobileDeviceRelease": 2014
+  },
+  {
+    "id": 972,
+    "MobileDeviceBrand": "BLU",
+    "MobileDeviceModel": "BLU Vivo XL",
+    "MobileDeviceOs": "Android 5.1, up to 6.0",
+    "MobileDeviceRelease": 2016
+  },
+  {
+    "id": 973,
+    "MobileDeviceBrand": "Nokia",
+    "MobileDeviceModel": "Nokia 6.1 Plus (Nokia X6)",
+    "MobileDeviceOs": "Android 8.1, up to Android 10, Android One",
+    "MobileDeviceRelease": 2018
+  },
+  {
+    "id": 974,
+    "MobileDeviceBrand": "XOLO",
+    "MobileDeviceModel": "XOLO Era 2",
+    "MobileDeviceOs": "Android 6.0",
+    "MobileDeviceRelease": 2016
+  },
+  {
+    "id": 975,
+    "MobileDeviceBrand": "BLU",
+    "MobileDeviceModel": "BLU Win HD LTE",
+    "MobileDeviceOs": "Microsoft Windows Phone 8.1, up to Windows 10",
+    "MobileDeviceRelease": 2015
+  },
+  {
+    "id": 976,
+    "MobileDeviceBrand": "Allview",
+    "MobileDeviceModel": "Allview V1 Viper S4G",
+    "MobileDeviceOs": "Android 4.4",
+    "MobileDeviceRelease": 2014
+  },
+  {
+    "id": 977,
+    "MobileDeviceBrand": "LG",
+    "MobileDeviceModel": "LG C3320",
+    "MobileDeviceOs": "Feature phone",
+    "MobileDeviceRelease": 2005
+  },
+  {
+    "id": 978,
+    "MobileDeviceBrand": "XOLO",
+    "MobileDeviceModel": "XOLO Era 2",
+    "MobileDeviceOs": "Android 6.0",
+    "MobileDeviceRelease": 2016
+  },
+  {
+    "id": 979,
+    "MobileDeviceBrand": "Samsung",
+    "MobileDeviceModel": "Samsung Galaxy A Quantum",
+    "MobileDeviceOs": "Android 10, One UI 2",
+    "MobileDeviceRelease": 2020
+  },
+  {
+    "id": 980,
+    "MobileDeviceBrand": "O2",
+    "MobileDeviceModel": "O2 XDA Zinc",
+    "MobileDeviceOs": "Microsoft Windows Mobile 5.0 PocketPC",
+    "MobileDeviceRelease": 2006
+  },
+  {
+    "id": 981,
+    "MobileDeviceBrand": "Parla",
+    "MobileDeviceModel": "Parla Zum",
+    "MobileDeviceOs": "Feature phone",
+    "MobileDeviceRelease": 2012
+  },
+  {
+    "id": 982,
+    "MobileDeviceBrand": "Yezz",
+    "MobileDeviceModel": "Yezz Classic C30",
+    "MobileDeviceOs": "Feature phone",
+    "MobileDeviceRelease": 2013
+  },
+  {
+    "id": 983,
+    "MobileDeviceBrand": "Sagem",
+    "MobileDeviceModel": "Sagem MY Z-55",
+    "MobileDeviceOs": "Feature phone",
+    "MobileDeviceRelease": 2005
+  },
+  {
+    "id": 984,
+    "MobileDeviceBrand": "Celkon",
+    "MobileDeviceModel": "Celkon C7",
+    "MobileDeviceOs": "Feature phone",
+    "MobileDeviceRelease": 2011
+  },
+  {
+    "id": 985,
+    "MobileDeviceBrand": "Motorola",
+    "MobileDeviceModel": "Motorola RAZR V XT889",
+    "MobileDeviceOs": "Android 4.0.4",
+    "MobileDeviceRelease": 2012
+  },
+  {
+    "id": 986,
+    "MobileDeviceBrand": "VK",
+    "MobileDeviceModel": "VK Mobile VK4500",
+    "MobileDeviceOs": "Feature phone",
+    "MobileDeviceRelease": 2005
+  },
+  {
+    "id": 987,
+    "MobileDeviceBrand": "i-mobile",
+    "MobileDeviceModel": "i-mobile 5230",
+    "MobileDeviceOs": "Feature phone",
+    "MobileDeviceRelease": 2010
+  },
+  {
+    "id": 988,
+    "MobileDeviceBrand": "Allview",
+    "MobileDeviceModel": "Allview P9 Energy Lite (2017)",
+    "MobileDeviceOs": "Android 7.0",
+    "MobileDeviceRelease": 2017
+  },
+  {
+    "id": 989,
+    "MobileDeviceBrand": "BLU",
+    "MobileDeviceModel": "BLU Studio M HD",
+    "MobileDeviceOs": "Android 5.1",
+    "MobileDeviceRelease": 2016
+  },
+  {
+    "id": 990,
+    "MobileDeviceBrand": "BLU",
+    "MobileDeviceModel": "BLU Life Play Mini",
+    "MobileDeviceOs": "Android 4.4.2",
+    "MobileDeviceRelease": 2014
+  },
+  {
+    "id": 991,
+    "MobileDeviceBrand": "Samsung",
+    "MobileDeviceModel": "Samsung Exhilarate i577",
+    "MobileDeviceOs": "Android 2.3.6",
+    "MobileDeviceRelease": 2012
+  },
+  {
+    "id": 992,
+    "MobileDeviceBrand": "Amazon",
+    "MobileDeviceModel": "Amazon Fire HD 6",
+    "MobileDeviceOs": "Android 4.4, Fire 4",
+    "MobileDeviceRelease": 2014
+  },
+  {
+    "id": 993,
+    "MobileDeviceBrand": "Celkon",
+    "MobileDeviceModel": "Celkon C5",
+    "MobileDeviceOs": "Feature phone",
+    "MobileDeviceRelease": 2011
+  },
+  {
+    "id": 994,
+    "MobileDeviceBrand": "BLU",
+    "MobileDeviceModel": "BLU Energy X 2",
+    "MobileDeviceOs": "Android 5.1",
+    "MobileDeviceRelease": 2016
+  },
+  {
+    "id": 995,
+    "MobileDeviceBrand": "alcatel",
+    "MobileDeviceModel": "alcatel Hero 2",
+    "MobileDeviceOs": "Android 4.4.2",
+    "MobileDeviceRelease": 2014
+  },
+  {
+    "id": 996,
+    "MobileDeviceBrand": "Eten",
+    "MobileDeviceModel": "Eten P700",
+    "MobileDeviceOs": "Microsoft Windows Mobile 2003 PocketPC",
+    "MobileDeviceRelease": 2004
+  },
+  {
+    "id": 997,
+    "MobileDeviceBrand": "BLU",
+    "MobileDeviceModel": "BLU Life One M",
+    "MobileDeviceOs": "Android 4.2",
+    "MobileDeviceRelease": 2014
+  },
+  {
+    "id": 998,
+    "MobileDeviceBrand": "LG",
+    "MobileDeviceModel": "LG C1400",
+    "MobileDeviceOs": "Feature phone",
+    "MobileDeviceRelease": 2004
+  },
+  {
+    "id": 999,
+    "MobileDeviceBrand": "Samsung",
+    "MobileDeviceModel": "Samsung Galaxy Tab 2 10.1 P5110",
+    "MobileDeviceOs": "Android 4.0.3, up to 4.2.2, TouchWiz UX UI",
+    "MobileDeviceRelease": 2012
+  },
+  {
+    "id": 1000,
+    "MobileDeviceBrand": "Nokia",
+    "MobileDeviceModel": "Nokia 3120",
+    "MobileDeviceOs": "Feature phone",
+    "MobileDeviceRelease": 2004
+  }
+]
