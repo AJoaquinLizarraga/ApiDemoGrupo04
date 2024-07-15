@@ -1,0 +1,8002 @@
+[
+  {
+    "id": 1,
+    "city": "Trpinja",
+    "country": "Croatia",
+    "country_code": "HR",
+    "latitude": 45.4447185,
+    "time_zone": "Europe/Zagreb"
+  },
+  {
+    "id": 2,
+    "city": "Qadsīyā",
+    "country": "Syria",
+    "country_code": "SY",
+    "latitude": 33.54832,
+    "time_zone": "Asia/Damascus"
+  },
+  {
+    "id": 3,
+    "city": "Miaogou",
+    "country": "China",
+    "country_code": "CN",
+    "latitude": 32.729683,
+    "time_zone": "Asia/Chongqing"
+  },
+  {
+    "id": 4,
+    "city": "Velké Karlovice",
+    "country": "Czech Republic",
+    "country_code": "CZ",
+    "latitude": 49.3649919,
+    "time_zone": "Europe/Prague"
+  },
+  {
+    "id": 5,
+    "city": "Zhushan Chengguanzhen",
+    "country": "China",
+    "country_code": "CN",
+    "latitude": 32.235967,
+    "time_zone": "Asia/Chongqing"
+  },
+  {
+    "id": 6,
+    "city": "Kill",
+    "country": "Ireland",
+    "country_code": "IE",
+    "latitude": 53.2482376,
+    "time_zone": "Europe/Dublin"
+  },
+  {
+    "id": 7,
+    "city": "Daguyun",
+    "country": "China",
+    "country_code": "CN",
+    "latitude": 26.259427,
+    "time_zone": "Asia/Shanghai"
+  },
+  {
+    "id": 8,
+    "city": "Minuwangoda",
+    "country": "Sri Lanka",
+    "country_code": "LK",
+    "latitude": 7.156124,
+    "time_zone": "Asia/Colombo"
+  },
+  {
+    "id": 9,
+    "city": "Huaikan",
+    "country": "China",
+    "country_code": "CN",
+    "latitude": 33.551052,
+    "time_zone": "Asia/Shanghai"
+  },
+  {
+    "id": 10,
+    "city": "Umuquena",
+    "country": "Venezuela",
+    "country_code": "VE",
+    "latitude": 8.2673715,
+    "time_zone": "America/Caracas"
+  },
+  {
+    "id": 11,
+    "city": "Kocēni",
+    "country": "Latvia",
+    "country_code": "LV",
+    "latitude": 57.5225959,
+    "time_zone": "Europe/Riga"
+  },
+  {
+    "id": 12,
+    "city": "Hanover",
+    "country": "Canada",
+    "country_code": "CA",
+    "latitude": 44.1498975,
+    "time_zone": "America/Toronto"
+  },
+  {
+    "id": 13,
+    "city": "Saint-Gaudens",
+    "country": "France",
+    "country_code": "FR",
+    "latitude": 43.0926393,
+    "time_zone": "Europe/Paris"
+  },
+  {
+    "id": 14,
+    "city": "Ambato",
+    "country": "Ecuador",
+    "country_code": "EC",
+    "latitude": -1.2543408,
+    "time_zone": "America/Guayaquil"
+  },
+  {
+    "id": 15,
+    "city": "Kazaure",
+    "country": "Nigeria",
+    "country_code": "NG",
+    "latitude": 12.6532933,
+    "time_zone": "Africa/Lagos"
+  },
+  {
+    "id": 16,
+    "city": "Kathmandu",
+    "country": "Nepal",
+    "country_code": "NP",
+    "latitude": 27.7172453,
+    "time_zone": "Asia/Kathmandu"
+  },
+  {
+    "id": 17,
+    "city": "Bobonan",
+    "country": "Philippines",
+    "country_code": "PH",
+    "latitude": 16.1391267,
+    "time_zone": "Asia/Manila"
+  },
+  {
+    "id": 18,
+    "city": "Niba",
+    "country": "China",
+    "country_code": "CN",
+    "latitude": 31.16384,
+    "time_zone": "Asia/Chongqing"
+  },
+  {
+    "id": 19,
+    "city": "Oratorio",
+    "country": "Guatemala",
+    "country_code": "GT",
+    "latitude": 15.3242773,
+    "time_zone": "America/Guatemala"
+  },
+  {
+    "id": 20,
+    "city": "Itapetinga",
+    "country": "Brazil",
+    "country_code": "BR",
+    "latitude": -15.2475119,
+    "time_zone": "America/Bahia"
+  },
+  {
+    "id": 21,
+    "city": "Santa Rita do Sapucaí",
+    "country": "Brazil",
+    "country_code": "BR",
+    "latitude": -22.2528986,
+    "time_zone": "America/Sao_Paulo"
+  },
+  {
+    "id": 22,
+    "city": "Stockholm",
+    "country": "Sweden",
+    "country_code": "SE",
+    "latitude": 59.31257,
+    "time_zone": "Europe/Stockholm"
+  },
+  {
+    "id": 23,
+    "city": "Rennes",
+    "country": "France",
+    "country_code": "FR",
+    "latitude": 48.1164447,
+    "time_zone": "Europe/Paris"
+  },
+  {
+    "id": 24,
+    "city": "Orléans",
+    "country": "France",
+    "country_code": "FR",
+    "latitude": 47.895835,
+    "time_zone": "Europe/Paris"
+  },
+  {
+    "id": 25,
+    "city": "Halat",
+    "country": "Indonesia",
+    "country_code": "ID",
+    "latitude": 3.5722301,
+    "time_zone": "Asia/Makassar"
+  },
+  {
+    "id": 26,
+    "city": "Heidelberg",
+    "country": "South Africa",
+    "country_code": "ZA",
+    "latitude": -26.2396883,
+    "time_zone": "Africa/Johannesburg"
+  },
+  {
+    "id": 27,
+    "city": "Ladan",
+    "country": "Indonesia",
+    "country_code": "ID",
+    "latitude": 3.3570113,
+    "time_zone": "Asia/Jakarta"
+  },
+  {
+    "id": 28,
+    "city": "Bayabas",
+    "country": "Philippines",
+    "country_code": "PH",
+    "latitude": 8.9800511,
+    "time_zone": "Asia/Manila"
+  },
+  {
+    "id": 29,
+    "city": "Povorino",
+    "country": "Russia",
+    "country_code": "RU",
+    "latitude": 51.1907529,
+    "time_zone": "Europe/Moscow"
+  },
+  {
+    "id": 30,
+    "city": "Jatisari",
+    "country": "Indonesia",
+    "country_code": "ID",
+    "latitude": -6.3385652,
+    "time_zone": "Asia/Jakarta"
+  },
+  {
+    "id": 31,
+    "city": "Guinsadan",
+    "country": "Philippines",
+    "country_code": "PH",
+    "latitude": 16.944093,
+    "time_zone": "Asia/Manila"
+  },
+  {
+    "id": 32,
+    "city": "Qiaochong",
+    "country": "China",
+    "country_code": "CN",
+    "latitude": 22.920341,
+    "time_zone": "Asia/Shanghai"
+  },
+  {
+    "id": 33,
+    "city": "Shanxia",
+    "country": "China",
+    "country_code": "CN",
+    "latitude": 37.2425649,
+    "time_zone": "Asia/Shanghai"
+  },
+  {
+    "id": 34,
+    "city": "Ugljan",
+    "country": "Croatia",
+    "country_code": "HR",
+    "latitude": 44.1316723,
+    "time_zone": "Europe/Zagreb"
+  },
+  {
+    "id": 35,
+    "city": "Ambohitrolomahitsy",
+    "country": "Madagascar",
+    "country_code": "MG",
+    "latitude": -18.7,
+    "time_zone": "Indian/Antananarivo"
+  },
+  {
+    "id": 36,
+    "city": "Sukamahi Satu",
+    "country": "Indonesia",
+    "country_code": "ID",
+    "latitude": -6.3811392,
+    "time_zone": "Asia/Jakarta"
+  },
+  {
+    "id": 37,
+    "city": "U Minh",
+    "country": "Vietnam",
+    "country_code": "VN",
+    "latitude": 9.3554435,
+    "time_zone": "Asia/Ho_Chi_Minh"
+  },
+  {
+    "id": 38,
+    "city": "Ennery",
+    "country": "Haiti",
+    "country_code": "HT",
+    "latitude": 19.4849192,
+    "time_zone": "America/Port-au-Prince"
+  },
+  {
+    "id": 39,
+    "city": "Bom Conselho",
+    "country": "Brazil",
+    "country_code": "BR",
+    "latitude": -9.2786495,
+    "time_zone": "America/Recife"
+  },
+  {
+    "id": 40,
+    "city": "Pécs",
+    "country": "Hungary",
+    "country_code": "HU",
+    "latitude": 46.0852466,
+    "time_zone": "Europe/Budapest"
+  },
+  {
+    "id": 41,
+    "city": "Road Town",
+    "country": "British Virgin Islands",
+    "country_code": "VG",
+    "latitude": 18.4286115,
+    "time_zone": "America/Tortola"
+  },
+  {
+    "id": 42,
+    "city": "Comapa",
+    "country": "Guatemala",
+    "country_code": "GT",
+    "latitude": 14.113818,
+    "time_zone": "America/Guatemala"
+  },
+  {
+    "id": 43,
+    "city": "Quebracho",
+    "country": "Uruguay",
+    "country_code": "UY",
+    "latitude": -31.9326576,
+    "time_zone": "America/Montevideo"
+  },
+  {
+    "id": 44,
+    "city": "Los Cóndores",
+    "country": "Argentina",
+    "country_code": "AR",
+    "latitude": -31.3582685,
+    "time_zone": "America/Argentina/Cordoba"
+  },
+  {
+    "id": 45,
+    "city": "Yiyang",
+    "country": "China",
+    "country_code": "CN",
+    "latitude": 28.55386,
+    "time_zone": "Asia/Chongqing"
+  },
+  {
+    "id": 46,
+    "city": "Santa Venera",
+    "country": "Malta",
+    "country_code": "MT",
+    "latitude": 35.892944,
+    "time_zone": "Europe/Malta"
+  },
+  {
+    "id": 47,
+    "city": "San Miguel",
+    "country": "Philippines",
+    "country_code": "PH",
+    "latitude": 8.955271,
+    "time_zone": "Asia/Manila"
+  },
+  {
+    "id": 48,
+    "city": "Washington",
+    "country": "United States",
+    "country_code": "US",
+    "latitude": 38.92,
+    "time_zone": "America/New_York"
+  },
+  {
+    "id": 49,
+    "city": "Gimcheon",
+    "country": "South Korea",
+    "country_code": "KR",
+    "latitude": 36.1398393,
+    "time_zone": "Asia/Seoul"
+  },
+  {
+    "id": 50,
+    "city": "Florencia",
+    "country": "Colombia",
+    "country_code": "CO",
+    "latitude": 1.683061,
+    "time_zone": "America/Bogota"
+  },
+  {
+    "id": 51,
+    "city": "Ke’erlun",
+    "country": "China",
+    "country_code": "CN",
+    "latitude": 48.167927,
+    "time_zone": "Asia/Harbin"
+  },
+  {
+    "id": 52,
+    "city": "Bo Phloi",
+    "country": "Thailand",
+    "country_code": "TH",
+    "latitude": 14.3059024,
+    "time_zone": "Asia/Bangkok"
+  },
+  {
+    "id": 53,
+    "city": "Casais Brancos",
+    "country": "Portugal",
+    "country_code": "PT",
+    "latitude": 39.3404866,
+    "time_zone": "Europe/Lisbon"
+  },
+  {
+    "id": 54,
+    "city": "Tambakmerak",
+    "country": "Indonesia",
+    "country_code": "ID",
+    "latitude": -7.0921189,
+    "time_zone": "Asia/Jakarta"
+  },
+  {
+    "id": 55,
+    "city": "Tunguang",
+    "country": "China",
+    "country_code": "CN",
+    "latitude": 29.722611,
+    "time_zone": "Asia/Shanghai"
+  },
+  {
+    "id": 56,
+    "city": "Luzern",
+    "country": "Switzerland",
+    "country_code": "CH",
+    "latitude": 47.0641228,
+    "time_zone": "Europe/Zurich"
+  },
+  {
+    "id": 57,
+    "city": "Rungis",
+    "country": "France",
+    "country_code": "FR",
+    "latitude": 48.7700185,
+    "time_zone": "Europe/Paris"
+  },
+  {
+    "id": 58,
+    "city": "Meedhoo",
+    "country": "Maldives",
+    "country_code": "MV",
+    "latitude": -0.5833333,
+    "time_zone": "Indian/Maldives"
+  },
+  {
+    "id": 59,
+    "city": "Las Flores",
+    "country": "Mexico",
+    "country_code": "MX",
+    "latitude": 20.900993,
+    "time_zone": "America/Mexico_City"
+  },
+  {
+    "id": 60,
+    "city": "Esperanza",
+    "country": "Philippines",
+    "country_code": "PH",
+    "latitude": 14.7342524,
+    "time_zone": "Asia/Manila"
+  },
+  {
+    "id": 61,
+    "city": "Gataivai",
+    "country": "Samoa",
+    "country_code": "WS",
+    "latitude": -13.7720906,
+    "time_zone": "Pacific/Apia"
+  },
+  {
+    "id": 62,
+    "city": "Shebekino",
+    "country": "Russia",
+    "country_code": "RU",
+    "latitude": 50.4086421,
+    "time_zone": "Europe/Moscow"
+  },
+  {
+    "id": 63,
+    "city": "Wendo",
+    "country": "Ethiopia",
+    "country_code": "ET",
+    "latitude": 7.0841684,
+    "time_zone": "Africa/Addis_Ababa"
+  },
+  {
+    "id": 64,
+    "city": "Kumba",
+    "country": "Cameroon",
+    "country_code": "CM",
+    "latitude": 4.6333268,
+    "time_zone": "Africa/Douala"
+  },
+  {
+    "id": 65,
+    "city": "Tamberías",
+    "country": "Argentina",
+    "country_code": "AR",
+    "latitude": -31.5868009,
+    "time_zone": "America/Argentina/San_Juan"
+  },
+  {
+    "id": 66,
+    "city": "Linxi",
+    "country": "China",
+    "country_code": "CN",
+    "latitude": 43.61812,
+    "time_zone": "Asia/Chongqing"
+  },
+  {
+    "id": 67,
+    "city": "Playas",
+    "country": "Ecuador",
+    "country_code": "EC",
+    "latitude": -2.6284683,
+    "time_zone": "America/Guayaquil"
+  },
+  {
+    "id": 68,
+    "city": "Weishanzhuang",
+    "country": "China",
+    "country_code": "CN",
+    "latitude": 39.63148,
+    "time_zone": "Asia/Shanghai"
+  },
+  {
+    "id": 69,
+    "city": "Erada",
+    "country": "Portugal",
+    "country_code": "PT",
+    "latitude": 40.2240899,
+    "time_zone": "Europe/Lisbon"
+  },
+  {
+    "id": 70,
+    "city": "Licheng",
+    "country": "China",
+    "country_code": "CN",
+    "latitude": 25.431829,
+    "time_zone": "Asia/Chongqing"
+  },
+  {
+    "id": 71,
+    "city": "Andalan",
+    "country": "Philippines",
+    "country_code": "PH",
+    "latitude": 5.9691815,
+    "time_zone": "Asia/Manila"
+  },
+  {
+    "id": 72,
+    "city": "Jinhe",
+    "country": "China",
+    "country_code": "CN",
+    "latitude": 26.695419,
+    "time_zone": "Asia/Harbin"
+  },
+  {
+    "id": 73,
+    "city": "Moramanga",
+    "country": "Madagascar",
+    "country_code": "MG",
+    "latitude": -18.9489026,
+    "time_zone": "Indian/Antananarivo"
+  },
+  {
+    "id": 74,
+    "city": "Shangsanji",
+    "country": "China",
+    "country_code": "CN",
+    "latitude": 38.322854,
+    "time_zone": "Asia/Shanghai"
+  },
+  {
+    "id": 75,
+    "city": "Vesëlyy",
+    "country": "Russia",
+    "country_code": "RU",
+    "latitude": 47.0914911,
+    "time_zone": "Europe/Moscow"
+  },
+  {
+    "id": 76,
+    "city": "San Jose",
+    "country": "United States",
+    "country_code": "US",
+    "latitude": 37.39,
+    "time_zone": "America/Los_Angeles"
+  },
+  {
+    "id": 77,
+    "city": "Mandala",
+    "country": "Indonesia",
+    "country_code": "ID",
+    "latitude": -7.347756,
+    "time_zone": "Asia/Jakarta"
+  },
+  {
+    "id": 78,
+    "city": "Flórina",
+    "country": "Greece",
+    "country_code": "GR",
+    "latitude": 40.7845262,
+    "time_zone": "Europe/Athens"
+  },
+  {
+    "id": 79,
+    "city": "Yekaterinovka",
+    "country": "Russia",
+    "country_code": "RU",
+    "latitude": 42.9285549,
+    "time_zone": "Asia/Vladivostok"
+  },
+  {
+    "id": 80,
+    "city": "Shushi",
+    "country": "Azerbaijan",
+    "country_code": "AZ",
+    "latitude": 39.7537438,
+    "time_zone": "Asia/Baku"
+  },
+  {
+    "id": 81,
+    "city": "Aya",
+    "country": "Russia",
+    "country_code": "RU",
+    "latitude": 51.954075,
+    "time_zone": "Asia/Omsk"
+  },
+  {
+    "id": 82,
+    "city": "Ijuí",
+    "country": "Brazil",
+    "country_code": "BR",
+    "latitude": -28.3833642,
+    "time_zone": "America/Sao_Paulo"
+  },
+  {
+    "id": 83,
+    "city": "Liuxiang",
+    "country": "China",
+    "country_code": "CN",
+    "latitude": 33.012631,
+    "time_zone": "Asia/Chongqing"
+  },
+  {
+    "id": 84,
+    "city": "Illushi",
+    "country": "Nigeria",
+    "country_code": "NG",
+    "latitude": 6.6687831,
+    "time_zone": "Africa/Lagos"
+  },
+  {
+    "id": 85,
+    "city": "Poligny",
+    "country": "France",
+    "country_code": "FR",
+    "latitude": 48.0395425,
+    "time_zone": "Europe/Paris"
+  },
+  {
+    "id": 86,
+    "city": "Aţ Ţaybah",
+    "country": "Palestinian Territory",
+    "country_code": "PS",
+    "latitude": 32.51494,
+    "time_zone": "Asia/Jerusalem"
+  },
+  {
+    "id": 87,
+    "city": "Một Ngàn",
+    "country": "Vietnam",
+    "country_code": "VN",
+    "latitude": 9.9372776,
+    "time_zone": "Asia/Ho_Chi_Minh"
+  },
+  {
+    "id": 88,
+    "city": "Polo",
+    "country": "Philippines",
+    "country_code": "PH",
+    "latitude": 14.709034,
+    "time_zone": "Asia/Manila"
+  },
+  {
+    "id": 89,
+    "city": "Krajan Gebangan",
+    "country": "Indonesia",
+    "country_code": "ID",
+    "latitude": -7.6752,
+    "time_zone": "Asia/Jakarta"
+  },
+  {
+    "id": 90,
+    "city": "Sarajevo",
+    "country": "Bosnia and Herzegovina",
+    "country_code": "BA",
+    "latitude": 43.8562586,
+    "time_zone": "Europe/Sarajevo"
+  },
+  {
+    "id": 91,
+    "city": "Wilkołaz",
+    "country": "Poland",
+    "country_code": "PL",
+    "latitude": 51.0026948,
+    "time_zone": "Europe/Warsaw"
+  },
+  {
+    "id": 92,
+    "city": "Antequera",
+    "country": "Paraguay",
+    "country_code": "PY",
+    "latitude": -24.085215,
+    "time_zone": "America/Asuncion"
+  },
+  {
+    "id": 93,
+    "city": "Kocēni",
+    "country": "Latvia",
+    "country_code": "LV",
+    "latitude": 57.5225959,
+    "time_zone": "Europe/Riga"
+  },
+  {
+    "id": 94,
+    "city": "Soasio",
+    "country": "Indonesia",
+    "country_code": "ID",
+    "latitude": 0.7988772,
+    "time_zone": "Asia/Jayapura"
+  },
+  {
+    "id": 95,
+    "city": "Devesa",
+    "country": "Portugal",
+    "country_code": "PT",
+    "latitude": 41.866056,
+    "time_zone": "Europe/Lisbon"
+  },
+  {
+    "id": 96,
+    "city": "Pedro II",
+    "country": "Brazil",
+    "country_code": "BR",
+    "latitude": -4.4338427,
+    "time_zone": "America/Fortaleza"
+  },
+  {
+    "id": 97,
+    "city": "Olhos de Água",
+    "country": "Portugal",
+    "country_code": "PT",
+    "latitude": 38.6052087,
+    "time_zone": "Europe/Lisbon"
+  },
+  {
+    "id": 98,
+    "city": "Pensacola",
+    "country": "United States",
+    "country_code": "US",
+    "latitude": 30.475663,
+    "time_zone": "America/Chicago"
+  },
+  {
+    "id": 99,
+    "city": "Tijucas",
+    "country": "Brazil",
+    "country_code": "BR",
+    "latitude": -27.240063,
+    "time_zone": "America/Sao_Paulo"
+  },
+  {
+    "id": 100,
+    "city": "Casal Novo",
+    "country": "Portugal",
+    "country_code": "PT",
+    "latitude": 39.8843177,
+    "time_zone": "Europe/Lisbon"
+  },
+  {
+    "id": 101,
+    "city": "Желино",
+    "country": "Macedonia",
+    "country_code": "MK",
+    "latitude": 41.989901,
+    "time_zone": "Europe/Skopje"
+  },
+  {
+    "id": 102,
+    "city": "Sanxixiang",
+    "country": "China",
+    "country_code": "CN",
+    "latitude": 26.097158,
+    "time_zone": "Asia/Shanghai"
+  },
+  {
+    "id": 103,
+    "city": "Gyeongsan-si",
+    "country": "South Korea",
+    "country_code": "KR",
+    "latitude": 35.8250555,
+    "time_zone": "Asia/Seoul"
+  },
+  {
+    "id": 104,
+    "city": "Itacurubí del Rosario",
+    "country": "Paraguay",
+    "country_code": "PY",
+    "latitude": -24.5415767,
+    "time_zone": "America/Asuncion"
+  },
+  {
+    "id": 105,
+    "city": "Tulaghi",
+    "country": "Solomon Islands",
+    "country_code": "SB",
+    "latitude": -9.1015826,
+    "time_zone": "Pacific/Guadalcanal"
+  },
+  {
+    "id": 106,
+    "city": "Damasak",
+    "country": "Nigeria",
+    "country_code": "NG",
+    "latitude": 13.0996105,
+    "time_zone": "Africa/Niamey"
+  },
+  {
+    "id": 107,
+    "city": "Lons-le-Saunier",
+    "country": "France",
+    "country_code": "FR",
+    "latitude": 46.6693059,
+    "time_zone": "Europe/Paris"
+  },
+  {
+    "id": 108,
+    "city": "Obita",
+    "country": "Japan",
+    "country_code": "JP",
+    "latitude": 35.3209172,
+    "time_zone": "Asia/Tokyo"
+  },
+  {
+    "id": 109,
+    "city": "Tucuran",
+    "country": "Philippines",
+    "country_code": "PH",
+    "latitude": 7.8518373,
+    "time_zone": "Asia/Manila"
+  },
+  {
+    "id": 110,
+    "city": "Lyubashivka",
+    "country": "Ukraine",
+    "country_code": "UA",
+    "latitude": 47.8329451,
+    "time_zone": "Europe/Kiev"
+  },
+  {
+    "id": 111,
+    "city": "Xinglong",
+    "country": "China",
+    "country_code": "CN",
+    "latitude": 40.417358,
+    "time_zone": "Asia/Chongqing"
+  },
+  {
+    "id": 112,
+    "city": "Lianhe",
+    "country": "China",
+    "country_code": "CN",
+    "latitude": 36.608183,
+    "time_zone": "Asia/Shanghai"
+  },
+  {
+    "id": 113,
+    "city": "Dake",
+    "country": "China",
+    "country_code": "CN",
+    "latitude": 26.076336,
+    "time_zone": "Asia/Chongqing"
+  },
+  {
+    "id": 114,
+    "city": "Hwaseong-si",
+    "country": "South Korea",
+    "country_code": "KR",
+    "latitude": 37.1994932,
+    "time_zone": "Asia/Seoul"
+  },
+  {
+    "id": 115,
+    "city": "Dateng",
+    "country": "Indonesia",
+    "country_code": "ID",
+    "latitude": -6.9665934,
+    "time_zone": "Asia/Jakarta"
+  },
+  {
+    "id": 116,
+    "city": "Heshang",
+    "country": "China",
+    "country_code": "CN",
+    "latitude": 25.941708,
+    "time_zone": "Asia/Shanghai"
+  },
+  {
+    "id": 117,
+    "city": "Chapimarca",
+    "country": "Peru",
+    "country_code": "PE",
+    "latitude": -13.97797,
+    "time_zone": "America/Lima"
+  },
+  {
+    "id": 118,
+    "city": "Daqiao",
+    "country": "China",
+    "country_code": "CN",
+    "latitude": 36.7821,
+    "time_zone": "Asia/Chongqing"
+  },
+  {
+    "id": 119,
+    "city": "Villa Constitución",
+    "country": "Argentina",
+    "country_code": "AR",
+    "latitude": -34.6269535,
+    "time_zone": "America/Argentina/Cordoba"
+  },
+  {
+    "id": 120,
+    "city": "Langádhia",
+    "country": "Greece",
+    "country_code": "GR",
+    "latitude": 37.6818606,
+    "time_zone": "Europe/Athens"
+  },
+  {
+    "id": 121,
+    "city": "Yandian",
+    "country": "China",
+    "country_code": "CN",
+    "latitude": 35.563819,
+    "time_zone": "Asia/Chongqing"
+  },
+  {
+    "id": 122,
+    "city": "Loučná nad Desnou",
+    "country": "Czech Republic",
+    "country_code": "CZ",
+    "latitude": 50.1046609,
+    "time_zone": "Europe/Prague"
+  },
+  {
+    "id": 123,
+    "city": "Aberdeen",
+    "country": "United Kingdom",
+    "country_code": "GB",
+    "latitude": 56.968436,
+    "time_zone": "Europe/London"
+  },
+  {
+    "id": 124,
+    "city": "Bungoma",
+    "country": "Kenya",
+    "country_code": "KE",
+    "latitude": 0.5695252,
+    "time_zone": "Africa/Nairobi"
+  },
+  {
+    "id": 125,
+    "city": "Mardakyany",
+    "country": "Azerbaijan",
+    "country_code": "AZ",
+    "latitude": 40.4810579,
+    "time_zone": "Asia/Baku"
+  },
+  {
+    "id": 126,
+    "city": "Weiwangzhuang",
+    "country": "China",
+    "country_code": "CN",
+    "latitude": 37.473022,
+    "time_zone": "Asia/Shanghai"
+  },
+  {
+    "id": 127,
+    "city": "Rancakuya",
+    "country": "Indonesia",
+    "country_code": "ID",
+    "latitude": -7.1423376,
+    "time_zone": "Asia/Jakarta"
+  },
+  {
+    "id": 128,
+    "city": "Helang",
+    "country": "China",
+    "country_code": "CN",
+    "latitude": 22.550092,
+    "time_zone": "Asia/Chongqing"
+  },
+  {
+    "id": 129,
+    "city": "Yalkhoy-Mokhk",
+    "country": "Russia",
+    "country_code": "RU",
+    "latitude": 43.10528,
+    "time_zone": "Europe/Moscow"
+  },
+  {
+    "id": 130,
+    "city": "Sarandë",
+    "country": "Albania",
+    "country_code": "AL",
+    "latitude": 39.8592119,
+    "time_zone": "Europe/Tirane"
+  },
+  {
+    "id": 131,
+    "city": "Kuwumkumambal",
+    "country": "Indonesia",
+    "country_code": "ID",
+    "latitude": -8.4879,
+    "time_zone": "Asia/Makassar"
+  },
+  {
+    "id": 132,
+    "city": "Yangzi Jianglu",
+    "country": "China",
+    "country_code": "CN",
+    "latitude": 31.848499,
+    "time_zone": "Asia/Urumqi"
+  },
+  {
+    "id": 133,
+    "city": "Düsseldorf",
+    "country": "Germany",
+    "country_code": "DE",
+    "latitude": 51.3305246,
+    "time_zone": "Europe/Berlin"
+  },
+  {
+    "id": 134,
+    "city": "Göteborg",
+    "country": "Sweden",
+    "country_code": "SE",
+    "latitude": 57.7328579,
+    "time_zone": "Europe/Stockholm"
+  },
+  {
+    "id": 135,
+    "city": "Maxixe",
+    "country": "Mozambique",
+    "country_code": "MZ",
+    "latitude": -23.8611302,
+    "time_zone": "Africa/Maputo"
+  },
+  {
+    "id": 136,
+    "city": "Rosso",
+    "country": "Mauritania",
+    "country_code": "MR",
+    "latitude": 16.5163413,
+    "time_zone": "Africa/Dakar"
+  },
+  {
+    "id": 137,
+    "city": "Kulpin",
+    "country": "Serbia",
+    "country_code": "RS",
+    "latitude": 45.4048515,
+    "time_zone": "Europe/Belgrade"
+  },
+  {
+    "id": 138,
+    "city": "Hưng Nguyên",
+    "country": "Vietnam",
+    "country_code": "VN",
+    "latitude": 18.6316742,
+    "time_zone": "Asia/Ho_Chi_Minh"
+  },
+  {
+    "id": 139,
+    "city": "Porteirinha",
+    "country": "Brazil",
+    "country_code": "BR",
+    "latitude": -15.741151,
+    "time_zone": "America/Sao_Paulo"
+  },
+  {
+    "id": 140,
+    "city": "Długosiodło",
+    "country": "Poland",
+    "country_code": "PL",
+    "latitude": 52.7765719,
+    "time_zone": "Europe/Warsaw"
+  },
+  {
+    "id": 141,
+    "city": "Kobylanka",
+    "country": "Poland",
+    "country_code": "PL",
+    "latitude": 53.36117,
+    "time_zone": "Europe/Warsaw"
+  },
+  {
+    "id": 142,
+    "city": "Saint John",
+    "country": "Malta",
+    "country_code": "MT",
+    "latitude": 35.90556,
+    "time_zone": "Europe/Malta"
+  },
+  {
+    "id": 143,
+    "city": "Roma",
+    "country": "Italy",
+    "country_code": "IT",
+    "latitude": 41.8647615,
+    "time_zone": "Europe/Rome"
+  },
+  {
+    "id": 144,
+    "city": "Si’en",
+    "country": "China",
+    "country_code": "CN",
+    "latitude": 23.0998443,
+    "time_zone": "Asia/Chongqing"
+  },
+  {
+    "id": 145,
+    "city": "Chervonoarmiys’k",
+    "country": "Ukraine",
+    "country_code": "UA",
+    "latitude": 50.4254568,
+    "time_zone": "Europe/Kiev"
+  },
+  {
+    "id": 146,
+    "city": "Bunog",
+    "country": "Philippines",
+    "country_code": "PH",
+    "latitude": 9.074122,
+    "time_zone": "Asia/Manila"
+  },
+  {
+    "id": 147,
+    "city": "Mamboma",
+    "country": "Sierra Leone",
+    "country_code": "SL",
+    "latitude": 7.833333,
+    "time_zone": "Africa/Freetown"
+  },
+  {
+    "id": 148,
+    "city": "Jasienica",
+    "country": "Poland",
+    "country_code": "PL",
+    "latitude": 49.8376215,
+    "time_zone": "Europe/Warsaw"
+  },
+  {
+    "id": 149,
+    "city": "Anrong",
+    "country": "China",
+    "country_code": "CN",
+    "latitude": 22.851846,
+    "time_zone": "Asia/Shanghai"
+  },
+  {
+    "id": 150,
+    "city": "Tanjung Kidul",
+    "country": "Indonesia",
+    "country_code": "ID",
+    "latitude": -7.4394897,
+    "time_zone": "Asia/Jakarta"
+  },
+  {
+    "id": 151,
+    "city": "Kanáli",
+    "country": "Greece",
+    "country_code": "GR",
+    "latitude": 39.068035,
+    "time_zone": "Europe/Athens"
+  },
+  {
+    "id": 152,
+    "city": "Gaotian",
+    "country": "China",
+    "country_code": "CN",
+    "latitude": 24.310713,
+    "time_zone": "Asia/Chongqing"
+  },
+  {
+    "id": 153,
+    "city": "Uzunovo",
+    "country": "Russia",
+    "country_code": "RU",
+    "latitude": 54.5442039,
+    "time_zone": "Europe/Moscow"
+  },
+  {
+    "id": 154,
+    "city": "Mel’nikovo",
+    "country": "Russia",
+    "country_code": "RU",
+    "latitude": 56.5496799,
+    "time_zone": "Asia/Krasnoyarsk"
+  },
+  {
+    "id": 155,
+    "city": "Tangkeng",
+    "country": "China",
+    "country_code": "CN",
+    "latitude": 23.742497,
+    "time_zone": "Asia/Shanghai"
+  },
+  {
+    "id": 156,
+    "city": "Derviçian",
+    "country": "Albania",
+    "country_code": "AL",
+    "latitude": 40.0316754,
+    "time_zone": "Europe/Tirane"
+  },
+  {
+    "id": 157,
+    "city": "Sa'dah",
+    "country": "Yemen",
+    "country_code": "YE",
+    "latitude": 16.9509413,
+    "time_zone": "Asia/Riyadh"
+  },
+  {
+    "id": 158,
+    "city": "Ganja",
+    "country": "Azerbaijan",
+    "country_code": "AZ",
+    "latitude": 40.6878581,
+    "time_zone": "Asia/Baku"
+  },
+  {
+    "id": 159,
+    "city": "Pereiras",
+    "country": "Portugal",
+    "country_code": "PT",
+    "latitude": 41.2699428,
+    "time_zone": "Europe/Lisbon"
+  },
+  {
+    "id": 160,
+    "city": "Tsagaan-Olom",
+    "country": "Mongolia",
+    "country_code": "MN",
+    "latitude": 46.71327,
+    "time_zone": "Asia/Ulaanbaatar"
+  },
+  {
+    "id": 161,
+    "city": "Choibalsan",
+    "country": "Mongolia",
+    "country_code": "MN",
+    "latitude": 48.0951271,
+    "time_zone": "Asia/Ulaanbaatar"
+  },
+  {
+    "id": 162,
+    "city": "Mundolsheim",
+    "country": "France",
+    "country_code": "FR",
+    "latitude": 48.6443358,
+    "time_zone": "Europe/Paris"
+  },
+  {
+    "id": 163,
+    "city": "Nagrog Wetan",
+    "country": "Indonesia",
+    "country_code": "ID",
+    "latitude": -6.9871199,
+    "time_zone": "Asia/Jakarta"
+  },
+  {
+    "id": 164,
+    "city": "Palkovice",
+    "country": "Czech Republic",
+    "country_code": "CZ",
+    "latitude": 49.6325518,
+    "time_zone": "Europe/Prague"
+  },
+  {
+    "id": 165,
+    "city": "Oslo",
+    "country": "Norway",
+    "country_code": "NO",
+    "latitude": 59.9374398,
+    "time_zone": "Europe/Oslo"
+  },
+  {
+    "id": 166,
+    "city": "Przytyk",
+    "country": "Poland",
+    "country_code": "PL",
+    "latitude": 51.4617501,
+    "time_zone": "Europe/Warsaw"
+  },
+  {
+    "id": 167,
+    "city": "Talun",
+    "country": "Indonesia",
+    "country_code": "ID",
+    "latitude": -8.0941273,
+    "time_zone": "Asia/Jakarta"
+  },
+  {
+    "id": 168,
+    "city": "Butajīra",
+    "country": "Ethiopia",
+    "country_code": "ET",
+    "latitude": 8.116779,
+    "time_zone": "Africa/Addis_Ababa"
+  },
+  {
+    "id": 169,
+    "city": "Sukadana",
+    "country": "Indonesia",
+    "country_code": "ID",
+    "latitude": -1.2468663,
+    "time_zone": "Asia/Makassar"
+  },
+  {
+    "id": 170,
+    "city": "Palmas De Gran Canaria, Las",
+    "country": "Spain",
+    "country_code": "ES",
+    "latitude": 28.0990178,
+    "time_zone": "Atlantic/Canary"
+  },
+  {
+    "id": 171,
+    "city": "Lubień",
+    "country": "Poland",
+    "country_code": "PL",
+    "latitude": 49.6968574,
+    "time_zone": "Europe/Warsaw"
+  },
+  {
+    "id": 172,
+    "city": "Oliveirinha",
+    "country": "Portugal",
+    "country_code": "PT",
+    "latitude": 40.60624,
+    "time_zone": "Europe/Lisbon"
+  },
+  {
+    "id": 173,
+    "city": "Sevilla",
+    "country": "Colombia",
+    "country_code": "CO",
+    "latitude": 4.2743779,
+    "time_zone": "America/Bogota"
+  },
+  {
+    "id": 174,
+    "city": "Buenos Aires",
+    "country": "Peru",
+    "country_code": "PE",
+    "latitude": -8.1448805,
+    "time_zone": "America/Lima"
+  },
+  {
+    "id": 175,
+    "city": "Anjie",
+    "country": "China",
+    "country_code": "CN",
+    "latitude": 30.638674,
+    "time_zone": "Asia/Shanghai"
+  },
+  {
+    "id": 176,
+    "city": "Daveluyville",
+    "country": "Canada",
+    "country_code": "CA",
+    "latitude": 46.20006,
+    "time_zone": "America/Montreal"
+  },
+  {
+    "id": 177,
+    "city": "Braga",
+    "country": "Portugal",
+    "country_code": "PT",
+    "latitude": 41.5678915,
+    "time_zone": "Europe/Lisbon"
+  },
+  {
+    "id": 178,
+    "city": "Brumado",
+    "country": "Brazil",
+    "country_code": "BR",
+    "latitude": -14.1968614,
+    "time_zone": "America/Bahia"
+  },
+  {
+    "id": 179,
+    "city": "Changjiang",
+    "country": "China",
+    "country_code": "CN",
+    "latitude": 30.5211502,
+    "time_zone": "Asia/Shanghai"
+  },
+  {
+    "id": 180,
+    "city": "Píritu",
+    "country": "Venezuela",
+    "country_code": "VE",
+    "latitude": 10.0566953,
+    "time_zone": "America/Caracas"
+  },
+  {
+    "id": 181,
+    "city": "Ithari",
+    "country": "Nepal",
+    "country_code": "NP",
+    "latitude": 26.6646381,
+    "time_zone": "Asia/Kathmandu"
+  },
+  {
+    "id": 182,
+    "city": "Puerto Ayacucho",
+    "country": "Venezuela",
+    "country_code": "VE",
+    "latitude": 5.6614718,
+    "time_zone": "America/Caracas"
+  },
+  {
+    "id": 183,
+    "city": "Haolibao",
+    "country": "China",
+    "country_code": "CN",
+    "latitude": 42.654146,
+    "time_zone": "Asia/Harbin"
+  },
+  {
+    "id": 184,
+    "city": "Koton Karifi",
+    "country": "Nigeria",
+    "country_code": "NG",
+    "latitude": 8.1,
+    "time_zone": "Africa/Lagos"
+  },
+  {
+    "id": 185,
+    "city": "Baiyang",
+    "country": "China",
+    "country_code": "CN",
+    "latitude": 34.540852,
+    "time_zone": "Asia/Chongqing"
+  },
+  {
+    "id": 186,
+    "city": "Zhonghuopu",
+    "country": "China",
+    "country_code": "CN",
+    "latitude": 29.751072,
+    "time_zone": "Asia/Chongqing"
+  },
+  {
+    "id": 187,
+    "city": "Zabłocie",
+    "country": "Poland",
+    "country_code": "PL",
+    "latitude": 51.0610829,
+    "time_zone": "Europe/Warsaw"
+  },
+  {
+    "id": 188,
+    "city": "Aswan",
+    "country": "Egypt",
+    "country_code": "EG",
+    "latitude": 24.088938,
+    "time_zone": "Africa/Cairo"
+  },
+  {
+    "id": 189,
+    "city": "Nantuo",
+    "country": "China",
+    "country_code": "CN",
+    "latitude": 23.9179637,
+    "time_zone": "Asia/Chongqing"
+  },
+  {
+    "id": 190,
+    "city": "Fengyuan",
+    "country": "China",
+    "country_code": "CN",
+    "latitude": 22.333918,
+    "time_zone": "Asia/Chongqing"
+  },
+  {
+    "id": 191,
+    "city": "Abade de Neiva",
+    "country": "Portugal",
+    "country_code": "PT",
+    "latitude": 41.5498969,
+    "time_zone": "Europe/Lisbon"
+  },
+  {
+    "id": 192,
+    "city": "Radzanów",
+    "country": "Poland",
+    "country_code": "PL",
+    "latitude": 51.5574609,
+    "time_zone": "Europe/Warsaw"
+  },
+  {
+    "id": 193,
+    "city": "Caridade",
+    "country": "Portugal",
+    "country_code": "PT",
+    "latitude": 38.4475572,
+    "time_zone": "Europe/Lisbon"
+  },
+  {
+    "id": 194,
+    "city": "Naifaru",
+    "country": "Maldives",
+    "country_code": "MV",
+    "latitude": 5.4443719,
+    "time_zone": "Indian/Maldives"
+  },
+  {
+    "id": 195,
+    "city": "Lianxia",
+    "country": "China",
+    "country_code": "CN",
+    "latitude": 23.493474,
+    "time_zone": "Asia/Shanghai"
+  },
+  {
+    "id": 196,
+    "city": "Enskede",
+    "country": "Sweden",
+    "country_code": "SE",
+    "latitude": 59.2848437,
+    "time_zone": "Europe/Stockholm"
+  },
+  {
+    "id": 197,
+    "city": "Kristinehamn",
+    "country": "Sweden",
+    "country_code": "SE",
+    "latitude": 59.3030191,
+    "time_zone": "Europe/Stockholm"
+  },
+  {
+    "id": 198,
+    "city": "Amboasary",
+    "country": "Madagascar",
+    "country_code": "MG",
+    "latitude": -24.333333,
+    "time_zone": "Indian/Antananarivo"
+  },
+  {
+    "id": 199,
+    "city": "Tangxian",
+    "country": "China",
+    "country_code": "CN",
+    "latitude": 38.748203,
+    "time_zone": "Asia/Chongqing"
+  },
+  {
+    "id": 200,
+    "city": "Xinjia",
+    "country": "China",
+    "country_code": "CN",
+    "latitude": 42.5246357,
+    "time_zone": "Asia/Chongqing"
+  },
+  {
+    "id": 201,
+    "city": "Thị Trấn Phú Mỹ",
+    "country": "Vietnam",
+    "country_code": "VN",
+    "latitude": 10.5905345,
+    "time_zone": "Asia/Ho_Chi_Minh"
+  },
+  {
+    "id": 202,
+    "city": "Bystřice nad Pernštejnem",
+    "country": "Czech Republic",
+    "country_code": "CZ",
+    "latitude": 49.522946,
+    "time_zone": "Europe/Prague"
+  },
+  {
+    "id": 203,
+    "city": "Yangliu",
+    "country": "China",
+    "country_code": "CN",
+    "latitude": 52.5307386,
+    "time_zone": "Asia/Shanghai"
+  },
+  {
+    "id": 204,
+    "city": "Manaulanan",
+    "country": "Philippines",
+    "country_code": "PH",
+    "latitude": 7.0539999,
+    "time_zone": "Asia/Manila"
+  },
+  {
+    "id": 205,
+    "city": "Minami-rinkan",
+    "country": "Japan",
+    "country_code": "JP",
+    "latitude": 35.4957441,
+    "time_zone": "Asia/Tokyo"
+  },
+  {
+    "id": 206,
+    "city": "Bovec",
+    "country": "Slovenia",
+    "country_code": "SI",
+    "latitude": 46.3376387,
+    "time_zone": "Europe/Rome"
+  },
+  {
+    "id": 207,
+    "city": "Petäjävesi",
+    "country": "Finland",
+    "country_code": "FI",
+    "latitude": 62.2500936,
+    "time_zone": "Europe/Helsinki"
+  },
+  {
+    "id": 208,
+    "city": "Vale Maceiras",
+    "country": "Portugal",
+    "country_code": "PT",
+    "latitude": 39.0038214,
+    "time_zone": "Europe/Lisbon"
+  },
+  {
+    "id": 209,
+    "city": "Çlirim",
+    "country": "Albania",
+    "country_code": "AL",
+    "latitude": 40.4187499,
+    "time_zone": "Europe/Tirane"
+  },
+  {
+    "id": 210,
+    "city": "Kim Sơn",
+    "country": "Vietnam",
+    "country_code": "VN",
+    "latitude": 21.4198142,
+    "time_zone": "Asia/Ho_Chi_Minh"
+  },
+  {
+    "id": 211,
+    "city": "Zhelin",
+    "country": "China",
+    "country_code": "CN",
+    "latitude": 29.2642495,
+    "time_zone": "Asia/Shanghai"
+  },
+  {
+    "id": 212,
+    "city": "Kant",
+    "country": "Kyrgyzstan",
+    "country_code": "KG",
+    "latitude": 42.8883195,
+    "time_zone": "Asia/Bishkek"
+  },
+  {
+    "id": 213,
+    "city": "Radostowice",
+    "country": "Poland",
+    "country_code": "PL",
+    "latitude": 49.9466816,
+    "time_zone": "Europe/Warsaw"
+  },
+  {
+    "id": 214,
+    "city": "Bộc Bố",
+    "country": "Vietnam",
+    "country_code": "VN",
+    "latitude": 22.6194565,
+    "time_zone": "Asia/Ho_Chi_Minh"
+  },
+  {
+    "id": 215,
+    "city": "Anmore",
+    "country": "Canada",
+    "country_code": "CA",
+    "latitude": 49.2686175,
+    "time_zone": "America/Vancouver"
+  },
+  {
+    "id": 216,
+    "city": "Kalengwa",
+    "country": "Zambia",
+    "country_code": "ZM",
+    "latitude": -13.4605423,
+    "time_zone": "Africa/Lusaka"
+  },
+  {
+    "id": 217,
+    "city": "Wang’er",
+    "country": "China",
+    "country_code": "CN",
+    "latitude": 40.1919977,
+    "time_zone": "Asia/Shanghai"
+  },
+  {
+    "id": 218,
+    "city": "Colombes",
+    "country": "France",
+    "country_code": "FR",
+    "latitude": 48.9101028,
+    "time_zone": "Europe/Paris"
+  },
+  {
+    "id": 219,
+    "city": "Niyang",
+    "country": "China",
+    "country_code": "CN",
+    "latitude": 36.097577,
+    "time_zone": "Asia/Chongqing"
+  },
+  {
+    "id": 220,
+    "city": "Cigedang",
+    "country": "Indonesia",
+    "country_code": "ID",
+    "latitude": -7.0303222,
+    "time_zone": "Asia/Jakarta"
+  },
+  {
+    "id": 221,
+    "city": "Vairão",
+    "country": "Portugal",
+    "country_code": "PT",
+    "latitude": 41.3309238,
+    "time_zone": "Europe/Lisbon"
+  },
+  {
+    "id": 222,
+    "city": "Bhāi Pheru",
+    "country": "Pakistan",
+    "country_code": "PK",
+    "latitude": 31.2031123,
+    "time_zone": "Asia/Karachi"
+  },
+  {
+    "id": 223,
+    "city": "Malummaduri",
+    "country": "Nigeria",
+    "country_code": "NG",
+    "latitude": 12.565,
+    "time_zone": "Africa/Lagos"
+  },
+  {
+    "id": 224,
+    "city": "Tongyu",
+    "country": "China",
+    "country_code": "CN",
+    "latitude": 44.81291,
+    "time_zone": "Asia/Shanghai"
+  },
+  {
+    "id": 225,
+    "city": "Zadní Mostek",
+    "country": "Czech Republic",
+    "country_code": "CZ",
+    "latitude": 50.4987034,
+    "time_zone": "Europe/Prague"
+  },
+  {
+    "id": 226,
+    "city": "Miskolc",
+    "country": "Hungary",
+    "country_code": "HU",
+    "latitude": 48.0793507,
+    "time_zone": "Europe/Budapest"
+  },
+  {
+    "id": 227,
+    "city": "Nanmu",
+    "country": "China",
+    "country_code": "CN",
+    "latitude": 47.801401,
+    "time_zone": "Asia/Chongqing"
+  },
+  {
+    "id": 228,
+    "city": "Ágios Andréas",
+    "country": "Greece",
+    "country_code": "GR",
+    "latitude": 36.8634887,
+    "time_zone": "Europe/Athens"
+  },
+  {
+    "id": 229,
+    "city": "Victoria",
+    "country": "Philippines",
+    "country_code": "PH",
+    "latitude": 14.5346437,
+    "time_zone": "Asia/Manila"
+  },
+  {
+    "id": 230,
+    "city": "Metallostroy",
+    "country": "Russia",
+    "country_code": "RU",
+    "latitude": 59.79769,
+    "time_zone": "Europe/Moscow"
+  },
+  {
+    "id": 231,
+    "city": "Thap Than",
+    "country": "Thailand",
+    "country_code": "TH",
+    "latitude": 15.491919,
+    "time_zone": "Asia/Bangkok"
+  },
+  {
+    "id": 232,
+    "city": "Wilkes Barre",
+    "country": "United States",
+    "country_code": "US",
+    "latitude": 41.2164036,
+    "time_zone": "America/New_York"
+  },
+  {
+    "id": 233,
+    "city": "Jutiapa",
+    "country": "Guatemala",
+    "country_code": "GT",
+    "latitude": 14.2926501,
+    "time_zone": "America/Guatemala"
+  },
+  {
+    "id": 234,
+    "city": "Xekar",
+    "country": "China",
+    "country_code": "CN",
+    "latitude": 39.816173,
+    "time_zone": "Asia/Kashgar"
+  },
+  {
+    "id": 235,
+    "city": "Krajan Waturoyo",
+    "country": "Indonesia",
+    "country_code": "ID",
+    "latitude": -6.5951,
+    "time_zone": "Asia/Jakarta"
+  },
+  {
+    "id": 236,
+    "city": "Ko Si Chang",
+    "country": "Thailand",
+    "country_code": "TH",
+    "latitude": 13.1561057,
+    "time_zone": "Asia/Bangkok"
+  },
+  {
+    "id": 237,
+    "city": "Mougins",
+    "country": "France",
+    "country_code": "FR",
+    "latitude": 43.6167837,
+    "time_zone": "Europe/Paris"
+  },
+  {
+    "id": 238,
+    "city": "Eqbālīyeh",
+    "country": "Iran",
+    "country_code": "IR",
+    "latitude": 36.2291285,
+    "time_zone": "Asia/Tehran"
+  },
+  {
+    "id": 239,
+    "city": "Lumphăt",
+    "country": "Cambodia",
+    "country_code": "KH",
+    "latitude": 13.4833399,
+    "time_zone": "Asia/Phnom_Penh"
+  },
+  {
+    "id": 240,
+    "city": "Winong",
+    "country": "Indonesia",
+    "country_code": "ID",
+    "latitude": -7.6695988,
+    "time_zone": "Asia/Jakarta"
+  },
+  {
+    "id": 241,
+    "city": "La Lima",
+    "country": "Honduras",
+    "country_code": "HN",
+    "latitude": 15.4321163,
+    "time_zone": "America/Tegucigalpa"
+  },
+  {
+    "id": 242,
+    "city": "Itaúna",
+    "country": "Brazil",
+    "country_code": "BR",
+    "latitude": -20.0879862,
+    "time_zone": "America/Sao_Paulo"
+  },
+  {
+    "id": 243,
+    "city": "Gobō",
+    "country": "Japan",
+    "country_code": "JP",
+    "latitude": 33.8881512,
+    "time_zone": "Asia/Tokyo"
+  },
+  {
+    "id": 244,
+    "city": "Glagahan",
+    "country": "Indonesia",
+    "country_code": "ID",
+    "latitude": -7.3063314,
+    "time_zone": "Asia/Jakarta"
+  },
+  {
+    "id": 245,
+    "city": "Bāmyān",
+    "country": "Afghanistan",
+    "country_code": "AF",
+    "latitude": 34.8100067,
+    "time_zone": "Asia/Kabul"
+  },
+  {
+    "id": 246,
+    "city": "Dongbei",
+    "country": "China",
+    "country_code": "CN",
+    "latitude": 38.876483,
+    "time_zone": "Asia/Shanghai"
+  },
+  {
+    "id": 247,
+    "city": "Ganggawang",
+    "country": "Indonesia",
+    "country_code": "ID",
+    "latitude": -7.1697343,
+    "time_zone": "Asia/Jakarta"
+  },
+  {
+    "id": 248,
+    "city": "Kępno",
+    "country": "Poland",
+    "country_code": "PL",
+    "latitude": 51.2781356,
+    "time_zone": "Europe/Warsaw"
+  },
+  {
+    "id": 249,
+    "city": "Chavusy",
+    "country": "Belarus",
+    "country_code": "BY",
+    "latitude": 53.8017532,
+    "time_zone": "Europe/Minsk"
+  },
+  {
+    "id": 250,
+    "city": "Tanahwurung",
+    "country": "Indonesia",
+    "country_code": "ID",
+    "latitude": -8.605402,
+    "time_zone": "Asia/Makassar"
+  },
+  {
+    "id": 251,
+    "city": "L'Île-Perrot",
+    "country": "Canada",
+    "country_code": "CA",
+    "latitude": 45.4235609,
+    "time_zone": "America/Montreal"
+  },
+  {
+    "id": 252,
+    "city": "Pirapozinho",
+    "country": "Brazil",
+    "country_code": "BR",
+    "latitude": -22.2756953,
+    "time_zone": "America/Sao_Paulo"
+  },
+  {
+    "id": 253,
+    "city": "Lérida",
+    "country": "Colombia",
+    "country_code": "CO",
+    "latitude": 4.860823,
+    "time_zone": "America/Bogota"
+  },
+  {
+    "id": 254,
+    "city": "Ferrol",
+    "country": "Spain",
+    "country_code": "ES",
+    "latitude": 43.4880374,
+    "time_zone": "Europe/Madrid"
+  },
+  {
+    "id": 255,
+    "city": "Addiet Canna",
+    "country": "Ethiopia",
+    "country_code": "ET",
+    "latitude": 11.2642678,
+    "time_zone": "Africa/Addis_Ababa"
+  },
+  {
+    "id": 256,
+    "city": "Maiwal",
+    "country": "Indonesia",
+    "country_code": "ID",
+    "latitude": -6.28433,
+    "time_zone": "Asia/Makassar"
+  },
+  {
+    "id": 257,
+    "city": "Dzhebariki-Khaya",
+    "country": "Russia",
+    "country_code": "RU",
+    "latitude": 62.216473,
+    "time_zone": "Asia/Yakutsk"
+  },
+  {
+    "id": 258,
+    "city": "New Orleans",
+    "country": "United States",
+    "country_code": "US",
+    "latitude": 29.9518573,
+    "time_zone": "America/Chicago"
+  },
+  {
+    "id": 259,
+    "city": "Reguengos de Monsaraz",
+    "country": "Portugal",
+    "country_code": "PT",
+    "latitude": 38.4251533,
+    "time_zone": "Europe/Lisbon"
+  },
+  {
+    "id": 260,
+    "city": "Kulykiv",
+    "country": "Ukraine",
+    "country_code": "UA",
+    "latitude": 49.980217,
+    "time_zone": "Europe/Uzhgorod"
+  },
+  {
+    "id": 261,
+    "city": "Lastoursville",
+    "country": "Gabon",
+    "country_code": "GA",
+    "latitude": -0.8183228,
+    "time_zone": "Africa/Libreville"
+  },
+  {
+    "id": 262,
+    "city": "Cotmon",
+    "country": "Philippines",
+    "country_code": "PH",
+    "latitude": 13.1225237,
+    "time_zone": "Asia/Manila"
+  },
+  {
+    "id": 263,
+    "city": "Gorodishche",
+    "country": "Russia",
+    "country_code": "RU",
+    "latitude": 48.816388,
+    "time_zone": "Europe/Volgograd"
+  },
+  {
+    "id": 264,
+    "city": "Karakul’",
+    "country": "Uzbekistan",
+    "country_code": "UZ",
+    "latitude": 39.495941,
+    "time_zone": "Asia/Samarkand"
+  },
+  {
+    "id": 265,
+    "city": "Bauan",
+    "country": "Philippines",
+    "country_code": "PH",
+    "latitude": 13.7832268,
+    "time_zone": "Asia/Manila"
+  },
+  {
+    "id": 266,
+    "city": "Las Palmas",
+    "country": "Mexico",
+    "country_code": "MX",
+    "latitude": 18.3417854,
+    "time_zone": "America/Mexico_City"
+  },
+  {
+    "id": 267,
+    "city": "Władysławowo",
+    "country": "Poland",
+    "country_code": "PL",
+    "latitude": 54.79074,
+    "time_zone": "Europe/Warsaw"
+  },
+  {
+    "id": 268,
+    "city": "Yala",
+    "country": "Thailand",
+    "country_code": "TH",
+    "latitude": 6.5411018,
+    "time_zone": "Asia/Bangkok"
+  },
+  {
+    "id": 269,
+    "city": "Västerås",
+    "country": "Sweden",
+    "country_code": "SE",
+    "latitude": 59.6013651,
+    "time_zone": "Europe/Stockholm"
+  },
+  {
+    "id": 270,
+    "city": "Łomazy",
+    "country": "Poland",
+    "country_code": "PL",
+    "latitude": 51.9038827,
+    "time_zone": "Europe/Warsaw"
+  },
+  {
+    "id": 271,
+    "city": "Bagumbayan",
+    "country": "Philippines",
+    "country_code": "PH",
+    "latitude": 14.5919106,
+    "time_zone": "Asia/Manila"
+  },
+  {
+    "id": 272,
+    "city": "Villa Santa Rita",
+    "country": "Argentina",
+    "country_code": "AR",
+    "latitude": -34.6204268,
+    "time_zone": "America/Argentina/Buenos_Aires"
+  },
+  {
+    "id": 273,
+    "city": "Limonade",
+    "country": "Haiti",
+    "country_code": "HT",
+    "latitude": 19.6686032,
+    "time_zone": "America/Port-au-Prince"
+  },
+  {
+    "id": 274,
+    "city": "Minyue",
+    "country": "China",
+    "country_code": "CN",
+    "latitude": 39.579208,
+    "time_zone": "Asia/Harbin"
+  },
+  {
+    "id": 275,
+    "city": "Qingshuihe",
+    "country": "China",
+    "country_code": "CN",
+    "latitude": 39.921095,
+    "time_zone": "Asia/Shanghai"
+  },
+  {
+    "id": 276,
+    "city": "Carangola",
+    "country": "Brazil",
+    "country_code": "BR",
+    "latitude": -20.7314751,
+    "time_zone": "America/Sao_Paulo"
+  },
+  {
+    "id": 277,
+    "city": "Jinshan",
+    "country": "China",
+    "country_code": "CN",
+    "latitude": 30.741991,
+    "time_zone": "Asia/Chongqing"
+  },
+  {
+    "id": 278,
+    "city": "Miyata",
+    "country": "Japan",
+    "country_code": "JP",
+    "latitude": 38.5779674,
+    "time_zone": "Asia/Tokyo"
+  },
+  {
+    "id": 279,
+    "city": "Qionghai",
+    "country": "China",
+    "country_code": "CN",
+    "latitude": 19.258341,
+    "time_zone": "Asia/Chongqing"
+  },
+  {
+    "id": 280,
+    "city": "Birmingham",
+    "country": "United States",
+    "country_code": "US",
+    "latitude": 33.6523096,
+    "time_zone": "America/Chicago"
+  },
+  {
+    "id": 281,
+    "city": "Sollefteå",
+    "country": "Sweden",
+    "country_code": "SE",
+    "latitude": 63.1709533,
+    "time_zone": "Europe/Stockholm"
+  },
+  {
+    "id": 282,
+    "city": "Jingpeng",
+    "country": "China",
+    "country_code": "CN",
+    "latitude": 43.258497,
+    "time_zone": "Asia/Harbin"
+  },
+  {
+    "id": 283,
+    "city": "Tabuny",
+    "country": "Russia",
+    "country_code": "RU",
+    "latitude": 52.774987,
+    "time_zone": "Asia/Omsk"
+  },
+  {
+    "id": 284,
+    "city": "Semarang",
+    "country": "Indonesia",
+    "country_code": "ID",
+    "latitude": -7.0051453,
+    "time_zone": "Asia/Jakarta"
+  },
+  {
+    "id": 285,
+    "city": "Palermo",
+    "country": "Italy",
+    "country_code": "IT",
+    "latitude": 38.1278654,
+    "time_zone": "Europe/Rome"
+  },
+  {
+    "id": 286,
+    "city": "Requena",
+    "country": "Peru",
+    "country_code": "PE",
+    "latitude": -5.0636851,
+    "time_zone": "America/Lima"
+  },
+  {
+    "id": 287,
+    "city": "São Pedro",
+    "country": "Portugal",
+    "country_code": "PT",
+    "latitude": 38.7930999,
+    "time_zone": "Europe/Lisbon"
+  },
+  {
+    "id": 288,
+    "city": "Dongjie",
+    "country": "China",
+    "country_code": "CN",
+    "latitude": 26.08603,
+    "time_zone": "Asia/Shanghai"
+  },
+  {
+    "id": 289,
+    "city": "Ganding",
+    "country": "Indonesia",
+    "country_code": "ID",
+    "latitude": -7.0655878,
+    "time_zone": "Asia/Jakarta"
+  },
+  {
+    "id": 290,
+    "city": "Maripipi",
+    "country": "Philippines",
+    "country_code": "PH",
+    "latitude": 11.7629173,
+    "time_zone": "Asia/Manila"
+  },
+  {
+    "id": 291,
+    "city": "Fengchan",
+    "country": "China",
+    "country_code": "CN",
+    "latitude": 24.546876,
+    "time_zone": "Asia/Harbin"
+  },
+  {
+    "id": 292,
+    "city": "Pudoc North",
+    "country": "Philippines",
+    "country_code": "PH",
+    "latitude": 15.7700153,
+    "time_zone": "Asia/Manila"
+  },
+  {
+    "id": 293,
+    "city": "Chandal Bā’ī",
+    "country": "Afghanistan",
+    "country_code": "AF",
+    "latitude": 34.58469,
+    "time_zone": "Asia/Kabul"
+  },
+  {
+    "id": 294,
+    "city": "Heyin",
+    "country": "China",
+    "country_code": "CN",
+    "latitude": 25.525292,
+    "time_zone": "Asia/Chongqing"
+  },
+  {
+    "id": 295,
+    "city": "Hässleholm",
+    "country": "Sweden",
+    "country_code": "SE",
+    "latitude": 56.1629286,
+    "time_zone": "Europe/Stockholm"
+  },
+  {
+    "id": 296,
+    "city": "Oakville",
+    "country": "Canada",
+    "country_code": "CA",
+    "latitude": 43.4794825,
+    "time_zone": "America/Toronto"
+  },
+  {
+    "id": 297,
+    "city": "Huicheng",
+    "country": "China",
+    "country_code": "CN",
+    "latitude": 23.084122,
+    "time_zone": "Asia/Shanghai"
+  },
+  {
+    "id": 298,
+    "city": "Famaillá",
+    "country": "Argentina",
+    "country_code": "AR",
+    "latitude": -34.5903044,
+    "time_zone": "America/Argentina/Tucuman"
+  },
+  {
+    "id": 299,
+    "city": "Kęsowo",
+    "country": "Poland",
+    "country_code": "PL",
+    "latitude": 53.5585675,
+    "time_zone": "Europe/Warsaw"
+  },
+  {
+    "id": 300,
+    "city": "Täby",
+    "country": "Sweden",
+    "country_code": "SE",
+    "latitude": 59.4935321,
+    "time_zone": "Europe/Stockholm"
+  },
+  {
+    "id": 301,
+    "city": "Henghe",
+    "country": "China",
+    "country_code": "CN",
+    "latitude": 29.756501,
+    "time_zone": "Asia/Shanghai"
+  },
+  {
+    "id": 302,
+    "city": "Dededo Village",
+    "country": "Guam",
+    "country_code": "GU",
+    "latitude": 13.514118,
+    "time_zone": "Pacific/Guam"
+  },
+  {
+    "id": 303,
+    "city": "Esmeraldas",
+    "country": "Brazil",
+    "country_code": "BR",
+    "latitude": -19.8073042,
+    "time_zone": "America/Sao_Paulo"
+  },
+  {
+    "id": 304,
+    "city": "Qarāwat Banī Zayd",
+    "country": "Palestinian Territory",
+    "country_code": "PS",
+    "latitude": 32.0547,
+    "time_zone": "Asia/Jerusalem"
+  },
+  {
+    "id": 305,
+    "city": "Baisha",
+    "country": "China",
+    "country_code": "CN",
+    "latitude": 26.641315,
+    "time_zone": "Asia/Chongqing"
+  },
+  {
+    "id": 306,
+    "city": "Hongtang",
+    "country": "China",
+    "country_code": "CN",
+    "latitude": 22.280436,
+    "time_zone": "Asia/Shanghai"
+  },
+  {
+    "id": 307,
+    "city": "Betulia",
+    "country": "Colombia",
+    "country_code": "CO",
+    "latitude": 7.0706548,
+    "time_zone": "America/Bogota"
+  },
+  {
+    "id": 308,
+    "city": "Misawa",
+    "country": "Japan",
+    "country_code": "JP",
+    "latitude": 37.8806901,
+    "time_zone": "Asia/Tokyo"
+  },
+  {
+    "id": 309,
+    "city": "Temara",
+    "country": "Morocco",
+    "country_code": "MA",
+    "latitude": 33.9278354,
+    "time_zone": "Africa/Casablanca"
+  },
+  {
+    "id": 310,
+    "city": "Les Cèdres",
+    "country": "Canada",
+    "country_code": "CA",
+    "latitude": 45.3095043,
+    "time_zone": "America/Montreal"
+  },
+  {
+    "id": 311,
+    "city": "Ban Bang Kadi Pathum Thani",
+    "country": "Thailand",
+    "country_code": "TH",
+    "latitude": 13.9619203,
+    "time_zone": "Asia/Bangkok"
+  },
+  {
+    "id": 312,
+    "city": "Nova Petrópolis",
+    "country": "Brazil",
+    "country_code": "BR",
+    "latitude": -29.362503,
+    "time_zone": "America/Sao_Paulo"
+  },
+  {
+    "id": 313,
+    "city": "Baoyou",
+    "country": "China",
+    "country_code": "CN",
+    "latitude": 40.657978,
+    "time_zone": "Asia/Chongqing"
+  },
+  {
+    "id": 314,
+    "city": "Vänersborg",
+    "country": "Sweden",
+    "country_code": "SE",
+    "latitude": 58.3736347,
+    "time_zone": "Europe/Stockholm"
+  },
+  {
+    "id": 315,
+    "city": "Xintang",
+    "country": "China",
+    "country_code": "CN",
+    "latitude": 23.296786,
+    "time_zone": "Asia/Chongqing"
+  },
+  {
+    "id": 316,
+    "city": "Najin",
+    "country": "North Korea",
+    "country_code": "KP",
+    "latitude": 42.24472,
+    "time_zone": "Asia/Pyongyang"
+  },
+  {
+    "id": 317,
+    "city": "Prapen",
+    "country": "Indonesia",
+    "country_code": "ID",
+    "latitude": -7.3145841,
+    "time_zone": "Asia/Jakarta"
+  },
+  {
+    "id": 318,
+    "city": "Glazov",
+    "country": "Russia",
+    "country_code": "RU",
+    "latitude": 58.105032,
+    "time_zone": "Europe/Samara"
+  },
+  {
+    "id": 319,
+    "city": "Qiling",
+    "country": "China",
+    "country_code": "CN",
+    "latitude": 24.086165,
+    "time_zone": "Asia/Shanghai"
+  },
+  {
+    "id": 320,
+    "city": "Torre",
+    "country": "Portugal",
+    "country_code": "PT",
+    "latitude": 41.1856135,
+    "time_zone": "Europe/Lisbon"
+  },
+  {
+    "id": 321,
+    "city": "Athmuqam",
+    "country": "Pakistan",
+    "country_code": "PK",
+    "latitude": 34.5871389,
+    "time_zone": "Asia/Karachi"
+  },
+  {
+    "id": 322,
+    "city": "Ko Chan",
+    "country": "Thailand",
+    "country_code": "TH",
+    "latitude": 13.401306,
+    "time_zone": "Asia/Bangkok"
+  },
+  {
+    "id": 323,
+    "city": "Bajingmeduro",
+    "country": "Indonesia",
+    "country_code": "ID",
+    "latitude": -6.7497763,
+    "time_zone": "Asia/Jakarta"
+  },
+  {
+    "id": 324,
+    "city": "Jiangzhou",
+    "country": "China",
+    "country_code": "CN",
+    "latitude": 22.405325,
+    "time_zone": "Asia/Shanghai"
+  },
+  {
+    "id": 325,
+    "city": "Maraã",
+    "country": "Brazil",
+    "country_code": "BR",
+    "latitude": -2.3019472,
+    "time_zone": "America/Manaus"
+  },
+  {
+    "id": 326,
+    "city": "Caloue",
+    "country": "Indonesia",
+    "country_code": "ID",
+    "latitude": 5.31494,
+    "time_zone": "Asia/Jakarta"
+  },
+  {
+    "id": 327,
+    "city": "Hujigou",
+    "country": "China",
+    "country_code": "CN",
+    "latitude": 23.112257,
+    "time_zone": "Asia/Chongqing"
+  },
+  {
+    "id": 328,
+    "city": "Magay",
+    "country": "Philippines",
+    "country_code": "PH",
+    "latitude": 14.5966665,
+    "time_zone": "Asia/Manila"
+  },
+  {
+    "id": 329,
+    "city": "Podsineye",
+    "country": "Russia",
+    "country_code": "RU",
+    "latitude": 53.66583,
+    "time_zone": "Asia/Krasnoyarsk"
+  },
+  {
+    "id": 330,
+    "city": "Nawu",
+    "country": "China",
+    "country_code": "CN",
+    "latitude": 22.00001,
+    "time_zone": "Asia/Chongqing"
+  },
+  {
+    "id": 331,
+    "city": "Borne Sulinowo",
+    "country": "Poland",
+    "country_code": "PL",
+    "latitude": 53.5760481,
+    "time_zone": "Europe/Warsaw"
+  },
+  {
+    "id": 332,
+    "city": "Xijia",
+    "country": "China",
+    "country_code": "CN",
+    "latitude": 33.298364,
+    "time_zone": "Asia/Chongqing"
+  },
+  {
+    "id": 333,
+    "city": "Lafayette",
+    "country": "United States",
+    "country_code": "US",
+    "latitude": 30.17,
+    "time_zone": "America/Chicago"
+  },
+  {
+    "id": 334,
+    "city": "Siderejo",
+    "country": "Indonesia",
+    "country_code": "ID",
+    "latitude": -7.3055182,
+    "time_zone": "Asia/Jakarta"
+  },
+  {
+    "id": 335,
+    "city": "Staryye Atagi",
+    "country": "Russia",
+    "country_code": "RU",
+    "latitude": 43.1227567,
+    "time_zone": "Europe/Moscow"
+  },
+  {
+    "id": 336,
+    "city": "Vannes",
+    "country": "France",
+    "country_code": "FR",
+    "latitude": 47.6651939,
+    "time_zone": "Europe/Paris"
+  },
+  {
+    "id": 337,
+    "city": "Kutamandarakan",
+    "country": "Indonesia",
+    "country_code": "ID",
+    "latitude": -7.0258984,
+    "time_zone": "Asia/Jakarta"
+  },
+  {
+    "id": 338,
+    "city": "Amiens",
+    "country": "France",
+    "country_code": "FR",
+    "latitude": 49.8921732,
+    "time_zone": "Europe/Paris"
+  },
+  {
+    "id": 339,
+    "city": "Taiping",
+    "country": "China",
+    "country_code": "CN",
+    "latitude": 53.3004898,
+    "time_zone": "Asia/Urumqi"
+  },
+  {
+    "id": 340,
+    "city": "Muyuzi",
+    "country": "China",
+    "country_code": "CN",
+    "latitude": 35.939466,
+    "time_zone": "Asia/Harbin"
+  },
+  {
+    "id": 341,
+    "city": "Yehud",
+    "country": "Israel",
+    "country_code": "IL",
+    "latitude": 32.030339,
+    "time_zone": "Asia/Jerusalem"
+  },
+  {
+    "id": 342,
+    "city": "Pantang",
+    "country": "China",
+    "country_code": "CN",
+    "latitude": 34.16171,
+    "time_zone": "Asia/Shanghai"
+  },
+  {
+    "id": 343,
+    "city": "Zhangxi",
+    "country": "China",
+    "country_code": "CN",
+    "latitude": 24.808198,
+    "time_zone": "Asia/Shanghai"
+  },
+  {
+    "id": 344,
+    "city": "Aroroy",
+    "country": "Philippines",
+    "country_code": "PH",
+    "latitude": 12.5050457,
+    "time_zone": "Asia/Manila"
+  },
+  {
+    "id": 345,
+    "city": "Vadstena",
+    "country": "Sweden",
+    "country_code": "SE",
+    "latitude": 58.4405927,
+    "time_zone": "Europe/Stockholm"
+  },
+  {
+    "id": 346,
+    "city": "Filótion",
+    "country": "Greece",
+    "country_code": "GR",
+    "latitude": 37.0514525,
+    "time_zone": "Europe/Athens"
+  },
+  {
+    "id": 347,
+    "city": "Vatutine",
+    "country": "Ukraine",
+    "country_code": "UA",
+    "latitude": 49.0149775,
+    "time_zone": "Europe/Kiev"
+  },
+  {
+    "id": 348,
+    "city": "Palmas de Monte Alto",
+    "country": "Brazil",
+    "country_code": "BR",
+    "latitude": -14.1500098,
+    "time_zone": "America/Bahia"
+  },
+  {
+    "id": 349,
+    "city": "Mariara",
+    "country": "Venezuela",
+    "country_code": "VE",
+    "latitude": 10.2891838,
+    "time_zone": "America/Caracas"
+  },
+  {
+    "id": 350,
+    "city": "Bagong Pagasa",
+    "country": "Philippines",
+    "country_code": "PH",
+    "latitude": 14.5316764,
+    "time_zone": "Asia/Manila"
+  },
+  {
+    "id": 351,
+    "city": "Aulnay-sous-Bois",
+    "country": "France",
+    "country_code": "FR",
+    "latitude": 48.9318625,
+    "time_zone": "Europe/Paris"
+  },
+  {
+    "id": 352,
+    "city": "Borlänge",
+    "country": "Sweden",
+    "country_code": "SE",
+    "latitude": 60.4872057,
+    "time_zone": "Europe/Stockholm"
+  },
+  {
+    "id": 353,
+    "city": "Envira",
+    "country": "Brazil",
+    "country_code": "BR",
+    "latitude": -7.4782808,
+    "time_zone": "America/Manaus"
+  },
+  {
+    "id": 354,
+    "city": "Pereslavl’-Zalesskiy",
+    "country": "Russia",
+    "country_code": "RU",
+    "latitude": 56.7391033,
+    "time_zone": "Europe/Moscow"
+  },
+  {
+    "id": 355,
+    "city": "Orda",
+    "country": "Russia",
+    "country_code": "RU",
+    "latitude": 57.1928469,
+    "time_zone": "Asia/Yekaterinburg"
+  },
+  {
+    "id": 356,
+    "city": "Mariara",
+    "country": "Venezuela",
+    "country_code": "VE",
+    "latitude": 10.2891838,
+    "time_zone": "America/Caracas"
+  },
+  {
+    "id": 357,
+    "city": "Kidangbang",
+    "country": "Indonesia",
+    "country_code": "ID",
+    "latitude": -8.0976125,
+    "time_zone": "Asia/Jakarta"
+  },
+  {
+    "id": 358,
+    "city": "Nanhe",
+    "country": "China",
+    "country_code": "CN",
+    "latitude": 37.005017,
+    "time_zone": "Asia/Chongqing"
+  },
+  {
+    "id": 359,
+    "city": "Mariestad",
+    "country": "Sweden",
+    "country_code": "SE",
+    "latitude": 58.4016114,
+    "time_zone": "Europe/Stockholm"
+  },
+  {
+    "id": 360,
+    "city": "Lyubokhna",
+    "country": "Russia",
+    "country_code": "RU",
+    "latitude": 53.4808987,
+    "time_zone": "Europe/Moscow"
+  },
+  {
+    "id": 361,
+    "city": "Purwosari",
+    "country": "Indonesia",
+    "country_code": "ID",
+    "latitude": -7.7629501,
+    "time_zone": "Asia/Jakarta"
+  },
+  {
+    "id": 362,
+    "city": "Mainz",
+    "country": "Germany",
+    "country_code": "DE",
+    "latitude": 50.0022253,
+    "time_zone": "Europe/Berlin"
+  },
+  {
+    "id": 363,
+    "city": "Kumanovo",
+    "country": "Macedonia",
+    "country_code": "MK",
+    "latitude": 42.142214,
+    "time_zone": "Europe/Skopje"
+  },
+  {
+    "id": 364,
+    "city": "Nova Cruz",
+    "country": "Brazil",
+    "country_code": "BR",
+    "latitude": -6.4472391,
+    "time_zone": "America/Fortaleza"
+  },
+  {
+    "id": 365,
+    "city": "Maubasa",
+    "country": "Indonesia",
+    "country_code": "ID",
+    "latitude": -8.8230363,
+    "time_zone": "Asia/Makassar"
+  },
+  {
+    "id": 366,
+    "city": "Thomassique",
+    "country": "Haiti",
+    "country_code": "HT",
+    "latitude": 19.0779991,
+    "time_zone": "America/Port-au-Prince"
+  },
+  {
+    "id": 367,
+    "city": "Del Valle",
+    "country": "Mexico",
+    "country_code": "MX",
+    "latitude": 25.6564843,
+    "time_zone": "America/Mexico_City"
+  },
+  {
+    "id": 368,
+    "city": "Bahía de Caráquez",
+    "country": "Ecuador",
+    "country_code": "EC",
+    "latitude": -0.6186619,
+    "time_zone": "America/Guayaquil"
+  },
+  {
+    "id": 369,
+    "city": "Zhuhong",
+    "country": "China",
+    "country_code": "CN",
+    "latitude": 31.842209,
+    "time_zone": "Asia/Shanghai"
+  },
+  {
+    "id": 370,
+    "city": "Gävle",
+    "country": "Sweden",
+    "country_code": "SE",
+    "latitude": 60.6755434,
+    "time_zone": "Europe/Stockholm"
+  },
+  {
+    "id": 371,
+    "city": "Tha Tako",
+    "country": "Thailand",
+    "country_code": "TH",
+    "latitude": 15.670299,
+    "time_zone": "Asia/Bangkok"
+  },
+  {
+    "id": 372,
+    "city": "Fulu",
+    "country": "China",
+    "country_code": "CN",
+    "latitude": 52.3716937,
+    "time_zone": "Asia/Chongqing"
+  },
+  {
+    "id": 373,
+    "city": "Quimperlé",
+    "country": "France",
+    "country_code": "FR",
+    "latitude": 47.859986,
+    "time_zone": "Europe/Paris"
+  },
+  {
+    "id": 374,
+    "city": "Toledo",
+    "country": "Philippines",
+    "country_code": "PH",
+    "latitude": 10.376766,
+    "time_zone": "Asia/Manila"
+  },
+  {
+    "id": 375,
+    "city": "Wang Nam Yen",
+    "country": "Thailand",
+    "country_code": "TH",
+    "latitude": 13.5215952,
+    "time_zone": "Asia/Bangkok"
+  },
+  {
+    "id": 376,
+    "city": "Yinping",
+    "country": "China",
+    "country_code": "CN",
+    "latitude": 22.353499,
+    "time_zone": "Asia/Chongqing"
+  },
+  {
+    "id": 377,
+    "city": "Wantan",
+    "country": "China",
+    "country_code": "CN",
+    "latitude": 30.606033,
+    "time_zone": "Asia/Chongqing"
+  },
+  {
+    "id": 378,
+    "city": "Krajan Menggare",
+    "country": "Indonesia",
+    "country_code": "ID",
+    "latitude": -8.0138,
+    "time_zone": "Asia/Jakarta"
+  },
+  {
+    "id": 379,
+    "city": "Ödeshög",
+    "country": "Sweden",
+    "country_code": "SE",
+    "latitude": 58.1484742,
+    "time_zone": "Europe/Stockholm"
+  },
+  {
+    "id": 380,
+    "city": "Kamennogorsk",
+    "country": "Russia",
+    "country_code": "RU",
+    "latitude": 60.9464266,
+    "time_zone": "Europe/Moscow"
+  },
+  {
+    "id": 381,
+    "city": "Balazar",
+    "country": "Portugal",
+    "country_code": "PT",
+    "latitude": 41.5051316,
+    "time_zone": "Europe/Lisbon"
+  },
+  {
+    "id": 382,
+    "city": "Ungheni",
+    "country": "Moldova",
+    "country_code": "MD",
+    "latitude": 47.2262024,
+    "time_zone": "Europe/Chisinau"
+  },
+  {
+    "id": 383,
+    "city": "Zhukovka",
+    "country": "Russia",
+    "country_code": "RU",
+    "latitude": 55.744306,
+    "time_zone": "Europe/Moscow"
+  },
+  {
+    "id": 384,
+    "city": "Astana",
+    "country": "Kazakhstan",
+    "country_code": "KZ",
+    "latitude": 51.1605227,
+    "time_zone": "Asia/Almaty"
+  },
+  {
+    "id": 385,
+    "city": "Xinzhaiping",
+    "country": "China",
+    "country_code": "CN",
+    "latitude": 28.929108,
+    "time_zone": "Asia/Chongqing"
+  },
+  {
+    "id": 386,
+    "city": "Munturkaju",
+    "country": "Indonesia",
+    "country_code": "ID",
+    "latitude": -6.511,
+    "time_zone": "Asia/Jakarta"
+  },
+  {
+    "id": 387,
+    "city": "Al Ghuwayrīyah",
+    "country": "Qatar",
+    "country_code": "QA",
+    "latitude": 25.8447931,
+    "time_zone": "Asia/Qatar"
+  },
+  {
+    "id": 388,
+    "city": "Cabanbanan",
+    "country": "Philippines",
+    "country_code": "PH",
+    "latitude": 12.6107413,
+    "time_zone": "Asia/Manila"
+  },
+  {
+    "id": 389,
+    "city": "Castelo",
+    "country": "Portugal",
+    "country_code": "PT",
+    "latitude": 41.0325871,
+    "time_zone": "Europe/Lisbon"
+  },
+  {
+    "id": 390,
+    "city": "Valença do Piauí",
+    "country": "Brazil",
+    "country_code": "BR",
+    "latitude": -6.3783847,
+    "time_zone": "America/Fortaleza"
+  },
+  {
+    "id": 391,
+    "city": "Florestópolis",
+    "country": "Brazil",
+    "country_code": "BR",
+    "latitude": -22.8664464,
+    "time_zone": "America/Sao_Paulo"
+  },
+  {
+    "id": 392,
+    "city": "Bishan",
+    "country": "China",
+    "country_code": "CN",
+    "latitude": 29.592024,
+    "time_zone": "Asia/Shanghai"
+  },
+  {
+    "id": 393,
+    "city": "Byumba",
+    "country": "Rwanda",
+    "country_code": "RW",
+    "latitude": -1.5791079,
+    "time_zone": "Africa/Kigali"
+  },
+  {
+    "id": 394,
+    "city": "Mirnyy",
+    "country": "Russia",
+    "country_code": "RU",
+    "latitude": 46.0714056,
+    "time_zone": "Europe/Samara"
+  },
+  {
+    "id": 395,
+    "city": "Santyoku",
+    "country": "South Korea",
+    "country_code": "KR",
+    "latitude": 37.44056,
+    "time_zone": "Asia/Seoul"
+  },
+  {
+    "id": 396,
+    "city": "Paris 15",
+    "country": "France",
+    "country_code": "FR",
+    "latitude": 48.8357169,
+    "time_zone": "Europe/Paris"
+  },
+  {
+    "id": 397,
+    "city": "Chyżne",
+    "country": "Poland",
+    "country_code": "PL",
+    "latitude": 49.417735,
+    "time_zone": "Europe/Warsaw"
+  },
+  {
+    "id": 398,
+    "city": "Taocheng",
+    "country": "China",
+    "country_code": "CN",
+    "latitude": 29.037007,
+    "time_zone": "Asia/Shanghai"
+  },
+  {
+    "id": 399,
+    "city": "Loma Alta",
+    "country": "Honduras",
+    "country_code": "HN",
+    "latitude": 15.3985496,
+    "time_zone": "America/Guatemala"
+  },
+  {
+    "id": 400,
+    "city": "Sarnia",
+    "country": "Canada",
+    "country_code": "CA",
+    "latitude": 42.9946912,
+    "time_zone": "America/Toronto"
+  },
+  {
+    "id": 401,
+    "city": "Dingchang",
+    "country": "China",
+    "country_code": "CN",
+    "latitude": 29.8667325,
+    "time_zone": "Asia/Chongqing"
+  },
+  {
+    "id": 402,
+    "city": "Hörby",
+    "country": "Sweden",
+    "country_code": "SE",
+    "latitude": 55.9023639,
+    "time_zone": "Europe/Stockholm"
+  },
+  {
+    "id": 403,
+    "city": "Gangmian",
+    "country": "China",
+    "country_code": "CN",
+    "latitude": 23.438818,
+    "time_zone": "Asia/Shanghai"
+  },
+  {
+    "id": 404,
+    "city": "Newark",
+    "country": "United States",
+    "country_code": "US",
+    "latitude": 40.7132136,
+    "time_zone": "America/New_York"
+  },
+  {
+    "id": 405,
+    "city": "Gaoyi",
+    "country": "China",
+    "country_code": "CN",
+    "latitude": 37.615159,
+    "time_zone": "Asia/Shanghai"
+  },
+  {
+    "id": 406,
+    "city": "Zhenzhushan",
+    "country": "China",
+    "country_code": "CN",
+    "latitude": 29.185721,
+    "time_zone": "Asia/Shanghai"
+  },
+  {
+    "id": 407,
+    "city": "Zawichost",
+    "country": "Poland",
+    "country_code": "PL",
+    "latitude": 50.8075698,
+    "time_zone": "Europe/Warsaw"
+  },
+  {
+    "id": 408,
+    "city": "Buenavista",
+    "country": "Mexico",
+    "country_code": "MX",
+    "latitude": 19.4458447,
+    "time_zone": "America/Mexico_City"
+  },
+  {
+    "id": 409,
+    "city": "Yono",
+    "country": "Japan",
+    "country_code": "JP",
+    "latitude": 35.0900891,
+    "time_zone": "Asia/Tokyo"
+  },
+  {
+    "id": 410,
+    "city": "Huasta",
+    "country": "Peru",
+    "country_code": "PE",
+    "latitude": -10.1239403,
+    "time_zone": "America/Lima"
+  },
+  {
+    "id": 411,
+    "city": "Fuxing",
+    "country": "China",
+    "country_code": "CN",
+    "latitude": 36.639033,
+    "time_zone": "Asia/Shanghai"
+  },
+  {
+    "id": 412,
+    "city": "Hecun",
+    "country": "China",
+    "country_code": "CN",
+    "latitude": 28.663694,
+    "time_zone": "Asia/Shanghai"
+  },
+  {
+    "id": 413,
+    "city": "Bayeman",
+    "country": "Indonesia",
+    "country_code": "ID",
+    "latitude": -7.7326298,
+    "time_zone": "Asia/Jakarta"
+  },
+  {
+    "id": 414,
+    "city": "Newton",
+    "country": "United Kingdom",
+    "country_code": "GB",
+    "latitude": 57.5842033,
+    "time_zone": "Europe/London"
+  },
+  {
+    "id": 415,
+    "city": "Borås",
+    "country": "Sweden",
+    "country_code": "SE",
+    "latitude": 57.7498282,
+    "time_zone": "Europe/Stockholm"
+  },
+  {
+    "id": 416,
+    "city": "Chenchang",
+    "country": "China",
+    "country_code": "CN",
+    "latitude": 33.770447,
+    "time_zone": "Asia/Chongqing"
+  },
+  {
+    "id": 417,
+    "city": "Cuba",
+    "country": "Portugal",
+    "country_code": "PT",
+    "latitude": 38.1661758,
+    "time_zone": "Europe/Lisbon"
+  },
+  {
+    "id": 418,
+    "city": "Bansko",
+    "country": "Bulgaria",
+    "country_code": "BG",
+    "latitude": 41.8404241,
+    "time_zone": "Europe/Sofia"
+  },
+  {
+    "id": 419,
+    "city": "Balungkopi",
+    "country": "Indonesia",
+    "country_code": "ID",
+    "latitude": -8.2933192,
+    "time_zone": "Asia/Jakarta"
+  },
+  {
+    "id": 420,
+    "city": "Pamupukan",
+    "country": "Indonesia",
+    "country_code": "ID",
+    "latitude": -7.0487503,
+    "time_zone": "Asia/Jakarta"
+  },
+  {
+    "id": 421,
+    "city": "Stará Huť",
+    "country": "Czech Republic",
+    "country_code": "CZ",
+    "latitude": 49.5642187,
+    "time_zone": "Europe/Prague"
+  },
+  {
+    "id": 422,
+    "city": "Ajaccio",
+    "country": "France",
+    "country_code": "FR",
+    "latitude": 46.6473105,
+    "time_zone": "Europe/Paris"
+  },
+  {
+    "id": 423,
+    "city": "Tuguan",
+    "country": "China",
+    "country_code": "CN",
+    "latitude": 23.146358,
+    "time_zone": "Asia/Chongqing"
+  },
+  {
+    "id": 424,
+    "city": "Biao",
+    "country": "Philippines",
+    "country_code": "PH",
+    "latitude": 7.1473706,
+    "time_zone": "Asia/Manila"
+  },
+  {
+    "id": 425,
+    "city": "Anzihao",
+    "country": "China",
+    "country_code": "CN",
+    "latitude": 39.616759,
+    "time_zone": "Asia/Chongqing"
+  },
+  {
+    "id": 426,
+    "city": "Kyaiklat",
+    "country": "Myanmar",
+    "country_code": "MM",
+    "latitude": 16.4422479,
+    "time_zone": "Asia/Rangoon"
+  },
+  {
+    "id": 427,
+    "city": "Birendranagar",
+    "country": "Nepal",
+    "country_code": "NP",
+    "latitude": 28.5776106,
+    "time_zone": "Asia/Kathmandu"
+  },
+  {
+    "id": 428,
+    "city": "Huabeitun",
+    "country": "China",
+    "country_code": "CN",
+    "latitude": 38.700427,
+    "time_zone": "Asia/Shanghai"
+  },
+  {
+    "id": 429,
+    "city": "Berlin",
+    "country": "Germany",
+    "country_code": "DE",
+    "latitude": 52.5693104,
+    "time_zone": "Europe/Berlin"
+  },
+  {
+    "id": 430,
+    "city": "Masty",
+    "country": "Belarus",
+    "country_code": "BY",
+    "latitude": 53.4102363,
+    "time_zone": "Europe/Minsk"
+  },
+  {
+    "id": 431,
+    "city": "Shanghu",
+    "country": "China",
+    "country_code": "CN",
+    "latitude": 31.2303904,
+    "time_zone": "Asia/Shanghai"
+  },
+  {
+    "id": 432,
+    "city": "Irirum",
+    "country": "Philippines",
+    "country_code": "PH",
+    "latitude": 14.8431264,
+    "time_zone": "Asia/Manila"
+  },
+  {
+    "id": 433,
+    "city": "Kultuk",
+    "country": "Russia",
+    "country_code": "RU",
+    "latitude": 51.7241507,
+    "time_zone": "Asia/Irkutsk"
+  },
+  {
+    "id": 434,
+    "city": "Dongchuan",
+    "country": "China",
+    "country_code": "CN",
+    "latitude": 26.082873,
+    "time_zone": "Asia/Chongqing"
+  },
+  {
+    "id": 435,
+    "city": "Rajapeni",
+    "country": "Indonesia",
+    "country_code": "ID",
+    "latitude": -7.2841,
+    "time_zone": "Asia/Jakarta"
+  },
+  {
+    "id": 436,
+    "city": "Bauru",
+    "country": "Brazil",
+    "country_code": "BR",
+    "latitude": -22.314459,
+    "time_zone": "America/Sao_Paulo"
+  },
+  {
+    "id": 437,
+    "city": "Káto Asítai",
+    "country": "Greece",
+    "country_code": "GR",
+    "latitude": 35.2019368,
+    "time_zone": "Europe/Athens"
+  },
+  {
+    "id": 438,
+    "city": "Penalva de Alva",
+    "country": "Portugal",
+    "country_code": "PT",
+    "latitude": 40.336837,
+    "time_zone": "Europe/Lisbon"
+  },
+  {
+    "id": 439,
+    "city": "Huoshaoping",
+    "country": "China",
+    "country_code": "CN",
+    "latitude": 30.501816,
+    "time_zone": "Asia/Chongqing"
+  },
+  {
+    "id": 440,
+    "city": "Bodega",
+    "country": "Philippines",
+    "country_code": "PH",
+    "latitude": 10.6095479,
+    "time_zone": "Asia/Manila"
+  },
+  {
+    "id": 441,
+    "city": "Sukamaju Kidul",
+    "country": "Indonesia",
+    "country_code": "ID",
+    "latitude": -7.2894986,
+    "time_zone": "Asia/Jakarta"
+  },
+  {
+    "id": 442,
+    "city": "La Cruz de Río Grande",
+    "country": "Nicaragua",
+    "country_code": "NI",
+    "latitude": 13.1072012,
+    "time_zone": "America/Managua"
+  },
+  {
+    "id": 443,
+    "city": "Chaihu",
+    "country": "China",
+    "country_code": "CN",
+    "latitude": 31.624522,
+    "time_zone": "Asia/Chongqing"
+  },
+  {
+    "id": 444,
+    "city": "Seget",
+    "country": "Indonesia",
+    "country_code": "ID",
+    "latitude": -1.3516263,
+    "time_zone": "Asia/Jayapura"
+  },
+  {
+    "id": 445,
+    "city": "Cangkeuteuk Sabrang",
+    "country": "Indonesia",
+    "country_code": "ID",
+    "latitude": -6.7267,
+    "time_zone": "Asia/Jakarta"
+  },
+  {
+    "id": 446,
+    "city": "Lipovci",
+    "country": "Slovenia",
+    "country_code": "SI",
+    "latitude": 46.6275321,
+    "time_zone": "Europe/Zagreb"
+  },
+  {
+    "id": 447,
+    "city": "Niška Banja",
+    "country": "Serbia",
+    "country_code": "RS",
+    "latitude": 43.2981839,
+    "time_zone": "Europe/Belgrade"
+  },
+  {
+    "id": 448,
+    "city": "Dolores",
+    "country": "Nicaragua",
+    "country_code": "NI",
+    "latitude": 11.8554828,
+    "time_zone": "America/Managua"
+  },
+  {
+    "id": 449,
+    "city": "Fūman",
+    "country": "Iran",
+    "country_code": "IR",
+    "latitude": 37.2203773,
+    "time_zone": "Asia/Tehran"
+  },
+  {
+    "id": 450,
+    "city": "Santa Elena",
+    "country": "Ecuador",
+    "country_code": "EC",
+    "latitude": -2.2268901,
+    "time_zone": "America/Guayaquil"
+  },
+  {
+    "id": 451,
+    "city": "Eldama Ravine",
+    "country": "Kenya",
+    "country_code": "KE",
+    "latitude": 0.053037,
+    "time_zone": "Africa/Nairobi"
+  },
+  {
+    "id": 452,
+    "city": "Sundsvall",
+    "country": "Sweden",
+    "country_code": "SE",
+    "latitude": 62.4155589,
+    "time_zone": "Europe/Stockholm"
+  },
+  {
+    "id": 453,
+    "city": "Bell Ville",
+    "country": "Argentina",
+    "country_code": "AR",
+    "latitude": -34.6342051,
+    "time_zone": "America/Argentina/Cordoba"
+  },
+  {
+    "id": 454,
+    "city": "El Retiro",
+    "country": "Colombia",
+    "country_code": "CO",
+    "latitude": 6.060955,
+    "time_zone": "America/Bogota"
+  },
+  {
+    "id": 455,
+    "city": "Klukeng",
+    "country": "Indonesia",
+    "country_code": "ID",
+    "latitude": -8.3965,
+    "time_zone": "Asia/Makassar"
+  },
+  {
+    "id": 456,
+    "city": "Yashikera",
+    "country": "Nigeria",
+    "country_code": "NG",
+    "latitude": 9.7663613,
+    "time_zone": "Africa/Porto-Novo"
+  },
+  {
+    "id": 457,
+    "city": "Qinggis Han",
+    "country": "China",
+    "country_code": "CN",
+    "latitude": 47.747102,
+    "time_zone": "Asia/Harbin"
+  },
+  {
+    "id": 458,
+    "city": "Orange Walk",
+    "country": "Belize",
+    "country_code": "BZ",
+    "latitude": 18.0842472,
+    "time_zone": "America/Belize"
+  },
+  {
+    "id": 459,
+    "city": "Besançon",
+    "country": "France",
+    "country_code": "FR",
+    "latitude": 47.2981504,
+    "time_zone": "Europe/Paris"
+  },
+  {
+    "id": 460,
+    "city": "Punta Gorda",
+    "country": "Belize",
+    "country_code": "BZ",
+    "latitude": 16.098935,
+    "time_zone": "America/Guatemala"
+  },
+  {
+    "id": 461,
+    "city": "Galitsy",
+    "country": "Russia",
+    "country_code": "RU",
+    "latitude": 55.76303,
+    "time_zone": "Europe/Moscow"
+  },
+  {
+    "id": 462,
+    "city": "Kefar Shemaryahu",
+    "country": "Israel",
+    "country_code": "IL",
+    "latitude": 32.187123,
+    "time_zone": "Asia/Jerusalem"
+  },
+  {
+    "id": 463,
+    "city": "Carot",
+    "country": "Philippines",
+    "country_code": "PH",
+    "latitude": 16.289185,
+    "time_zone": "Asia/Manila"
+  },
+  {
+    "id": 464,
+    "city": "Saiki",
+    "country": "Japan",
+    "country_code": "JP",
+    "latitude": 36.0917434,
+    "time_zone": "Asia/Tokyo"
+  },
+  {
+    "id": 465,
+    "city": "Matangshan",
+    "country": "China",
+    "country_code": "CN",
+    "latitude": 31.361491,
+    "time_zone": "Asia/Chongqing"
+  },
+  {
+    "id": 466,
+    "city": "Kulase",
+    "country": "Philippines",
+    "country_code": "PH",
+    "latitude": 5.9052,
+    "time_zone": "Asia/Manila"
+  },
+  {
+    "id": 467,
+    "city": "Jayanca",
+    "country": "Peru",
+    "country_code": "PE",
+    "latitude": -6.3929812,
+    "time_zone": "America/Lima"
+  },
+  {
+    "id": 468,
+    "city": "Armen",
+    "country": "Albania",
+    "country_code": "AL",
+    "latitude": 40.533557,
+    "time_zone": "Europe/Tirane"
+  },
+  {
+    "id": 469,
+    "city": "Cawayan",
+    "country": "Philippines",
+    "country_code": "PH",
+    "latitude": 12.0675239,
+    "time_zone": "Asia/Manila"
+  },
+  {
+    "id": 470,
+    "city": "Bystra",
+    "country": "Poland",
+    "country_code": "PL",
+    "latitude": 49.6246813,
+    "time_zone": "Europe/Warsaw"
+  },
+  {
+    "id": 471,
+    "city": "Xingang",
+    "country": "China",
+    "country_code": "CN",
+    "latitude": 39.0063718,
+    "time_zone": "Asia/Shanghai"
+  },
+  {
+    "id": 472,
+    "city": "Oropéndolas",
+    "country": "Honduras",
+    "country_code": "HN",
+    "latitude": 15.0140045,
+    "time_zone": "America/Tegucigalpa"
+  },
+  {
+    "id": 473,
+    "city": "Jenang Selatan",
+    "country": "Indonesia",
+    "country_code": "ID",
+    "latitude": -7.2964746,
+    "time_zone": "Asia/Jakarta"
+  },
+  {
+    "id": 474,
+    "city": "Jocotenango",
+    "country": "Guatemala",
+    "country_code": "GT",
+    "latitude": 14.577579,
+    "time_zone": "America/Guatemala"
+  },
+  {
+    "id": 475,
+    "city": "Yangdian",
+    "country": "China",
+    "country_code": "CN",
+    "latitude": 31.270307,
+    "time_zone": "Asia/Chongqing"
+  },
+  {
+    "id": 476,
+    "city": "Baiba",
+    "country": "China",
+    "country_code": "CN",
+    "latitude": 29.795049,
+    "time_zone": "Asia/Kolkata"
+  },
+  {
+    "id": 477,
+    "city": "Wuxi",
+    "country": "China",
+    "country_code": "CN",
+    "latitude": 31.491169,
+    "time_zone": "Asia/Chongqing"
+  },
+  {
+    "id": 478,
+    "city": "Chachoengsao",
+    "country": "Thailand",
+    "country_code": "TH",
+    "latitude": 13.6902068,
+    "time_zone": "Asia/Bangkok"
+  },
+  {
+    "id": 479,
+    "city": "Jinhai",
+    "country": "China",
+    "country_code": "CN",
+    "latitude": 31.263042,
+    "time_zone": "Asia/Shanghai"
+  },
+  {
+    "id": 480,
+    "city": "Pittsburgh",
+    "country": "United States",
+    "country_code": "US",
+    "latitude": 40.5053499,
+    "time_zone": "America/New_York"
+  },
+  {
+    "id": 481,
+    "city": "Peace River",
+    "country": "Canada",
+    "country_code": "CA",
+    "latitude": 56.2341823,
+    "time_zone": "America/Edmonton"
+  },
+  {
+    "id": 482,
+    "city": "Dongjin",
+    "country": "China",
+    "country_code": "CN",
+    "latitude": 32.026097,
+    "time_zone": "Asia/Harbin"
+  },
+  {
+    "id": 483,
+    "city": "Padasuka",
+    "country": "Indonesia",
+    "country_code": "ID",
+    "latitude": -6.9042641,
+    "time_zone": "Asia/Makassar"
+  },
+  {
+    "id": 484,
+    "city": "Natividade",
+    "country": "Brazil",
+    "country_code": "BR",
+    "latitude": -11.8764686,
+    "time_zone": "America/Sao_Paulo"
+  },
+  {
+    "id": 485,
+    "city": "Kondrovo",
+    "country": "Russia",
+    "country_code": "RU",
+    "latitude": 54.80639,
+    "time_zone": "Europe/Moscow"
+  },
+  {
+    "id": 486,
+    "city": "Vysotskoye",
+    "country": "Russia",
+    "country_code": "RU",
+    "latitude": 45.0209955,
+    "time_zone": "Europe/Moscow"
+  },
+  {
+    "id": 487,
+    "city": "Ostrowite",
+    "country": "Poland",
+    "country_code": "PL",
+    "latitude": 53.0662784,
+    "time_zone": "Europe/Warsaw"
+  },
+  {
+    "id": 488,
+    "city": "Bicos",
+    "country": "Philippines",
+    "country_code": "PH",
+    "latitude": 15.6540915,
+    "time_zone": "Asia/Manila"
+  },
+  {
+    "id": 489,
+    "city": "Markova",
+    "country": "Ukraine",
+    "country_code": "UA",
+    "latitude": 48.6841029,
+    "time_zone": "Europe/Uzhgorod"
+  },
+  {
+    "id": 490,
+    "city": "Miaoshi",
+    "country": "China",
+    "country_code": "CN",
+    "latitude": 29.540245,
+    "time_zone": "Asia/Chongqing"
+  },
+  {
+    "id": 491,
+    "city": "Yangshan",
+    "country": "China",
+    "country_code": "CN",
+    "latitude": 24.466675,
+    "time_zone": "Asia/Shanghai"
+  },
+  {
+    "id": 492,
+    "city": "Hangwula",
+    "country": "China",
+    "country_code": "CN",
+    "latitude": 48.942644,
+    "time_zone": "Asia/Harbin"
+  },
+  {
+    "id": 493,
+    "city": "Avelinha",
+    "country": "Portugal",
+    "country_code": "PT",
+    "latitude": 40.7363895,
+    "time_zone": "Europe/Lisbon"
+  },
+  {
+    "id": 494,
+    "city": "Kazan",
+    "country": "Russia",
+    "country_code": "RU",
+    "latitude": 59.9335031,
+    "time_zone": "Europe/Moscow"
+  },
+  {
+    "id": 495,
+    "city": "Pedinó",
+    "country": "Greece",
+    "country_code": "GR",
+    "latitude": 40.910754,
+    "time_zone": "Europe/Athens"
+  },
+  {
+    "id": 496,
+    "city": "Henglu",
+    "country": "China",
+    "country_code": "CN",
+    "latitude": 31.627447,
+    "time_zone": "Asia/Shanghai"
+  },
+  {
+    "id": 497,
+    "city": "Amaury",
+    "country": "Mauritius",
+    "country_code": "MU",
+    "latitude": -20.1364103,
+    "time_zone": "Indian/Mauritius"
+  },
+  {
+    "id": 498,
+    "city": "Pyay",
+    "country": "Myanmar",
+    "country_code": "MM",
+    "latitude": 18.8406029,
+    "time_zone": "Asia/Rangoon"
+  },
+  {
+    "id": 499,
+    "city": "Tongchuan",
+    "country": "China",
+    "country_code": "CN",
+    "latitude": 34.897887,
+    "time_zone": "Asia/Chongqing"
+  },
+  {
+    "id": 500,
+    "city": "Adraskan",
+    "country": "Afghanistan",
+    "country_code": "AF",
+    "latitude": 33.6716082,
+    "time_zone": "Asia/Kabul"
+  },
+  {
+    "id": 501,
+    "city": "Stockholm",
+    "country": "Sweden",
+    "country_code": "SE",
+    "latitude": 47.02018,
+    "time_zone": "Europe/Stockholm"
+  },
+  {
+    "id": 502,
+    "city": "Tangdong",
+    "country": "China",
+    "country_code": "CN",
+    "latitude": 23.3790333,
+    "time_zone": "Asia/Chongqing"
+  },
+  {
+    "id": 503,
+    "city": "Semamung",
+    "country": "Indonesia",
+    "country_code": "ID",
+    "latitude": -8.6438821,
+    "time_zone": "Asia/Makassar"
+  },
+  {
+    "id": 504,
+    "city": "Rondonópolis",
+    "country": "Brazil",
+    "country_code": "BR",
+    "latitude": -16.4658725,
+    "time_zone": "America/Cuiaba"
+  },
+  {
+    "id": 505,
+    "city": "Dzerzhinskiy",
+    "country": "Russia",
+    "country_code": "RU",
+    "latitude": 55.599064,
+    "time_zone": "Europe/Moscow"
+  },
+  {
+    "id": 506,
+    "city": "Santa Cruz do Bispo",
+    "country": "Portugal",
+    "country_code": "PT",
+    "latitude": 41.2169163,
+    "time_zone": "Europe/Lisbon"
+  },
+  {
+    "id": 507,
+    "city": "Stockton",
+    "country": "United States",
+    "country_code": "US",
+    "latitude": 38.0434058,
+    "time_zone": "America/Los_Angeles"
+  },
+  {
+    "id": 508,
+    "city": "Cerca la Source",
+    "country": "Haiti",
+    "country_code": "HT",
+    "latitude": 19.1641495,
+    "time_zone": "America/Port-au-Prince"
+  },
+  {
+    "id": 509,
+    "city": "Toutai",
+    "country": "China",
+    "country_code": "CN",
+    "latitude": 27.279995,
+    "time_zone": "Asia/Urumqi"
+  },
+  {
+    "id": 510,
+    "city": "Kolokani",
+    "country": "Mali",
+    "country_code": "ML",
+    "latitude": 13.5733993,
+    "time_zone": "Africa/Bamako"
+  },
+  {
+    "id": 511,
+    "city": "Cova Figueira",
+    "country": "Cape Verde",
+    "country_code": "CV",
+    "latitude": 14.8892367,
+    "time_zone": "Atlantic/Cape_Verde"
+  },
+  {
+    "id": 512,
+    "city": "Vanadzor",
+    "country": "Armenia",
+    "country_code": "AM",
+    "latitude": 40.807399,
+    "time_zone": "Asia/Yerevan"
+  },
+  {
+    "id": 513,
+    "city": "Tomaševac",
+    "country": "Serbia",
+    "country_code": "RS",
+    "latitude": 45.2567087,
+    "time_zone": "Europe/Belgrade"
+  },
+  {
+    "id": 514,
+    "city": "Hienghène",
+    "country": "New Caledonia",
+    "country_code": "NC",
+    "latitude": -20.692675,
+    "time_zone": "Pacific/Noumea"
+  },
+  {
+    "id": 515,
+    "city": "Nggesa",
+    "country": "Indonesia",
+    "country_code": "ID",
+    "latitude": -8.6028125,
+    "time_zone": "Asia/Makassar"
+  },
+  {
+    "id": 516,
+    "city": "Bhairab Bāzār",
+    "country": "Bangladesh",
+    "country_code": "BD",
+    "latitude": 24.0441592,
+    "time_zone": "Asia/Dhaka"
+  },
+  {
+    "id": 517,
+    "city": "Obolensk",
+    "country": "Russia",
+    "country_code": "RU",
+    "latitude": 54.9790861,
+    "time_zone": "Europe/Moscow"
+  },
+  {
+    "id": 518,
+    "city": "Xuchang",
+    "country": "China",
+    "country_code": "CN",
+    "latitude": 34.035771,
+    "time_zone": "Asia/Shanghai"
+  },
+  {
+    "id": 519,
+    "city": "Jesús María",
+    "country": "Argentina",
+    "country_code": "AR",
+    "latitude": -31.4149049,
+    "time_zone": "America/Argentina/Cordoba"
+  },
+  {
+    "id": 520,
+    "city": "Załuski",
+    "country": "Poland",
+    "country_code": "PL",
+    "latitude": 52.4977237,
+    "time_zone": "Europe/Warsaw"
+  },
+  {
+    "id": 521,
+    "city": "Tangkanpulit",
+    "country": "Indonesia",
+    "country_code": "ID",
+    "latitude": -8.6603,
+    "time_zone": "Asia/Makassar"
+  },
+  {
+    "id": 522,
+    "city": "Samanco",
+    "country": "Peru",
+    "country_code": "PE",
+    "latitude": -9.2899075,
+    "time_zone": "America/Lima"
+  },
+  {
+    "id": 523,
+    "city": "Libiąż",
+    "country": "Poland",
+    "country_code": "PL",
+    "latitude": 50.0827667,
+    "time_zone": "Europe/Warsaw"
+  },
+  {
+    "id": 524,
+    "city": "Salam",
+    "country": "Indonesia",
+    "country_code": "ID",
+    "latitude": -7.6247732,
+    "time_zone": "Asia/Jakarta"
+  },
+  {
+    "id": 525,
+    "city": "Pantian",
+    "country": "China",
+    "country_code": "CN",
+    "latitude": 23.917576,
+    "time_zone": "Asia/Shanghai"
+  },
+  {
+    "id": 526,
+    "city": "Dongjingcheng",
+    "country": "China",
+    "country_code": "CN",
+    "latitude": 44.026332,
+    "time_zone": "Asia/Harbin"
+  },
+  {
+    "id": 527,
+    "city": "Goz Béïda",
+    "country": "Chad",
+    "country_code": "TD",
+    "latitude": 12.225759,
+    "time_zone": "Africa/Ndjamena"
+  },
+  {
+    "id": 528,
+    "city": "Jām Sāhib",
+    "country": "Pakistan",
+    "country_code": "PK",
+    "latitude": 26.2958582,
+    "time_zone": "Asia/Karachi"
+  },
+  {
+    "id": 529,
+    "city": "Carepa",
+    "country": "Colombia",
+    "country_code": "CO",
+    "latitude": 7.755354,
+    "time_zone": "America/Bogota"
+  },
+  {
+    "id": 530,
+    "city": "Llorente",
+    "country": "Philippines",
+    "country_code": "PH",
+    "latitude": 11.406883,
+    "time_zone": "Asia/Manila"
+  },
+  {
+    "id": 531,
+    "city": "Novozybkov",
+    "country": "Russia",
+    "country_code": "RU",
+    "latitude": 52.53379,
+    "time_zone": "Europe/Moscow"
+  },
+  {
+    "id": 532,
+    "city": "Las Piñas",
+    "country": "Philippines",
+    "country_code": "PH",
+    "latitude": 14.4514337,
+    "time_zone": "Asia/Manila"
+  },
+  {
+    "id": 533,
+    "city": "Silvares",
+    "country": "Portugal",
+    "country_code": "PT",
+    "latitude": 40.1422779,
+    "time_zone": "Europe/Lisbon"
+  },
+  {
+    "id": 534,
+    "city": "Kakan",
+    "country": "Indonesia",
+    "country_code": "ID",
+    "latitude": -10.0055535,
+    "time_zone": "Asia/Makassar"
+  },
+  {
+    "id": 535,
+    "city": "Benavila",
+    "country": "Portugal",
+    "country_code": "PT",
+    "latitude": 39.1110776,
+    "time_zone": "Europe/Lisbon"
+  },
+  {
+    "id": 536,
+    "city": "Cibetung Dua",
+    "country": "Indonesia",
+    "country_code": "ID",
+    "latitude": -6.2418983,
+    "time_zone": "Asia/Jakarta"
+  },
+  {
+    "id": 537,
+    "city": "Issy-les-Moulineaux",
+    "country": "France",
+    "country_code": "FR",
+    "latitude": 48.8373554,
+    "time_zone": "Europe/Paris"
+  },
+  {
+    "id": 538,
+    "city": "Unidad",
+    "country": "Philippines",
+    "country_code": "PH",
+    "latitude": 14.556369,
+    "time_zone": "Asia/Manila"
+  },
+  {
+    "id": 539,
+    "city": "Añatuya",
+    "country": "Argentina",
+    "country_code": "AR",
+    "latitude": -27.7828418,
+    "time_zone": "America/Argentina/Cordoba"
+  },
+  {
+    "id": 540,
+    "city": "Linköping",
+    "country": "Sweden",
+    "country_code": "SE",
+    "latitude": 57.9936068,
+    "time_zone": "Europe/Stockholm"
+  },
+  {
+    "id": 541,
+    "city": "Ostrów Wielkopolski",
+    "country": "Poland",
+    "country_code": "PL",
+    "latitude": 51.6205979,
+    "time_zone": "Europe/Warsaw"
+  },
+  {
+    "id": 542,
+    "city": "Maasin",
+    "country": "Philippines",
+    "country_code": "PH",
+    "latitude": 10.132503,
+    "time_zone": "Asia/Manila"
+  },
+  {
+    "id": 543,
+    "city": "El Quiteño",
+    "country": "Panama",
+    "country_code": "PA",
+    "latitude": 8.4677773,
+    "time_zone": "America/Panama"
+  },
+  {
+    "id": 544,
+    "city": "Linköping",
+    "country": "Sweden",
+    "country_code": "SE",
+    "latitude": 58.4073691,
+    "time_zone": "Europe/Stockholm"
+  },
+  {
+    "id": 545,
+    "city": "Urus-Martan",
+    "country": "Russia",
+    "country_code": "RU",
+    "latitude": 43.1298714,
+    "time_zone": "Europe/Moscow"
+  },
+  {
+    "id": 546,
+    "city": "Raków",
+    "country": "Poland",
+    "country_code": "PL",
+    "latitude": 50.6735414,
+    "time_zone": "Europe/Warsaw"
+  },
+  {
+    "id": 547,
+    "city": "Udon Thani",
+    "country": "Thailand",
+    "country_code": "TH",
+    "latitude": 17.387112,
+    "time_zone": "Asia/Bangkok"
+  },
+  {
+    "id": 548,
+    "city": "Banjar Batuaji Kaja",
+    "country": "Indonesia",
+    "country_code": "ID",
+    "latitude": -8.6186415,
+    "time_zone": "Asia/Makassar"
+  },
+  {
+    "id": 549,
+    "city": "Pucara",
+    "country": "Peru",
+    "country_code": "PE",
+    "latitude": -15.0418557,
+    "time_zone": "America/Lima"
+  },
+  {
+    "id": 550,
+    "city": "Zelenograd",
+    "country": "Russia",
+    "country_code": "RU",
+    "latitude": 55.706586,
+    "time_zone": "Europe/Moscow"
+  },
+  {
+    "id": 551,
+    "city": "Padova",
+    "country": "Italy",
+    "country_code": "IT",
+    "latitude": 45.402837,
+    "time_zone": "Europe/Rome"
+  },
+  {
+    "id": 552,
+    "city": "Patnongon",
+    "country": "Philippines",
+    "country_code": "PH",
+    "latitude": 10.9322366,
+    "time_zone": "Asia/Manila"
+  },
+  {
+    "id": 553,
+    "city": "Hongqi",
+    "country": "China",
+    "country_code": "CN",
+    "latitude": 35.30385,
+    "time_zone": "Asia/Macau"
+  },
+  {
+    "id": 554,
+    "city": "Rafaela",
+    "country": "Argentina",
+    "country_code": "AR",
+    "latitude": -30.9392897,
+    "time_zone": "America/Argentina/Cordoba"
+  },
+  {
+    "id": 555,
+    "city": "Paris 13",
+    "country": "France",
+    "country_code": "FR",
+    "latitude": 43.4945737,
+    "time_zone": "Europe/Paris"
+  },
+  {
+    "id": 556,
+    "city": "Carvalhal da Aroeira",
+    "country": "Portugal",
+    "country_code": "PT",
+    "latitude": 39.5160073,
+    "time_zone": "Europe/Lisbon"
+  },
+  {
+    "id": 557,
+    "city": "Olenegorsk",
+    "country": "Russia",
+    "country_code": "RU",
+    "latitude": 68.0986274,
+    "time_zone": "Europe/Moscow"
+  },
+  {
+    "id": 558,
+    "city": "Karangintan",
+    "country": "Indonesia",
+    "country_code": "ID",
+    "latitude": -3.4865398,
+    "time_zone": "Asia/Jakarta"
+  },
+  {
+    "id": 559,
+    "city": "Nanmen",
+    "country": "China",
+    "country_code": "CN",
+    "latitude": 26.567944,
+    "time_zone": "Asia/Chongqing"
+  },
+  {
+    "id": 560,
+    "city": "Wuluo",
+    "country": "China",
+    "country_code": "CN",
+    "latitude": 28.0896014,
+    "time_zone": "Asia/Chongqing"
+  },
+  {
+    "id": 561,
+    "city": "Paamiut",
+    "country": "Greenland",
+    "country_code": "GL",
+    "latitude": 61.9919,
+    "time_zone": "America/Godthab"
+  },
+  {
+    "id": 562,
+    "city": "Nularan",
+    "country": "Indonesia",
+    "country_code": "ID",
+    "latitude": -9.4954726,
+    "time_zone": "Asia/Makassar"
+  },
+  {
+    "id": 563,
+    "city": "Kislyakovskaya",
+    "country": "Russia",
+    "country_code": "RU",
+    "latitude": 46.4482967,
+    "time_zone": "Europe/Moscow"
+  },
+  {
+    "id": 564,
+    "city": "San Diego",
+    "country": "United States",
+    "country_code": "US",
+    "latitude": 32.903454,
+    "time_zone": "America/Los_Angeles"
+  },
+  {
+    "id": 565,
+    "city": "Muslyumovo",
+    "country": "Russia",
+    "country_code": "RU",
+    "latitude": 55.3029762,
+    "time_zone": "Europe/Moscow"
+  },
+  {
+    "id": 566,
+    "city": "Al Ḩammāmāt",
+    "country": "Tunisia",
+    "country_code": "TN",
+    "latitude": 36.4072574,
+    "time_zone": "Africa/Tunis"
+  },
+  {
+    "id": 567,
+    "city": "Det Udom",
+    "country": "Thailand",
+    "country_code": "TH",
+    "latitude": 14.8548457,
+    "time_zone": "Asia/Bangkok"
+  },
+  {
+    "id": 568,
+    "city": "Mautapaga Bawah",
+    "country": "Indonesia",
+    "country_code": "ID",
+    "latitude": -8.845,
+    "time_zone": "Asia/Makassar"
+  },
+  {
+    "id": 569,
+    "city": "Nanyi",
+    "country": "China",
+    "country_code": "CN",
+    "latitude": 38.645085,
+    "time_zone": "Asia/Kolkata"
+  },
+  {
+    "id": 570,
+    "city": "Ortiga",
+    "country": "Portugal",
+    "country_code": "PT",
+    "latitude": 39.4865544,
+    "time_zone": "Europe/Lisbon"
+  },
+  {
+    "id": 571,
+    "city": "Veliki Grđevac",
+    "country": "Croatia",
+    "country_code": "HR",
+    "latitude": 45.7544209,
+    "time_zone": "Europe/Zagreb"
+  },
+  {
+    "id": 572,
+    "city": "Freguesia do Ribeirao da Ilha",
+    "country": "Brazil",
+    "country_code": "BR",
+    "latitude": -27.7203552,
+    "time_zone": "America/Sao_Paulo"
+  },
+  {
+    "id": 573,
+    "city": "Taling Chan",
+    "country": "Thailand",
+    "country_code": "TH",
+    "latitude": 13.7733179,
+    "time_zone": "Asia/Bangkok"
+  },
+  {
+    "id": 574,
+    "city": "Yuktae-dong",
+    "country": "North Korea",
+    "country_code": "KP",
+    "latitude": 40.026852,
+    "time_zone": "Asia/Pyongyang"
+  },
+  {
+    "id": 575,
+    "city": "Bandaragung",
+    "country": "Indonesia",
+    "country_code": "ID",
+    "latitude": -5.3003056,
+    "time_zone": "Asia/Jakarta"
+  },
+  {
+    "id": 576,
+    "city": "Apeldoorn",
+    "country": "Netherlands",
+    "country_code": "NL",
+    "latitude": 52.1972058,
+    "time_zone": "Europe/Amsterdam"
+  },
+  {
+    "id": 577,
+    "city": "Barra do Bugres",
+    "country": "Brazil",
+    "country_code": "BR",
+    "latitude": -15.0705872,
+    "time_zone": "America/Cuiaba"
+  },
+  {
+    "id": 578,
+    "city": "Fengshan",
+    "country": "China",
+    "country_code": "CN",
+    "latitude": 24.546876,
+    "time_zone": "Asia/Shanghai"
+  },
+  {
+    "id": 579,
+    "city": "Chorkówka",
+    "country": "Poland",
+    "country_code": "PL",
+    "latitude": 49.642816,
+    "time_zone": "Europe/Warsaw"
+  },
+  {
+    "id": 580,
+    "city": "Semenivka",
+    "country": "Ukraine",
+    "country_code": "UA",
+    "latitude": 52.1814619,
+    "time_zone": "Europe/Moscow"
+  },
+  {
+    "id": 581,
+    "city": "Novomyshastovskaya",
+    "country": "Russia",
+    "country_code": "RU",
+    "latitude": 45.1974486,
+    "time_zone": "Europe/Moscow"
+  },
+  {
+    "id": 582,
+    "city": "San Diego",
+    "country": "Philippines",
+    "country_code": "PH",
+    "latitude": 14.1858094,
+    "time_zone": "Asia/Manila"
+  },
+  {
+    "id": 583,
+    "city": "Tost",
+    "country": "China",
+    "country_code": "CN",
+    "latitude": 31.068706,
+    "time_zone": "Asia/Almaty"
+  },
+  {
+    "id": 584,
+    "city": "Yanhe",
+    "country": "China",
+    "country_code": "CN",
+    "latitude": 28.563927,
+    "time_zone": "Asia/Chongqing"
+  },
+  {
+    "id": 585,
+    "city": "Hukeng",
+    "country": "China",
+    "country_code": "CN",
+    "latitude": 24.646975,
+    "time_zone": "Asia/Shanghai"
+  },
+  {
+    "id": 586,
+    "city": "Sumbergayam",
+    "country": "Indonesia",
+    "country_code": "ID",
+    "latitude": -8.1067604,
+    "time_zone": "Asia/Jakarta"
+  },
+  {
+    "id": 587,
+    "city": "Staroutkinsk",
+    "country": "Russia",
+    "country_code": "RU",
+    "latitude": 57.2287633,
+    "time_zone": "Asia/Yekaterinburg"
+  },
+  {
+    "id": 588,
+    "city": "Arrentela",
+    "country": "Portugal",
+    "country_code": "PT",
+    "latitude": 38.627216,
+    "time_zone": "Europe/Lisbon"
+  },
+  {
+    "id": 589,
+    "city": "Kansas City",
+    "country": "United States",
+    "country_code": "US",
+    "latitude": 39.0345609,
+    "time_zone": "America/Chicago"
+  },
+  {
+    "id": 590,
+    "city": "Krzyżowice",
+    "country": "Poland",
+    "country_code": "PL",
+    "latitude": 49.9899828,
+    "time_zone": "Europe/Warsaw"
+  },
+  {
+    "id": 591,
+    "city": "Helmas",
+    "country": "Albania",
+    "country_code": "AL",
+    "latitude": 41.191548,
+    "time_zone": "Europe/Tirane"
+  },
+  {
+    "id": 592,
+    "city": "Putrajaya",
+    "country": "Malaysia",
+    "country_code": "MY",
+    "latitude": 2.9362417,
+    "time_zone": "Asia/Kuala_Lumpur"
+  },
+  {
+    "id": 593,
+    "city": "Liucun",
+    "country": "China",
+    "country_code": "CN",
+    "latitude": 36.995188,
+    "time_zone": "Asia/Harbin"
+  },
+  {
+    "id": 594,
+    "city": "Jiubao",
+    "country": "China",
+    "country_code": "CN",
+    "latitude": 30.30791,
+    "time_zone": "Asia/Shanghai"
+  },
+  {
+    "id": 595,
+    "city": "Luzhai",
+    "country": "China",
+    "country_code": "CN",
+    "latitude": 24.487326,
+    "time_zone": "Asia/Chongqing"
+  },
+  {
+    "id": 596,
+    "city": "Pailou",
+    "country": "China",
+    "country_code": "CN",
+    "latitude": 30.6543991,
+    "time_zone": "Asia/Chongqing"
+  },
+  {
+    "id": 597,
+    "city": "Eg",
+    "country": "Mongolia",
+    "country_code": "MN",
+    "latitude": 48.6945174,
+    "time_zone": "Asia/Yakutsk"
+  },
+  {
+    "id": 598,
+    "city": "Senhor do Bonfim",
+    "country": "Brazil",
+    "country_code": "BR",
+    "latitude": -10.459783,
+    "time_zone": "America/Bahia"
+  },
+  {
+    "id": 599,
+    "city": "Tiaodeng",
+    "country": "China",
+    "country_code": "CN",
+    "latitude": 29.885144,
+    "time_zone": "Asia/Chongqing"
+  },
+  {
+    "id": 600,
+    "city": "Lomé",
+    "country": "Togo",
+    "country_code": "TG",
+    "latitude": 6.1724969,
+    "time_zone": "Africa/Lome"
+  },
+  {
+    "id": 601,
+    "city": "Novoalekseyevskaya",
+    "country": "Russia",
+    "country_code": "RU",
+    "latitude": 44.8238879,
+    "time_zone": "Europe/Moscow"
+  },
+  {
+    "id": 602,
+    "city": "Guay",
+    "country": "Indonesia",
+    "country_code": "ID",
+    "latitude": -2.673867,
+    "time_zone": "Asia/Jayapura"
+  },
+  {
+    "id": 603,
+    "city": "Sugcad",
+    "country": "Philippines",
+    "country_code": "PH",
+    "latitude": 13.302428,
+    "time_zone": "Asia/Manila"
+  },
+  {
+    "id": 604,
+    "city": "Waco",
+    "country": "United States",
+    "country_code": "US",
+    "latitude": 31.5140575,
+    "time_zone": "America/Chicago"
+  },
+  {
+    "id": 605,
+    "city": "Jiaoyuan",
+    "country": "China",
+    "country_code": "CN",
+    "latitude": 42.887766,
+    "time_zone": "Asia/Chongqing"
+  },
+  {
+    "id": 606,
+    "city": "Liandu",
+    "country": "China",
+    "country_code": "CN",
+    "latitude": 28.445928,
+    "time_zone": "Asia/Chongqing"
+  },
+  {
+    "id": 607,
+    "city": "Chłapowo",
+    "country": "Poland",
+    "country_code": "PL",
+    "latitude": 54.80342,
+    "time_zone": "Europe/Warsaw"
+  },
+  {
+    "id": 608,
+    "city": "Krajan Timur Mlokorejo",
+    "country": "Indonesia",
+    "country_code": "ID",
+    "latitude": -8.3081,
+    "time_zone": "Asia/Jakarta"
+  },
+  {
+    "id": 609,
+    "city": "Oleksandriya",
+    "country": "Ukraine",
+    "country_code": "UA",
+    "latitude": 48.6632704,
+    "time_zone": "Europe/Zaporozhye"
+  },
+  {
+    "id": 610,
+    "city": "Jianguo",
+    "country": "China",
+    "country_code": "CN",
+    "latitude": 39.909214,
+    "time_zone": "Asia/Harbin"
+  },
+  {
+    "id": 611,
+    "city": "Bago",
+    "country": "Myanmar",
+    "country_code": "MM",
+    "latitude": 17.3220711,
+    "time_zone": "Asia/Rangoon"
+  },
+  {
+    "id": 612,
+    "city": "Licuan",
+    "country": "Philippines",
+    "country_code": "PH",
+    "latitude": 11.0126649,
+    "time_zone": "Asia/Manila"
+  },
+  {
+    "id": 613,
+    "city": "Bulawin",
+    "country": "Philippines",
+    "country_code": "PH",
+    "latitude": 7.584057,
+    "time_zone": "Asia/Manila"
+  },
+  {
+    "id": 614,
+    "city": "Boshi",
+    "country": "China",
+    "country_code": "CN",
+    "latitude": 30.6514558,
+    "time_zone": "Asia/Chongqing"
+  },
+  {
+    "id": 615,
+    "city": "Vavatenina",
+    "country": "Madagascar",
+    "country_code": "MG",
+    "latitude": -17.4652462,
+    "time_zone": "Indian/Antananarivo"
+  },
+  {
+    "id": 616,
+    "city": "Ayang-ni",
+    "country": "North Korea",
+    "country_code": "KP",
+    "latitude": 38.235241,
+    "time_zone": "Asia/Pyongyang"
+  },
+  {
+    "id": 617,
+    "city": "Bweyogerere",
+    "country": "Uganda",
+    "country_code": "UG",
+    "latitude": 0.3353678,
+    "time_zone": "Africa/Kampala"
+  },
+  {
+    "id": 618,
+    "city": "Koski Tl",
+    "country": "Finland",
+    "country_code": "FI",
+    "latitude": 60.6569706,
+    "time_zone": "Europe/Helsinki"
+  },
+  {
+    "id": 619,
+    "city": "Järna",
+    "country": "Sweden",
+    "country_code": "SE",
+    "latitude": 59.1134343,
+    "time_zone": "Europe/Stockholm"
+  },
+  {
+    "id": 620,
+    "city": "Manis Mekarwangi",
+    "country": "Indonesia",
+    "country_code": "ID",
+    "latitude": -6.9948481,
+    "time_zone": "Asia/Jakarta"
+  },
+  {
+    "id": 621,
+    "city": "Tanggung",
+    "country": "Indonesia",
+    "country_code": "ID",
+    "latitude": -8.0716019,
+    "time_zone": "Asia/Jakarta"
+  },
+  {
+    "id": 622,
+    "city": "Rancho Nuevo",
+    "country": "Mexico",
+    "country_code": "MX",
+    "latitude": 22.2222241,
+    "time_zone": "America/Mexico_City"
+  },
+  {
+    "id": 623,
+    "city": "Slavkov u Brna",
+    "country": "Czech Republic",
+    "country_code": "CZ",
+    "latitude": 49.1532539,
+    "time_zone": "Europe/Prague"
+  },
+  {
+    "id": 624,
+    "city": "Belén de Umbría",
+    "country": "Colombia",
+    "country_code": "CO",
+    "latitude": 5.2351338,
+    "time_zone": "America/Bogota"
+  },
+  {
+    "id": 625,
+    "city": "Sulo",
+    "country": "Indonesia",
+    "country_code": "ID",
+    "latitude": -7.8225778,
+    "time_zone": "Asia/Jakarta"
+  },
+  {
+    "id": 626,
+    "city": "Paicol",
+    "country": "Colombia",
+    "country_code": "CO",
+    "latitude": 2.449478,
+    "time_zone": "America/Bogota"
+  },
+  {
+    "id": 627,
+    "city": "Créteil",
+    "country": "France",
+    "country_code": "FR",
+    "latitude": 48.7997482,
+    "time_zone": "Europe/Paris"
+  },
+  {
+    "id": 628,
+    "city": "Paisha",
+    "country": "China",
+    "country_code": "CN",
+    "latitude": 23.544205,
+    "time_zone": "Asia/Chongqing"
+  },
+  {
+    "id": 629,
+    "city": "Xudat",
+    "country": "Azerbaijan",
+    "country_code": "AZ",
+    "latitude": 41.6252602,
+    "time_zone": "Asia/Baku"
+  },
+  {
+    "id": 630,
+    "city": "Mhango",
+    "country": "Tanzania",
+    "country_code": "TZ",
+    "latitude": -2.7529366,
+    "time_zone": "Africa/Dar_es_Salaam"
+  },
+  {
+    "id": 631,
+    "city": "Rocky Mountain House",
+    "country": "Canada",
+    "country_code": "CA",
+    "latitude": 52.3793432,
+    "time_zone": "America/Edmonton"
+  },
+  {
+    "id": 632,
+    "city": "Corujeira",
+    "country": "Portugal",
+    "country_code": "PT",
+    "latitude": 40.3829273,
+    "time_zone": "Europe/Lisbon"
+  },
+  {
+    "id": 633,
+    "city": "Mongo",
+    "country": "Chad",
+    "country_code": "TD",
+    "latitude": 12.1862546,
+    "time_zone": "Africa/Ndjamena"
+  },
+  {
+    "id": 634,
+    "city": "Radeče",
+    "country": "Slovenia",
+    "country_code": "SI",
+    "latitude": 46.0655001,
+    "time_zone": "Europe/Ljubljana"
+  },
+  {
+    "id": 635,
+    "city": "Amieirinha",
+    "country": "Portugal",
+    "country_code": "PT",
+    "latitude": 39.7317899,
+    "time_zone": "Europe/Lisbon"
+  },
+  {
+    "id": 636,
+    "city": "Quatá",
+    "country": "Brazil",
+    "country_code": "BR",
+    "latitude": -22.2454935,
+    "time_zone": "America/Sao_Paulo"
+  },
+  {
+    "id": 637,
+    "city": "Miratejo",
+    "country": "Portugal",
+    "country_code": "PT",
+    "latitude": 38.6459249,
+    "time_zone": "Europe/Lisbon"
+  },
+  {
+    "id": 638,
+    "city": "Malakand",
+    "country": "Pakistan",
+    "country_code": "PK",
+    "latitude": 34.7461463,
+    "time_zone": "Asia/Karachi"
+  },
+  {
+    "id": 639,
+    "city": "Ciranca Satu",
+    "country": "Indonesia",
+    "country_code": "ID",
+    "latitude": -7.03126,
+    "time_zone": "Asia/Jakarta"
+  },
+  {
+    "id": 640,
+    "city": "Sinjai",
+    "country": "Indonesia",
+    "country_code": "ID",
+    "latitude": -5.2171961,
+    "time_zone": "Asia/Makassar"
+  },
+  {
+    "id": 641,
+    "city": "Taman",
+    "country": "Indonesia",
+    "country_code": "ID",
+    "latitude": 52.804249,
+    "time_zone": "Asia/Jakarta"
+  },
+  {
+    "id": 642,
+    "city": "Bangshipu",
+    "country": "China",
+    "country_code": "CN",
+    "latitude": 40.417902,
+    "time_zone": "Asia/Harbin"
+  },
+  {
+    "id": 643,
+    "city": "Orvalho",
+    "country": "Portugal",
+    "country_code": "PT",
+    "latitude": 40.0233496,
+    "time_zone": "Europe/Lisbon"
+  },
+  {
+    "id": 644,
+    "city": "Lidingö",
+    "country": "Sweden",
+    "country_code": "SE",
+    "latitude": 59.3497176,
+    "time_zone": "Europe/Stockholm"
+  },
+  {
+    "id": 645,
+    "city": "Riyom",
+    "country": "Nigeria",
+    "country_code": "NG",
+    "latitude": 9.5842063,
+    "time_zone": "Africa/Lagos"
+  },
+  {
+    "id": 646,
+    "city": "Avellaneda",
+    "country": "Argentina",
+    "country_code": "AR",
+    "latitude": -37.9973752,
+    "time_zone": "America/Argentina/Buenos_Aires"
+  },
+  {
+    "id": 647,
+    "city": "Belyy Yar",
+    "country": "Russia",
+    "country_code": "RU",
+    "latitude": 53.8399736,
+    "time_zone": "Asia/Krasnoyarsk"
+  },
+  {
+    "id": 648,
+    "city": "Baie-Comeau",
+    "country": "Canada",
+    "country_code": "CA",
+    "latitude": 49.2211865,
+    "time_zone": "America/Montreal"
+  },
+  {
+    "id": 649,
+    "city": "Velika",
+    "country": "Croatia",
+    "country_code": "HR",
+    "latitude": 45.4555091,
+    "time_zone": "Europe/Zagreb"
+  },
+  {
+    "id": 650,
+    "city": "Kruševica",
+    "country": "Croatia",
+    "country_code": "HR",
+    "latitude": 45.0827061,
+    "time_zone": "Europe/Sarajevo"
+  },
+  {
+    "id": 651,
+    "city": "Nanggewer",
+    "country": "Indonesia",
+    "country_code": "ID",
+    "latitude": -6.5114699,
+    "time_zone": "Asia/Jakarta"
+  },
+  {
+    "id": 652,
+    "city": "Imrīsh",
+    "country": "Palestinian Territory",
+    "country_code": "PS",
+    "latitude": 31.470305,
+    "time_zone": "Asia/Hebron"
+  },
+  {
+    "id": 653,
+    "city": "Mogi das Cruzes",
+    "country": "Brazil",
+    "country_code": "BR",
+    "latitude": -23.5213379,
+    "time_zone": "America/Sao_Paulo"
+  },
+  {
+    "id": 654,
+    "city": "Bhamo",
+    "country": "Myanmar",
+    "country_code": "MM",
+    "latitude": 24.2629574,
+    "time_zone": "Asia/Rangoon"
+  },
+  {
+    "id": 655,
+    "city": "Ponong",
+    "country": "Philippines",
+    "country_code": "PH",
+    "latitude": 10.3080476,
+    "time_zone": "Asia/Manila"
+  },
+  {
+    "id": 656,
+    "city": "Buturlinovka",
+    "country": "Russia",
+    "country_code": "RU",
+    "latitude": 50.8963676,
+    "time_zone": "Europe/Moscow"
+  },
+  {
+    "id": 657,
+    "city": "Kaédi",
+    "country": "Mauritania",
+    "country_code": "MR",
+    "latitude": 16.1535575,
+    "time_zone": "Africa/Dakar"
+  },
+  {
+    "id": 658,
+    "city": "Višnjevac",
+    "country": "Croatia",
+    "country_code": "HR",
+    "latitude": 45.9724452,
+    "time_zone": "Europe/Zagreb"
+  },
+  {
+    "id": 659,
+    "city": "Maki",
+    "country": "Japan",
+    "country_code": "JP",
+    "latitude": 37.6623635,
+    "time_zone": "Asia/Tokyo"
+  },
+  {
+    "id": 660,
+    "city": "Artemisa",
+    "country": "Cuba",
+    "country_code": "CU",
+    "latitude": 22.8159074,
+    "time_zone": "America/Havana"
+  },
+  {
+    "id": 661,
+    "city": "Zhongshan",
+    "country": "China",
+    "country_code": "CN",
+    "latitude": 22.517585,
+    "time_zone": "Asia/Chongqing"
+  },
+  {
+    "id": 662,
+    "city": "Gucheng",
+    "country": "China",
+    "country_code": "CN",
+    "latitude": 37.347409,
+    "time_zone": "Asia/Chongqing"
+  },
+  {
+    "id": 663,
+    "city": "Reims",
+    "country": "France",
+    "country_code": "FR",
+    "latitude": 49.1790652,
+    "time_zone": "Europe/Paris"
+  },
+  {
+    "id": 664,
+    "city": "Roubaix",
+    "country": "France",
+    "country_code": "FR",
+    "latitude": 50.7022235,
+    "time_zone": "Europe/Paris"
+  },
+  {
+    "id": 665,
+    "city": "Ra-ngae",
+    "country": "Thailand",
+    "country_code": "TH",
+    "latitude": 6.2958736,
+    "time_zone": "Asia/Bangkok"
+  },
+  {
+    "id": 666,
+    "city": "Banatsko Veliko Selo",
+    "country": "Serbia",
+    "country_code": "RS",
+    "latitude": 45.8266432,
+    "time_zone": "Europe/Belgrade"
+  },
+  {
+    "id": 667,
+    "city": "Guaporé",
+    "country": "Brazil",
+    "country_code": "BR",
+    "latitude": -28.8455312,
+    "time_zone": "America/Sao_Paulo"
+  },
+  {
+    "id": 668,
+    "city": "Maromitsa",
+    "country": "Russia",
+    "country_code": "RU",
+    "latitude": 59.8664826,
+    "time_zone": "Europe/Volgograd"
+  },
+  {
+    "id": 669,
+    "city": "Buzuluk",
+    "country": "Russia",
+    "country_code": "RU",
+    "latitude": 52.7865762,
+    "time_zone": "Asia/Yekaterinburg"
+  },
+  {
+    "id": 670,
+    "city": "Onsala",
+    "country": "Sweden",
+    "country_code": "SE",
+    "latitude": 57.4293806,
+    "time_zone": "Europe/Stockholm"
+  },
+  {
+    "id": 671,
+    "city": "Huacao",
+    "country": "China",
+    "country_code": "CN",
+    "latitude": 31.207751,
+    "time_zone": "Asia/Shanghai"
+  },
+  {
+    "id": 672,
+    "city": "Sosnówka",
+    "country": "Poland",
+    "country_code": "PL",
+    "latitude": 50.8177069,
+    "time_zone": "Europe/Warsaw"
+  },
+  {
+    "id": 673,
+    "city": "Apeldoorn",
+    "country": "Netherlands",
+    "country_code": "NL",
+    "latitude": 52.2313764,
+    "time_zone": "Europe/Amsterdam"
+  },
+  {
+    "id": 674,
+    "city": "Jajce",
+    "country": "Bosnia and Herzegovina",
+    "country_code": "BA",
+    "latitude": 44.3398061,
+    "time_zone": "Europe/Sarajevo"
+  },
+  {
+    "id": 675,
+    "city": "Xingpinglu",
+    "country": "China",
+    "country_code": "CN",
+    "latitude": 34.29922,
+    "time_zone": "Asia/Chongqing"
+  },
+  {
+    "id": 676,
+    "city": "Inírida",
+    "country": "Colombia",
+    "country_code": "CO",
+    "latitude": 3.856457,
+    "time_zone": "America/Caracas"
+  },
+  {
+    "id": 677,
+    "city": "Gigant",
+    "country": "Russia",
+    "country_code": "RU",
+    "latitude": 51.6455857,
+    "time_zone": "Europe/Moscow"
+  },
+  {
+    "id": 678,
+    "city": "Nanqi",
+    "country": "China",
+    "country_code": "CN",
+    "latitude": 34.2816848,
+    "time_zone": "Asia/Shanghai"
+  },
+  {
+    "id": 679,
+    "city": "Laszki",
+    "country": "Poland",
+    "country_code": "PL",
+    "latitude": 50.009103,
+    "time_zone": "Europe/Warsaw"
+  },
+  {
+    "id": 680,
+    "city": "Kendari",
+    "country": "Indonesia",
+    "country_code": "ID",
+    "latitude": -3.9984597,
+    "time_zone": "Asia/Makassar"
+  },
+  {
+    "id": 681,
+    "city": "Donomulyo",
+    "country": "Indonesia",
+    "country_code": "ID",
+    "latitude": -8.2850512,
+    "time_zone": "Asia/Jakarta"
+  },
+  {
+    "id": 682,
+    "city": "Timóteo",
+    "country": "Brazil",
+    "country_code": "BR",
+    "latitude": -19.538062,
+    "time_zone": "America/Sao_Paulo"
+  },
+  {
+    "id": 683,
+    "city": "Huaqiao",
+    "country": "China",
+    "country_code": "CN",
+    "latitude": 24.9372186,
+    "time_zone": "Asia/Shanghai"
+  },
+  {
+    "id": 684,
+    "city": "Fufang",
+    "country": "China",
+    "country_code": "CN",
+    "latitude": 22.8811032,
+    "time_zone": "Asia/Shanghai"
+  },
+  {
+    "id": 685,
+    "city": "Serh",
+    "country": "China",
+    "country_code": "CN",
+    "latitude": 20.019055,
+    "time_zone": "Asia/Chongqing"
+  },
+  {
+    "id": 686,
+    "city": "Tulay",
+    "country": "Philippines",
+    "country_code": "PH",
+    "latitude": 14.5788472,
+    "time_zone": "Asia/Manila"
+  },
+  {
+    "id": 687,
+    "city": "Bandar-e Lengeh",
+    "country": "Iran",
+    "country_code": "IR",
+    "latitude": 26.5627867,
+    "time_zone": "Asia/Tehran"
+  },
+  {
+    "id": 688,
+    "city": "Wola Rębkowska",
+    "country": "Poland",
+    "country_code": "PL",
+    "latitude": 51.8925608,
+    "time_zone": "Europe/Warsaw"
+  },
+  {
+    "id": 689,
+    "city": "Saray",
+    "country": "Azerbaijan",
+    "country_code": "AZ",
+    "latitude": 40.5323093,
+    "time_zone": "Asia/Baku"
+  },
+  {
+    "id": 690,
+    "city": "Nianpan",
+    "country": "China",
+    "country_code": "CN",
+    "latitude": 41.821778,
+    "time_zone": "Asia/Harbin"
+  },
+  {
+    "id": 691,
+    "city": "Kasamwa",
+    "country": "Tanzania",
+    "country_code": "TZ",
+    "latitude": -2.8385304,
+    "time_zone": "Africa/Dar_es_Salaam"
+  },
+  {
+    "id": 692,
+    "city": "Funehikimachi-funehiki",
+    "country": "Japan",
+    "country_code": "JP",
+    "latitude": 37.4391941,
+    "time_zone": "Asia/Tokyo"
+  },
+  {
+    "id": 693,
+    "city": "Goz Beïda",
+    "country": "Chad",
+    "country_code": "TD",
+    "latitude": 12.225759,
+    "time_zone": "Africa/Khartoum"
+  },
+  {
+    "id": 694,
+    "city": "Amado Nervo",
+    "country": "Mexico",
+    "country_code": "MX",
+    "latitude": 19.368252,
+    "time_zone": "America/Mazatlan"
+  },
+  {
+    "id": 695,
+    "city": "Thị Trấn Cẩm Thủy",
+    "country": "Vietnam",
+    "country_code": "VN",
+    "latitude": 20.2109764,
+    "time_zone": "Asia/Ho_Chi_Minh"
+  },
+  {
+    "id": 696,
+    "city": "Nuku‘alofa",
+    "country": "Tonga",
+    "country_code": "TO",
+    "latitude": -21.1393418,
+    "time_zone": "Pacific/Tongatapu"
+  },
+  {
+    "id": 697,
+    "city": "Pangradin Satu",
+    "country": "Indonesia",
+    "country_code": "ID",
+    "latitude": -6.507942,
+    "time_zone": "Asia/Jakarta"
+  },
+  {
+    "id": 698,
+    "city": "Dimitrovgrad",
+    "country": "Serbia",
+    "country_code": "RS",
+    "latitude": 43.0208123,
+    "time_zone": "Europe/Belgrade"
+  },
+  {
+    "id": 699,
+    "city": "Obršani",
+    "country": "Macedonia",
+    "country_code": "MK",
+    "latitude": 41.28168,
+    "time_zone": "Europe/Skopje"
+  },
+  {
+    "id": 700,
+    "city": "Cordeiro",
+    "country": "Brazil",
+    "country_code": "BR",
+    "latitude": -22.027222,
+    "time_zone": "America/Sao_Paulo"
+  },
+  {
+    "id": 701,
+    "city": "Sancang",
+    "country": "China",
+    "country_code": "CN",
+    "latitude": 32.768821,
+    "time_zone": "Asia/Chongqing"
+  },
+  {
+    "id": 702,
+    "city": "Youngstown",
+    "country": "United States",
+    "country_code": "US",
+    "latitude": 41.1071733,
+    "time_zone": "America/New_York"
+  },
+  {
+    "id": 703,
+    "city": "Puerto Colombia",
+    "country": "Colombia",
+    "country_code": "CO",
+    "latitude": 2.9479721,
+    "time_zone": "America/Bogota"
+  },
+  {
+    "id": 704,
+    "city": "Kashin",
+    "country": "Russia",
+    "country_code": "RU",
+    "latitude": 57.3529283,
+    "time_zone": "Europe/Moscow"
+  },
+  {
+    "id": 705,
+    "city": "Paucarcolla",
+    "country": "Peru",
+    "country_code": "PE",
+    "latitude": -15.7451604,
+    "time_zone": "America/Lima"
+  },
+  {
+    "id": 706,
+    "city": "Nunguan",
+    "country": "Philippines",
+    "country_code": "PH",
+    "latitude": 7.0539999,
+    "time_zone": "Asia/Manila"
+  },
+  {
+    "id": 707,
+    "city": "Capas",
+    "country": "Philippines",
+    "country_code": "PH",
+    "latitude": 14.5586303,
+    "time_zone": "Asia/Manila"
+  },
+  {
+    "id": 708,
+    "city": "Plérin",
+    "country": "France",
+    "country_code": "FR",
+    "latitude": 48.529165,
+    "time_zone": "Europe/Paris"
+  },
+  {
+    "id": 709,
+    "city": "Lysekil",
+    "country": "Sweden",
+    "country_code": "SE",
+    "latitude": 58.2816546,
+    "time_zone": "Europe/Stockholm"
+  },
+  {
+    "id": 710,
+    "city": "Taivalkoski",
+    "country": "Finland",
+    "country_code": "FI",
+    "latitude": 65.9624289,
+    "time_zone": "Europe/Helsinki"
+  },
+  {
+    "id": 711,
+    "city": "Geshan",
+    "country": "China",
+    "country_code": "CN",
+    "latitude": 27.885191,
+    "time_zone": "Asia/Shanghai"
+  },
+  {
+    "id": 712,
+    "city": "Presidencia Roque Sáenz Peña",
+    "country": "Argentina",
+    "country_code": "AR",
+    "latitude": -34.7569609,
+    "time_zone": "America/Argentina/Cordoba"
+  },
+  {
+    "id": 713,
+    "city": "Krechevitsy",
+    "country": "Russia",
+    "country_code": "RU",
+    "latitude": 58.6266341,
+    "time_zone": "Europe/Moscow"
+  },
+  {
+    "id": 714,
+    "city": "Jinhe",
+    "country": "China",
+    "country_code": "CN",
+    "latitude": 26.695419,
+    "time_zone": "Asia/Shanghai"
+  },
+  {
+    "id": 715,
+    "city": "Guanyinsi",
+    "country": "China",
+    "country_code": "CN",
+    "latitude": 33.083093,
+    "time_zone": "Asia/Chongqing"
+  },
+  {
+    "id": 716,
+    "city": "Krasnaye",
+    "country": "Belarus",
+    "country_code": "BY",
+    "latitude": 52.8874021,
+    "time_zone": "Europe/Minsk"
+  },
+  {
+    "id": 717,
+    "city": "Bolo",
+    "country": "Philippines",
+    "country_code": "PH",
+    "latitude": 13.7866222,
+    "time_zone": "Asia/Manila"
+  },
+  {
+    "id": 718,
+    "city": "Lampa",
+    "country": "Chile",
+    "country_code": "CL",
+    "latitude": -33.2827093,
+    "time_zone": "America/Santiago"
+  },
+  {
+    "id": 719,
+    "city": "Krzepice",
+    "country": "Poland",
+    "country_code": "PL",
+    "latitude": 50.969668,
+    "time_zone": "Europe/Warsaw"
+  },
+  {
+    "id": 720,
+    "city": "Huangbei",
+    "country": "China",
+    "country_code": "CN",
+    "latitude": 24.412155,
+    "time_zone": "Asia/Shanghai"
+  },
+  {
+    "id": 721,
+    "city": "Menghe",
+    "country": "China",
+    "country_code": "CN",
+    "latitude": 32.006965,
+    "time_zone": "Asia/Shanghai"
+  },
+  {
+    "id": 722,
+    "city": "Ramalhal",
+    "country": "Portugal",
+    "country_code": "PT",
+    "latitude": 39.1457699,
+    "time_zone": "Europe/Lisbon"
+  },
+  {
+    "id": 723,
+    "city": "Bunisari",
+    "country": "Indonesia",
+    "country_code": "ID",
+    "latitude": -7.6557879,
+    "time_zone": "Asia/Jakarta"
+  },
+  {
+    "id": 724,
+    "city": "Sulo",
+    "country": "Indonesia",
+    "country_code": "ID",
+    "latitude": -7.8225778,
+    "time_zone": "Asia/Jakarta"
+  },
+  {
+    "id": 725,
+    "city": "Türkmenabat",
+    "country": "Turkmenistan",
+    "country_code": "TM",
+    "latitude": 39.0041313,
+    "time_zone": "Asia/Ashgabat"
+  },
+  {
+    "id": 726,
+    "city": "Pokrovskoye",
+    "country": "Russia",
+    "country_code": "RU",
+    "latitude": 43.2883336,
+    "time_zone": "Europe/Moscow"
+  },
+  {
+    "id": 727,
+    "city": "Jiqu",
+    "country": "China",
+    "country_code": "CN",
+    "latitude": 23.875208,
+    "time_zone": "Asia/Chongqing"
+  },
+  {
+    "id": 728,
+    "city": "Kampungruweh",
+    "country": "Indonesia",
+    "country_code": "ID",
+    "latitude": -6.3668625,
+    "time_zone": "Asia/Jakarta"
+  },
+  {
+    "id": 729,
+    "city": "Quimistán",
+    "country": "Honduras",
+    "country_code": "HN",
+    "latitude": 15.3483742,
+    "time_zone": "America/Tegucigalpa"
+  },
+  {
+    "id": 730,
+    "city": "Fort Erie",
+    "country": "Canada",
+    "country_code": "CA",
+    "latitude": 42.9038743,
+    "time_zone": "America/Toronto"
+  },
+  {
+    "id": 731,
+    "city": "Wanmao",
+    "country": "China",
+    "country_code": "CN",
+    "latitude": 34.799642,
+    "time_zone": "Asia/Chongqing"
+  },
+  {
+    "id": 732,
+    "city": "Yuwan",
+    "country": "China",
+    "country_code": "CN",
+    "latitude": 23.125735,
+    "time_zone": "Asia/Chongqing"
+  },
+  {
+    "id": 733,
+    "city": "Xinpu",
+    "country": "China",
+    "country_code": "CN",
+    "latitude": 27.44587,
+    "time_zone": "Asia/Chongqing"
+  },
+  {
+    "id": 734,
+    "city": "Trondheim",
+    "country": "Norway",
+    "country_code": "NO",
+    "latitude": 63.4400274,
+    "time_zone": "Europe/Oslo"
+  },
+  {
+    "id": 735,
+    "city": "Nizhniy Ufaley",
+    "country": "Russia",
+    "country_code": "RU",
+    "latitude": 55.9186612,
+    "time_zone": "Asia/Yekaterinburg"
+  },
+  {
+    "id": 736,
+    "city": "Västerås",
+    "country": "Sweden",
+    "country_code": "SE",
+    "latitude": 59.6267758,
+    "time_zone": "Europe/Stockholm"
+  },
+  {
+    "id": 737,
+    "city": "Magdalena",
+    "country": "Philippines",
+    "country_code": "PH",
+    "latitude": 14.453071,
+    "time_zone": "Asia/Manila"
+  },
+  {
+    "id": 738,
+    "city": "Jinchuan",
+    "country": "China",
+    "country_code": "CN",
+    "latitude": 38.521085,
+    "time_zone": "Asia/Shanghai"
+  },
+  {
+    "id": 739,
+    "city": "San Narciso",
+    "country": "Philippines",
+    "country_code": "PH",
+    "latitude": 13.4345789,
+    "time_zone": "Asia/Manila"
+  },
+  {
+    "id": 740,
+    "city": "Ichinomiya",
+    "country": "Japan",
+    "country_code": "JP",
+    "latitude": 37.0398003,
+    "time_zone": "Asia/Tokyo"
+  },
+  {
+    "id": 741,
+    "city": "San Marcelino",
+    "country": "Philippines",
+    "country_code": "PH",
+    "latitude": 14.973465,
+    "time_zone": "Asia/Manila"
+  },
+  {
+    "id": 742,
+    "city": "Usu",
+    "country": "China",
+    "country_code": "CN",
+    "latitude": 44.435508,
+    "time_zone": "Asia/Urumqi"
+  },
+  {
+    "id": 743,
+    "city": "Shalya",
+    "country": "Russia",
+    "country_code": "RU",
+    "latitude": 57.2567489,
+    "time_zone": "Asia/Yekaterinburg"
+  },
+  {
+    "id": 744,
+    "city": "Guadalupe",
+    "country": "Mexico",
+    "country_code": "MX",
+    "latitude": 25.6765837,
+    "time_zone": "America/Mexico_City"
+  },
+  {
+    "id": 745,
+    "city": "Lhuentse",
+    "country": "Bhutan",
+    "country_code": "BT",
+    "latitude": 27.8264989,
+    "time_zone": "Asia/Kolkata"
+  },
+  {
+    "id": 746,
+    "city": "La Chapelle-sur-Erdre",
+    "country": "France",
+    "country_code": "FR",
+    "latitude": 47.3362701,
+    "time_zone": "Europe/Paris"
+  },
+  {
+    "id": 747,
+    "city": "Laiguangying",
+    "country": "China",
+    "country_code": "CN",
+    "latitude": 40.0158487,
+    "time_zone": "Asia/Harbin"
+  },
+  {
+    "id": 748,
+    "city": "Pamupukan",
+    "country": "Indonesia",
+    "country_code": "ID",
+    "latitude": -7.0487503,
+    "time_zone": "Asia/Jakarta"
+  },
+  {
+    "id": 749,
+    "city": "Shijia",
+    "country": "China",
+    "country_code": "CN",
+    "latitude": 29.649109,
+    "time_zone": "Asia/Chongqing"
+  },
+  {
+    "id": 750,
+    "city": "Anyu",
+    "country": "China",
+    "country_code": "CN",
+    "latitude": 22.937244,
+    "time_zone": "Asia/Chongqing"
+  },
+  {
+    "id": 751,
+    "city": "Kępie Żaleszańskie",
+    "country": "Poland",
+    "country_code": "PL",
+    "latitude": 50.643436,
+    "time_zone": "Europe/Warsaw"
+  },
+  {
+    "id": 752,
+    "city": "Bolyarovo",
+    "country": "Bulgaria",
+    "country_code": "BG",
+    "latitude": 42.1988667,
+    "time_zone": "Europe/Sofia"
+  },
+  {
+    "id": 753,
+    "city": "Las Vegas, Santa Barbara",
+    "country": "Honduras",
+    "country_code": "HN",
+    "latitude": 14.8753647,
+    "time_zone": "America/Tegucigalpa"
+  },
+  {
+    "id": 754,
+    "city": "Klyuchi",
+    "country": "Russia",
+    "country_code": "RU",
+    "latitude": 56.1343878,
+    "time_zone": "Asia/Kamchatka"
+  },
+  {
+    "id": 755,
+    "city": "Pasco",
+    "country": "Argentina",
+    "country_code": "AR",
+    "latitude": -32.9508446,
+    "time_zone": "America/Argentina/Cordoba"
+  },
+  {
+    "id": 756,
+    "city": "Tawa",
+    "country": "China",
+    "country_code": "CN",
+    "latitude": 37.507694,
+    "time_zone": "Asia/Chongqing"
+  },
+  {
+    "id": 757,
+    "city": "Manogay",
+    "country": "Afghanistan",
+    "country_code": "AF",
+    "latitude": 34.99015,
+    "time_zone": "Asia/Kabul"
+  },
+  {
+    "id": 758,
+    "city": "Lusong",
+    "country": "Philippines",
+    "country_code": "PH",
+    "latitude": 16.7903346,
+    "time_zone": "Asia/Manila"
+  },
+  {
+    "id": 759,
+    "city": "Leganes",
+    "country": "Spain",
+    "country_code": "ES",
+    "latitude": 40.3319506,
+    "time_zone": "Europe/Madrid"
+  },
+  {
+    "id": 760,
+    "city": "Mayskiy",
+    "country": "Russia",
+    "country_code": "RU",
+    "latitude": 45.1253665,
+    "time_zone": "Europe/Moscow"
+  },
+  {
+    "id": 761,
+    "city": "Tenggong",
+    "country": "Indonesia",
+    "country_code": "ID",
+    "latitude": -8.1623059,
+    "time_zone": "Asia/Jakarta"
+  },
+  {
+    "id": 762,
+    "city": "Shaheying",
+    "country": "China",
+    "country_code": "CN",
+    "latitude": 40.828411,
+    "time_zone": "Asia/Harbin"
+  },
+  {
+    "id": 763,
+    "city": "Huantuo",
+    "country": "China",
+    "country_code": "CN",
+    "latitude": 39.22909,
+    "time_zone": "Asia/Shanghai"
+  },
+  {
+    "id": 764,
+    "city": "Alcácer do Sal",
+    "country": "Portugal",
+    "country_code": "PT",
+    "latitude": 38.299031,
+    "time_zone": "Europe/Lisbon"
+  },
+  {
+    "id": 765,
+    "city": "Manzini",
+    "country": "Swaziland",
+    "country_code": "SZ",
+    "latitude": -26.5081999,
+    "time_zone": "Africa/Mbabane"
+  },
+  {
+    "id": 766,
+    "city": "Arras",
+    "country": "France",
+    "country_code": "FR",
+    "latitude": 50.2837307,
+    "time_zone": "Europe/Paris"
+  },
+  {
+    "id": 767,
+    "city": "Sezemice",
+    "country": "Czech Republic",
+    "country_code": "CZ",
+    "latitude": 50.0665053,
+    "time_zone": "Europe/Prague"
+  },
+  {
+    "id": 768,
+    "city": "Yupiltepeque",
+    "country": "Guatemala",
+    "country_code": "GT",
+    "latitude": 14.1950983,
+    "time_zone": "America/Guatemala"
+  },
+  {
+    "id": 769,
+    "city": "Shāhpur",
+    "country": "Pakistan",
+    "country_code": "PK",
+    "latitude": 32.2951394,
+    "time_zone": "Asia/Karachi"
+  },
+  {
+    "id": 770,
+    "city": "Kampong Speu",
+    "country": "Cambodia",
+    "country_code": "KH",
+    "latitude": 11.6155109,
+    "time_zone": "Asia/Phnom_Penh"
+  },
+  {
+    "id": 771,
+    "city": "Weihe",
+    "country": "China",
+    "country_code": "CN",
+    "latitude": 44.956193,
+    "time_zone": "Asia/Harbin"
+  },
+  {
+    "id": 772,
+    "city": "Shums’k",
+    "country": "Ukraine",
+    "country_code": "UA",
+    "latitude": 50.122577,
+    "time_zone": "Europe/Uzhgorod"
+  },
+  {
+    "id": 773,
+    "city": "Hexing",
+    "country": "China",
+    "country_code": "CN",
+    "latitude": -6.2140375,
+    "time_zone": "Asia/Shanghai"
+  },
+  {
+    "id": 774,
+    "city": "Pexiligais",
+    "country": "Portugal",
+    "country_code": "PT",
+    "latitude": 38.8066531,
+    "time_zone": "Europe/Lisbon"
+  },
+  {
+    "id": 775,
+    "city": "Petropavlivka",
+    "country": "Ukraine",
+    "country_code": "UA",
+    "latitude": 48.4187171,
+    "time_zone": "Europe/Zaporozhye"
+  },
+  {
+    "id": 776,
+    "city": "Funchal",
+    "country": "Portugal",
+    "country_code": "PT",
+    "latitude": 32.6480275,
+    "time_zone": "Atlantic/Madeira"
+  },
+  {
+    "id": 777,
+    "city": "Ituiutaba",
+    "country": "Brazil",
+    "country_code": "BR",
+    "latitude": -18.9745738,
+    "time_zone": "America/Sao_Paulo"
+  },
+  {
+    "id": 778,
+    "city": "Goussainville",
+    "country": "France",
+    "country_code": "FR",
+    "latitude": 49.0240609,
+    "time_zone": "Europe/Paris"
+  },
+  {
+    "id": 779,
+    "city": "Zlín",
+    "country": "Czech Republic",
+    "country_code": "CZ",
+    "latitude": 49.2176397,
+    "time_zone": "Europe/Prague"
+  },
+  {
+    "id": 780,
+    "city": "Dobra",
+    "country": "Poland",
+    "country_code": "PL",
+    "latitude": 53.5659675,
+    "time_zone": "Europe/Warsaw"
+  },
+  {
+    "id": 781,
+    "city": "Zamostochcha",
+    "country": "Belarus",
+    "country_code": "BY",
+    "latitude": 53.8237809,
+    "time_zone": "Europe/Minsk"
+  },
+  {
+    "id": 782,
+    "city": "Puger",
+    "country": "Indonesia",
+    "country_code": "ID",
+    "latitude": -8.4779418,
+    "time_zone": "Asia/Jakarta"
+  },
+  {
+    "id": 783,
+    "city": "Faqīrwāli",
+    "country": "Pakistan",
+    "country_code": "PK",
+    "latitude": 29.5300365,
+    "time_zone": "Asia/Karachi"
+  },
+  {
+    "id": 784,
+    "city": "Yanghe",
+    "country": "China",
+    "country_code": "CN",
+    "latitude": 29.26008,
+    "time_zone": "Asia/Chongqing"
+  },
+  {
+    "id": 785,
+    "city": "São Sebastião",
+    "country": "Portugal",
+    "country_code": "PT",
+    "latitude": 38.6681004,
+    "time_zone": "Africa/Accra"
+  },
+  {
+    "id": 786,
+    "city": "Kali",
+    "country": "Indonesia",
+    "country_code": "ID",
+    "latitude": -1.556592,
+    "time_zone": "Asia/Makassar"
+  },
+  {
+    "id": 787,
+    "city": "Angered",
+    "country": "Sweden",
+    "country_code": "SE",
+    "latitude": 57.779138,
+    "time_zone": "Europe/Stockholm"
+  },
+  {
+    "id": 788,
+    "city": "Nikhom Kham Soi",
+    "country": "Thailand",
+    "country_code": "TH",
+    "latitude": 16.3770105,
+    "time_zone": "Asia/Bangkok"
+  },
+  {
+    "id": 789,
+    "city": "Baleagung",
+    "country": "Indonesia",
+    "country_code": "ID",
+    "latitude": -7.3932918,
+    "time_zone": "Asia/Makassar"
+  },
+  {
+    "id": 790,
+    "city": "Luoxi",
+    "country": "China",
+    "country_code": "CN",
+    "latitude": 23.043061,
+    "time_zone": "Asia/Shanghai"
+  },
+  {
+    "id": 791,
+    "city": "Honolulu",
+    "country": "United States",
+    "country_code": "US",
+    "latitude": 21.31,
+    "time_zone": "Pacific/Honolulu"
+  },
+  {
+    "id": 792,
+    "city": "Atlanta",
+    "country": "United States",
+    "country_code": "US",
+    "latitude": 33.9253024,
+    "time_zone": "America/New_York"
+  },
+  {
+    "id": 793,
+    "city": "Juuka",
+    "country": "Finland",
+    "country_code": "FI",
+    "latitude": 63.24072,
+    "time_zone": "Europe/Helsinki"
+  },
+  {
+    "id": 794,
+    "city": "'s-Hertogenbosch",
+    "country": "Netherlands",
+    "country_code": "NL",
+    "latitude": 51.7211356,
+    "time_zone": "Europe/Amsterdam"
+  },
+  {
+    "id": 795,
+    "city": "Molugan",
+    "country": "Philippines",
+    "country_code": "PH",
+    "latitude": 8.5328493,
+    "time_zone": "Asia/Manila"
+  },
+  {
+    "id": 796,
+    "city": "Trhové Sviny",
+    "country": "Czech Republic",
+    "country_code": "CZ",
+    "latitude": 48.8423175,
+    "time_zone": "Europe/Prague"
+  },
+  {
+    "id": 797,
+    "city": "København",
+    "country": "Denmark",
+    "country_code": "DK",
+    "latitude": 55.6764108,
+    "time_zone": "Europe/Copenhagen"
+  },
+  {
+    "id": 798,
+    "city": "Tapel",
+    "country": "Philippines",
+    "country_code": "PH",
+    "latitude": 13.0842191,
+    "time_zone": "Asia/Manila"
+  },
+  {
+    "id": 799,
+    "city": "Valdivia",
+    "country": "Chile",
+    "country_code": "CL",
+    "latitude": -39.8173788,
+    "time_zone": "America/Santiago"
+  },
+  {
+    "id": 800,
+    "city": "Gunung Sugih",
+    "country": "Indonesia",
+    "country_code": "ID",
+    "latitude": -4.9942171,
+    "time_zone": "Asia/Jakarta"
+  },
+  {
+    "id": 801,
+    "city": "Cimalati",
+    "country": "Indonesia",
+    "country_code": "ID",
+    "latitude": -6.7653704,
+    "time_zone": "Asia/Jakarta"
+  },
+  {
+    "id": 802,
+    "city": "Aurora",
+    "country": "Philippines",
+    "country_code": "PH",
+    "latitude": 14.5458392,
+    "time_zone": "Asia/Manila"
+  },
+  {
+    "id": 803,
+    "city": "Tomakomai",
+    "country": "Japan",
+    "country_code": "JP",
+    "latitude": 42.6580023,
+    "time_zone": "Asia/Tokyo"
+  },
+  {
+    "id": 804,
+    "city": "Waturoka",
+    "country": "Indonesia",
+    "country_code": "ID",
+    "latitude": -8.8714,
+    "time_zone": "Asia/Makassar"
+  },
+  {
+    "id": 805,
+    "city": "Tamanar",
+    "country": "Morocco",
+    "country_code": "MA",
+    "latitude": 30.9991154,
+    "time_zone": "Africa/Casablanca"
+  },
+  {
+    "id": 806,
+    "city": "Abū Mūsā",
+    "country": "Iran",
+    "country_code": "IR",
+    "latitude": 25.867345,
+    "time_zone": "Asia/Dubai"
+  },
+  {
+    "id": 807,
+    "city": "Trzcinica",
+    "country": "Poland",
+    "country_code": "PL",
+    "latitude": 51.1672774,
+    "time_zone": "Europe/Warsaw"
+  },
+  {
+    "id": 808,
+    "city": "Uppsala",
+    "country": "Sweden",
+    "country_code": "SE",
+    "latitude": 59.8509005,
+    "time_zone": "Europe/Stockholm"
+  },
+  {
+    "id": 809,
+    "city": "Carangola",
+    "country": "Brazil",
+    "country_code": "BR",
+    "latitude": -20.7314751,
+    "time_zone": "America/Sao_Paulo"
+  },
+  {
+    "id": 810,
+    "city": "Kouango",
+    "country": "Central African Republic",
+    "country_code": "CF",
+    "latitude": 4.9946855,
+    "time_zone": "Africa/Bangui"
+  },
+  {
+    "id": 811,
+    "city": "Pietà",
+    "country": "Malta",
+    "country_code": "MT",
+    "latitude": 35.895047,
+    "time_zone": "Europe/Malta"
+  },
+  {
+    "id": 812,
+    "city": "Oslo",
+    "country": "Norway",
+    "country_code": "NO",
+    "latitude": 59.922175,
+    "time_zone": "Europe/Oslo"
+  },
+  {
+    "id": 813,
+    "city": "Hyltebruk",
+    "country": "Sweden",
+    "country_code": "SE",
+    "latitude": 56.9940675,
+    "time_zone": "Europe/Stockholm"
+  },
+  {
+    "id": 814,
+    "city": "Xiakou",
+    "country": "China",
+    "country_code": "CN",
+    "latitude": 38.263135,
+    "time_zone": "Asia/Chongqing"
+  },
+  {
+    "id": 815,
+    "city": "Dikson",
+    "country": "Russia",
+    "country_code": "RU",
+    "latitude": 59.9638414,
+    "time_zone": "Asia/Krasnoyarsk"
+  },
+  {
+    "id": 816,
+    "city": "Dongxing",
+    "country": "China",
+    "country_code": "CN",
+    "latitude": 21.547821,
+    "time_zone": "Asia/Harbin"
+  },
+  {
+    "id": 817,
+    "city": "Mỹ Tho",
+    "country": "Vietnam",
+    "country_code": "VN",
+    "latitude": 10.3765284,
+    "time_zone": "Asia/Ho_Chi_Minh"
+  },
+  {
+    "id": 818,
+    "city": "Mahaba",
+    "country": "Philippines",
+    "country_code": "PH",
+    "latitude": 12.9447713,
+    "time_zone": "Asia/Manila"
+  },
+  {
+    "id": 819,
+    "city": "Guhuai",
+    "country": "China",
+    "country_code": "CN",
+    "latitude": 25.87886,
+    "time_zone": "Asia/Shanghai"
+  },
+  {
+    "id": 820,
+    "city": "Riyue",
+    "country": "China",
+    "country_code": "CN",
+    "latitude": 22.5493001,
+    "time_zone": "Asia/Chongqing"
+  },
+  {
+    "id": 821,
+    "city": "Biloxi",
+    "country": "United States",
+    "country_code": "US",
+    "latitude": 30.4111518,
+    "time_zone": "America/Chicago"
+  },
+  {
+    "id": 822,
+    "city": "Świlcza",
+    "country": "Poland",
+    "country_code": "PL",
+    "latitude": 50.0579046,
+    "time_zone": "Europe/Warsaw"
+  },
+  {
+    "id": 823,
+    "city": "Hutou",
+    "country": "China",
+    "country_code": "CN",
+    "latitude": 28.753497,
+    "time_zone": "Asia/Shanghai"
+  },
+  {
+    "id": 824,
+    "city": "Chepareria",
+    "country": "Kenya",
+    "country_code": "KE",
+    "latitude": 1.3081095,
+    "time_zone": "Africa/Nairobi"
+  },
+  {
+    "id": 825,
+    "city": "Minakuchi",
+    "country": "Japan",
+    "country_code": "JP",
+    "latitude": 37.0897128,
+    "time_zone": "Asia/Tokyo"
+  },
+  {
+    "id": 826,
+    "city": "Subulussalam",
+    "country": "Indonesia",
+    "country_code": "ID",
+    "latitude": 2.7121164,
+    "time_zone": "Asia/Jakarta"
+  },
+  {
+    "id": 827,
+    "city": "Ortigueira",
+    "country": "Brazil",
+    "country_code": "BR",
+    "latitude": -24.2099688,
+    "time_zone": "America/Sao_Paulo"
+  },
+  {
+    "id": 828,
+    "city": "Krueng Luak",
+    "country": "Indonesia",
+    "country_code": "ID",
+    "latitude": 2.8583,
+    "time_zone": "Asia/Jakarta"
+  },
+  {
+    "id": 829,
+    "city": "Kushtia",
+    "country": "Bangladesh",
+    "country_code": "BD",
+    "latitude": 23.8906995,
+    "time_zone": "Asia/Dhaka"
+  },
+  {
+    "id": 830,
+    "city": "Jutrosin",
+    "country": "Poland",
+    "country_code": "PL",
+    "latitude": 51.6522585,
+    "time_zone": "Europe/Warsaw"
+  },
+  {
+    "id": 831,
+    "city": "Saint-Paul",
+    "country": "Reunion",
+    "country_code": "RE",
+    "latitude": -21.0504707,
+    "time_zone": "Indian/Reunion"
+  },
+  {
+    "id": 832,
+    "city": "Trompsburg",
+    "country": "South Africa",
+    "country_code": "ZA",
+    "latitude": -30.0263293,
+    "time_zone": "Africa/Johannesburg"
+  },
+  {
+    "id": 833,
+    "city": "Tanza",
+    "country": "Philippines",
+    "country_code": "PH",
+    "latitude": 14.3836409,
+    "time_zone": "Asia/Manila"
+  },
+  {
+    "id": 834,
+    "city": "Nova Granada",
+    "country": "Brazil",
+    "country_code": "BR",
+    "latitude": -20.5897439,
+    "time_zone": "America/Sao_Paulo"
+  },
+  {
+    "id": 835,
+    "city": "Sanyantang",
+    "country": "China",
+    "country_code": "CN",
+    "latitude": 28.7612,
+    "time_zone": "Asia/Chongqing"
+  },
+  {
+    "id": 836,
+    "city": "Buzdyak",
+    "country": "Russia",
+    "country_code": "RU",
+    "latitude": 54.5815949,
+    "time_zone": "Asia/Yekaterinburg"
+  },
+  {
+    "id": 837,
+    "city": "São Pedro",
+    "country": "Portugal",
+    "country_code": "PT",
+    "latitude": 41.5331853,
+    "time_zone": "Europe/Lisbon"
+  },
+  {
+    "id": 838,
+    "city": "Los Nogales",
+    "country": "Mexico",
+    "country_code": "MX",
+    "latitude": 25.8038312,
+    "time_zone": "America/Monterrey"
+  },
+  {
+    "id": 839,
+    "city": "Yelizavetinskoye",
+    "country": "Russia",
+    "country_code": "RU",
+    "latitude": 45.00722,
+    "time_zone": "Europe/Moscow"
+  },
+  {
+    "id": 840,
+    "city": "Belovo",
+    "country": "Russia",
+    "country_code": "RU",
+    "latitude": 44.634519,
+    "time_zone": "Asia/Novokuznetsk"
+  },
+  {
+    "id": 841,
+    "city": "Huangcun",
+    "country": "China",
+    "country_code": "CN",
+    "latitude": 23.131797,
+    "time_zone": "Asia/Shanghai"
+  },
+  {
+    "id": 842,
+    "city": "Banamba",
+    "country": "Mali",
+    "country_code": "ML",
+    "latitude": 13.5543249,
+    "time_zone": "Africa/Bamako"
+  },
+  {
+    "id": 843,
+    "city": "Ichinomiya",
+    "country": "Japan",
+    "country_code": "JP",
+    "latitude": 37.0398003,
+    "time_zone": "Asia/Tokyo"
+  },
+  {
+    "id": 844,
+    "city": "Sritanjung",
+    "country": "Indonesia",
+    "country_code": "ID",
+    "latitude": -0.421633,
+    "time_zone": "Asia/Makassar"
+  },
+  {
+    "id": 845,
+    "city": "Rivesaltes",
+    "country": "France",
+    "country_code": "FR",
+    "latitude": 42.8271637,
+    "time_zone": "Europe/Paris"
+  },
+  {
+    "id": 846,
+    "city": "Erdaojiang",
+    "country": "China",
+    "country_code": "CN",
+    "latitude": 41.774053,
+    "time_zone": "Asia/Harbin"
+  },
+  {
+    "id": 847,
+    "city": "Waturoka",
+    "country": "Indonesia",
+    "country_code": "ID",
+    "latitude": -8.8714,
+    "time_zone": "Asia/Makassar"
+  },
+  {
+    "id": 848,
+    "city": "Artemivs’k",
+    "country": "Ukraine",
+    "country_code": "UA",
+    "latitude": 48.5986674,
+    "time_zone": "Europe/Zaporozhye"
+  },
+  {
+    "id": 849,
+    "city": "Ketawang",
+    "country": "Indonesia",
+    "country_code": "ID",
+    "latitude": -7.4104934,
+    "time_zone": "Asia/Jakarta"
+  },
+  {
+    "id": 850,
+    "city": "Wangunjaya",
+    "country": "Indonesia",
+    "country_code": "ID",
+    "latitude": -7.0407255,
+    "time_zone": "Asia/Jakarta"
+  },
+  {
+    "id": 851,
+    "city": "Zaplavnoye",
+    "country": "Russia",
+    "country_code": "RU",
+    "latitude": 48.7044521,
+    "time_zone": "Europe/Volgograd"
+  },
+  {
+    "id": 852,
+    "city": "Gereykhanovskoye",
+    "country": "Russia",
+    "country_code": "RU",
+    "latitude": 41.701706,
+    "time_zone": "Europe/Moscow"
+  },
+  {
+    "id": 853,
+    "city": "Zhenxing",
+    "country": "China",
+    "country_code": "CN",
+    "latitude": 40.105193,
+    "time_zone": "Asia/Harbin"
+  },
+  {
+    "id": 854,
+    "city": "Ängelholm",
+    "country": "Sweden",
+    "country_code": "SE",
+    "latitude": 56.246131,
+    "time_zone": "Europe/Stockholm"
+  },
+  {
+    "id": 855,
+    "city": "Sunjia",
+    "country": "China",
+    "country_code": "CN",
+    "latitude": 34.2589679,
+    "time_zone": "Asia/Chongqing"
+  },
+  {
+    "id": 856,
+    "city": "Sundsvall",
+    "country": "Sweden",
+    "country_code": "SE",
+    "latitude": 62.3838715,
+    "time_zone": "Europe/Stockholm"
+  },
+  {
+    "id": 857,
+    "city": "Brändö",
+    "country": "Aland Islands",
+    "country_code": "AX",
+    "latitude": 60.4125717,
+    "time_zone": "Europe/Helsinki"
+  },
+  {
+    "id": 858,
+    "city": "Mbigou",
+    "country": "Gabon",
+    "country_code": "GA",
+    "latitude": -1.9023377,
+    "time_zone": "Africa/Libreville"
+  },
+  {
+    "id": 859,
+    "city": "Quán Hàu",
+    "country": "Vietnam",
+    "country_code": "VN",
+    "latitude": 17.4044214,
+    "time_zone": "Asia/Ho_Chi_Minh"
+  },
+  {
+    "id": 860,
+    "city": "Sveg",
+    "country": "Sweden",
+    "country_code": "SE",
+    "latitude": 61.9581691,
+    "time_zone": "Europe/Stockholm"
+  },
+  {
+    "id": 861,
+    "city": "Licun",
+    "country": "China",
+    "country_code": "CN",
+    "latitude": 38.197478,
+    "time_zone": "Asia/Shanghai"
+  },
+  {
+    "id": 862,
+    "city": "Jesús María",
+    "country": "Argentina",
+    "country_code": "AR",
+    "latitude": -31.4149049,
+    "time_zone": "America/Argentina/Cordoba"
+  },
+  {
+    "id": 863,
+    "city": "Linhu",
+    "country": "China",
+    "country_code": "CN",
+    "latitude": 28.845441,
+    "time_zone": "Asia/Shanghai"
+  },
+  {
+    "id": 864,
+    "city": "Palykavichy Pyershyya",
+    "country": "Belarus",
+    "country_code": "BY",
+    "latitude": 53.9854,
+    "time_zone": "Europe/Minsk"
+  },
+  {
+    "id": 865,
+    "city": "Rodez",
+    "country": "France",
+    "country_code": "FR",
+    "latitude": 44.5453926,
+    "time_zone": "Europe/Paris"
+  },
+  {
+    "id": 866,
+    "city": "Shichuan",
+    "country": "China",
+    "country_code": "CN",
+    "latitude": 30.2638032,
+    "time_zone": "Asia/Chongqing"
+  },
+  {
+    "id": 867,
+    "city": "Angkup",
+    "country": "Indonesia",
+    "country_code": "ID",
+    "latitude": 4.6259611,
+    "time_zone": "Asia/Jakarta"
+  },
+  {
+    "id": 868,
+    "city": "San Agustín",
+    "country": "Honduras",
+    "country_code": "HN",
+    "latitude": 14.8182209,
+    "time_zone": "America/Tegucigalpa"
+  },
+  {
+    "id": 869,
+    "city": "Xinshiba",
+    "country": "China",
+    "country_code": "CN",
+    "latitude": 31.800198,
+    "time_zone": "Asia/Chongqing"
+  },
+  {
+    "id": 870,
+    "city": "Pakuwon",
+    "country": "Indonesia",
+    "country_code": "ID",
+    "latitude": -7.2157251,
+    "time_zone": "Asia/Jakarta"
+  },
+  {
+    "id": 871,
+    "city": "Nangang",
+    "country": "China",
+    "country_code": "CN",
+    "latitude": 45.75997,
+    "time_zone": "Asia/Shanghai"
+  },
+  {
+    "id": 872,
+    "city": "Padre Burgos",
+    "country": "Philippines",
+    "country_code": "PH",
+    "latitude": 10.049147,
+    "time_zone": "Asia/Manila"
+  },
+  {
+    "id": 873,
+    "city": "Barusuda",
+    "country": "Indonesia",
+    "country_code": "ID",
+    "latitude": -7.3506492,
+    "time_zone": "Asia/Jakarta"
+  },
+  {
+    "id": 874,
+    "city": "Gulrip’shi",
+    "country": "Georgia",
+    "country_code": "GE",
+    "latitude": 42.9314238,
+    "time_zone": "Asia/Tbilisi"
+  },
+  {
+    "id": 875,
+    "city": "Orlovo",
+    "country": "Russia",
+    "country_code": "RU",
+    "latitude": 51.789985,
+    "time_zone": "Europe/Moscow"
+  },
+  {
+    "id": 876,
+    "city": "Staryy Togul",
+    "country": "Russia",
+    "country_code": "RU",
+    "latitude": 53.4291,
+    "time_zone": "Asia/Novokuznetsk"
+  },
+  {
+    "id": 877,
+    "city": "Hohoe",
+    "country": "Ghana",
+    "country_code": "GH",
+    "latitude": 7.1518505,
+    "time_zone": "Africa/Accra"
+  },
+  {
+    "id": 878,
+    "city": "Severobaykal’sk",
+    "country": "Russia",
+    "country_code": "RU",
+    "latitude": 55.4947802,
+    "time_zone": "Asia/Irkutsk"
+  },
+  {
+    "id": 879,
+    "city": "Lages",
+    "country": "Portugal",
+    "country_code": "PT",
+    "latitude": 41.0907665,
+    "time_zone": "Europe/Lisbon"
+  },
+  {
+    "id": 880,
+    "city": "Wu’erbu Baolige",
+    "country": "China",
+    "country_code": "CN",
+    "latitude": 48.071593,
+    "time_zone": "Asia/Harbin"
+  },
+  {
+    "id": 881,
+    "city": "Duozhu",
+    "country": "China",
+    "country_code": "CN",
+    "latitude": 23.027797,
+    "time_zone": "Asia/Chongqing"
+  },
+  {
+    "id": 882,
+    "city": "Tam Bình",
+    "country": "Vietnam",
+    "country_code": "VN",
+    "latitude": 10.0679356,
+    "time_zone": "Asia/Ho_Chi_Minh"
+  },
+  {
+    "id": 883,
+    "city": "Na Tan",
+    "country": "Thailand",
+    "country_code": "TH",
+    "latitude": 16.9938163,
+    "time_zone": "Asia/Bangkok"
+  },
+  {
+    "id": 884,
+    "city": "Lymanske",
+    "country": "Ukraine",
+    "country_code": "UA",
+    "latitude": 46.6794431,
+    "time_zone": "Europe/Simferopol"
+  },
+  {
+    "id": 885,
+    "city": "Beau Vallon",
+    "country": "Seychelles",
+    "country_code": "SC",
+    "latitude": -4.6210967,
+    "time_zone": "Indian/Mahe"
+  },
+  {
+    "id": 886,
+    "city": "Pinggirsari",
+    "country": "Indonesia",
+    "country_code": "ID",
+    "latitude": -7.0837462,
+    "time_zone": "Asia/Jakarta"
+  },
+  {
+    "id": 887,
+    "city": "Boshi",
+    "country": "China",
+    "country_code": "CN",
+    "latitude": 30.6514558,
+    "time_zone": "Asia/Chongqing"
+  },
+  {
+    "id": 888,
+    "city": "Binglincha",
+    "country": "China",
+    "country_code": "CN",
+    "latitude": 36.055016,
+    "time_zone": "Asia/Chongqing"
+  },
+  {
+    "id": 889,
+    "city": "Burgos",
+    "country": "Philippines",
+    "country_code": "PH",
+    "latitude": 13.9734064,
+    "time_zone": "Asia/Manila"
+  },
+  {
+    "id": 890,
+    "city": "Fershampenuaz",
+    "country": "Russia",
+    "country_code": "RU",
+    "latitude": 53.5199891,
+    "time_zone": "Asia/Yekaterinburg"
+  },
+  {
+    "id": 891,
+    "city": "Górki Wielkie",
+    "country": "Poland",
+    "country_code": "PL",
+    "latitude": 49.7709142,
+    "time_zone": "Europe/Warsaw"
+  },
+  {
+    "id": 892,
+    "city": "Strumica",
+    "country": "Macedonia",
+    "country_code": "MK",
+    "latitude": 41.441441,
+    "time_zone": "Europe/Skopje"
+  },
+  {
+    "id": 893,
+    "city": "Mina de São Domingos",
+    "country": "Portugal",
+    "country_code": "PT",
+    "latitude": 37.6729124,
+    "time_zone": "Europe/Lisbon"
+  },
+  {
+    "id": 894,
+    "city": "Tanabi",
+    "country": "Brazil",
+    "country_code": "BR",
+    "latitude": -20.6286479,
+    "time_zone": "America/Sao_Paulo"
+  },
+  {
+    "id": 895,
+    "city": "Wanzu",
+    "country": "China",
+    "country_code": "CN",
+    "latitude": 29.18076,
+    "time_zone": "Asia/Chongqing"
+  },
+  {
+    "id": 896,
+    "city": "Czarków",
+    "country": "Poland",
+    "country_code": "PL",
+    "latitude": 50.0273774,
+    "time_zone": "Europe/Warsaw"
+  },
+  {
+    "id": 897,
+    "city": "Grigiškės",
+    "country": "Lithuania",
+    "country_code": "LT",
+    "latitude": 54.6680772,
+    "time_zone": "Europe/Vilnius"
+  },
+  {
+    "id": 898,
+    "city": "Nyíregyháza",
+    "country": "Hungary",
+    "country_code": "HU",
+    "latitude": 47.9527415,
+    "time_zone": "Europe/Budapest"
+  },
+  {
+    "id": 899,
+    "city": "Wachira Barami",
+    "country": "Thailand",
+    "country_code": "TH",
+    "latitude": 16.5239803,
+    "time_zone": "Asia/Bangkok"
+  },
+  {
+    "id": 900,
+    "city": "Wasogolo",
+    "country": "Indonesia",
+    "country_code": "ID",
+    "latitude": -8.6268,
+    "time_zone": "Asia/Makassar"
+  },
+  {
+    "id": 901,
+    "city": "Tiout",
+    "country": "Morocco",
+    "country_code": "MA",
+    "latitude": 29.9338311,
+    "time_zone": "Africa/Casablanca"
+  },
+  {
+    "id": 902,
+    "city": "Amiens",
+    "country": "France",
+    "country_code": "FR",
+    "latitude": 49.8905368,
+    "time_zone": "Europe/Paris"
+  },
+  {
+    "id": 903,
+    "city": "Gawul",
+    "country": "Indonesia",
+    "country_code": "ID",
+    "latitude": -6.3474028,
+    "time_zone": "Asia/Jakarta"
+  },
+  {
+    "id": 904,
+    "city": "Jangkat",
+    "country": "Indonesia",
+    "country_code": "ID",
+    "latitude": -2.5252502,
+    "time_zone": "Asia/Jakarta"
+  },
+  {
+    "id": 905,
+    "city": "Antioquia",
+    "country": "Colombia",
+    "country_code": "CO",
+    "latitude": 6.6169319,
+    "time_zone": "America/Bogota"
+  },
+  {
+    "id": 906,
+    "city": "Núi Sập",
+    "country": "Vietnam",
+    "country_code": "VN",
+    "latitude": 10.2581682,
+    "time_zone": "Asia/Ho_Chi_Minh"
+  },
+  {
+    "id": 907,
+    "city": "Miaoshi",
+    "country": "China",
+    "country_code": "CN",
+    "latitude": 29.540245,
+    "time_zone": "Asia/Chongqing"
+  },
+  {
+    "id": 908,
+    "city": "Saverne",
+    "country": "France",
+    "country_code": "FR",
+    "latitude": 48.73934,
+    "time_zone": "Europe/Paris"
+  },
+  {
+    "id": 909,
+    "city": "Ladushkin",
+    "country": "Russia",
+    "country_code": "RU",
+    "latitude": 54.5728766,
+    "time_zone": "Europe/Kaliningrad"
+  },
+  {
+    "id": 910,
+    "city": "Kinloch",
+    "country": "United Kingdom",
+    "country_code": "GB",
+    "latitude": 57.013064,
+    "time_zone": "Europe/London"
+  },
+  {
+    "id": 911,
+    "city": "Ban Bang Kadi Pathum Thani",
+    "country": "Thailand",
+    "country_code": "TH",
+    "latitude": 13.9619203,
+    "time_zone": "Asia/Bangkok"
+  },
+  {
+    "id": 912,
+    "city": "Beigang",
+    "country": "China",
+    "country_code": "CN",
+    "latitude": 23.5958633,
+    "time_zone": "Asia/Harbin"
+  },
+  {
+    "id": 913,
+    "city": "Rodotópi",
+    "country": "Greece",
+    "country_code": "GR",
+    "latitude": 39.7083252,
+    "time_zone": "Europe/Athens"
+  },
+  {
+    "id": 914,
+    "city": "Shani",
+    "country": "Nigeria",
+    "country_code": "NG",
+    "latitude": 10.2227095,
+    "time_zone": "Africa/Lagos"
+  },
+  {
+    "id": 915,
+    "city": "Seseng",
+    "country": "Indonesia",
+    "country_code": "ID",
+    "latitude": -2.9755226,
+    "time_zone": "Asia/Makassar"
+  },
+  {
+    "id": 916,
+    "city": "South Tangerang",
+    "country": "Indonesia",
+    "country_code": "ID",
+    "latitude": -6.2835218,
+    "time_zone": "Asia/Jakarta"
+  },
+  {
+    "id": 917,
+    "city": "København",
+    "country": "Denmark",
+    "country_code": "DK",
+    "latitude": 55.6735436,
+    "time_zone": "Europe/Copenhagen"
+  },
+  {
+    "id": 918,
+    "city": "Kilifi",
+    "country": "Kenya",
+    "country_code": "KE",
+    "latitude": -3.5106508,
+    "time_zone": "Africa/Nairobi"
+  },
+  {
+    "id": 919,
+    "city": "Huanipaca",
+    "country": "Peru",
+    "country_code": "PE",
+    "latitude": -13.470532,
+    "time_zone": "America/Lima"
+  },
+  {
+    "id": 920,
+    "city": "Viligili",
+    "country": "Maldives",
+    "country_code": "MV",
+    "latitude": 0.7573413,
+    "time_zone": "Indian/Maldives"
+  },
+  {
+    "id": 921,
+    "city": "Arranhó",
+    "country": "Portugal",
+    "country_code": "PT",
+    "latitude": 38.9550335,
+    "time_zone": "Europe/Lisbon"
+  },
+  {
+    "id": 922,
+    "city": "El Rincón",
+    "country": "Panama",
+    "country_code": "PA",
+    "latitude": 8.1176382,
+    "time_zone": "America/Panama"
+  },
+  {
+    "id": 923,
+    "city": "Binitinan",
+    "country": "Philippines",
+    "country_code": "PH",
+    "latitude": 8.7504833,
+    "time_zone": "Asia/Manila"
+  },
+  {
+    "id": 924,
+    "city": "Tögrög",
+    "country": "Mongolia",
+    "country_code": "MN",
+    "latitude": 45.7716857,
+    "time_zone": "Asia/Urumqi"
+  },
+  {
+    "id": 925,
+    "city": "Inabaan Sur",
+    "country": "Philippines",
+    "country_code": "PH",
+    "latitude": 16.2524136,
+    "time_zone": "Asia/Manila"
+  },
+  {
+    "id": 926,
+    "city": "Yeniugou",
+    "country": "China",
+    "country_code": "CN",
+    "latitude": 38.456354,
+    "time_zone": "Asia/Chongqing"
+  },
+  {
+    "id": 927,
+    "city": "Balugo",
+    "country": "Philippines",
+    "country_code": "PH",
+    "latitude": 9.364014,
+    "time_zone": "Asia/Manila"
+  },
+  {
+    "id": 928,
+    "city": "Akouda",
+    "country": "Tunisia",
+    "country_code": "TN",
+    "latitude": 35.8746739,
+    "time_zone": "Africa/Tunis"
+  },
+  {
+    "id": 929,
+    "city": "Longfengshan",
+    "country": "China",
+    "country_code": "CN",
+    "latitude": 44.772989,
+    "time_zone": "Asia/Harbin"
+  },
+  {
+    "id": 930,
+    "city": "Bang Len",
+    "country": "Thailand",
+    "country_code": "TH",
+    "latitude": 14.0228518,
+    "time_zone": "Asia/Bangkok"
+  },
+  {
+    "id": 931,
+    "city": "Sedayulawas",
+    "country": "Indonesia",
+    "country_code": "ID",
+    "latitude": -6.8845063,
+    "time_zone": "Asia/Jakarta"
+  },
+  {
+    "id": 932,
+    "city": "Asahi",
+    "country": "Japan",
+    "country_code": "JP",
+    "latitude": 38.1162631,
+    "time_zone": "Asia/Tokyo"
+  },
+  {
+    "id": 933,
+    "city": "Krajan Satu",
+    "country": "Indonesia",
+    "country_code": "ID",
+    "latitude": -7.3743397,
+    "time_zone": "Asia/Makassar"
+  },
+  {
+    "id": 934,
+    "city": "Nora",
+    "country": "Sweden",
+    "country_code": "SE",
+    "latitude": 59.5043187,
+    "time_zone": "Europe/Stockholm"
+  },
+  {
+    "id": 935,
+    "city": "Junín",
+    "country": "Argentina",
+    "country_code": "AR",
+    "latitude": -32.9269882,
+    "time_zone": "America/Argentina/Buenos_Aires"
+  },
+  {
+    "id": 936,
+    "city": "Marathókampos",
+    "country": "Greece",
+    "country_code": "GR",
+    "latitude": 37.7272804,
+    "time_zone": "Europe/Istanbul"
+  },
+  {
+    "id": 937,
+    "city": "Thaba Nchu",
+    "country": "South Africa",
+    "country_code": "ZA",
+    "latitude": -26.17433,
+    "time_zone": "Africa/Johannesburg"
+  },
+  {
+    "id": 938,
+    "city": "San Jerónimo",
+    "country": "Peru",
+    "country_code": "PE",
+    "latitude": -13.54918,
+    "time_zone": "America/Lima"
+  },
+  {
+    "id": 939,
+    "city": "Trollhättan",
+    "country": "Sweden",
+    "country_code": "SE",
+    "latitude": 58.322001,
+    "time_zone": "Europe/Stockholm"
+  },
+  {
+    "id": 940,
+    "city": "Bairro",
+    "country": "Portugal",
+    "country_code": "PT",
+    "latitude": 39.0927696,
+    "time_zone": "Europe/Lisbon"
+  },
+  {
+    "id": 941,
+    "city": "Dodoma",
+    "country": "Tanzania",
+    "country_code": "TZ",
+    "latitude": -6.162959,
+    "time_zone": "Africa/Dar_es_Salaam"
+  },
+  {
+    "id": 942,
+    "city": "Yipeng",
+    "country": "China",
+    "country_code": "CN",
+    "latitude": 26.634672,
+    "time_zone": "Asia/Shanghai"
+  },
+  {
+    "id": 943,
+    "city": "Gunjur",
+    "country": "Gambia",
+    "country_code": "GM",
+    "latitude": 13.1806725,
+    "time_zone": "Africa/Dakar"
+  },
+  {
+    "id": 944,
+    "city": "Cabinda",
+    "country": "Angola",
+    "country_code": "AO",
+    "latitude": -5.5775197,
+    "time_zone": "Africa/Luanda"
+  },
+  {
+    "id": 945,
+    "city": "Calçada",
+    "country": "Portugal",
+    "country_code": "PT",
+    "latitude": 42.0328151,
+    "time_zone": "Europe/Lisbon"
+  },
+  {
+    "id": 946,
+    "city": "Chengzhong",
+    "country": "China",
+    "country_code": "CN",
+    "latitude": 24.315499,
+    "time_zone": "Asia/Shanghai"
+  },
+  {
+    "id": 947,
+    "city": "Tarkastad",
+    "country": "South Africa",
+    "country_code": "ZA",
+    "latitude": -32.0078739,
+    "time_zone": "Africa/Johannesburg"
+  },
+  {
+    "id": 948,
+    "city": "Changhan",
+    "country": "Thailand",
+    "country_code": "TH",
+    "latitude": 16.1393157,
+    "time_zone": "Asia/Bangkok"
+  },
+  {
+    "id": 949,
+    "city": "Bairros",
+    "country": "Portugal",
+    "country_code": "PT",
+    "latitude": 41.3427327,
+    "time_zone": "Europe/Lisbon"
+  },
+  {
+    "id": 950,
+    "city": "Toong",
+    "country": "Philippines",
+    "country_code": "PH",
+    "latitude": 14.0707852,
+    "time_zone": "Asia/Manila"
+  },
+  {
+    "id": 951,
+    "city": "Babakanbandung",
+    "country": "Indonesia",
+    "country_code": "ID",
+    "latitude": -6.205673,
+    "time_zone": "Asia/Jakarta"
+  },
+  {
+    "id": 952,
+    "city": "Garhi Khairo",
+    "country": "Pakistan",
+    "country_code": "PK",
+    "latitude": 28.2068263,
+    "time_zone": "Asia/Karachi"
+  },
+  {
+    "id": 953,
+    "city": "San Salvador de Jujuy",
+    "country": "Argentina",
+    "country_code": "AR",
+    "latitude": -24.1959097,
+    "time_zone": "America/Argentina/Jujuy"
+  },
+  {
+    "id": 954,
+    "city": "Chaoyang",
+    "country": "China",
+    "country_code": "CN",
+    "latitude": 41.57365,
+    "time_zone": "Asia/Harbin"
+  },
+  {
+    "id": 955,
+    "city": "Minh Long",
+    "country": "Vietnam",
+    "country_code": "VN",
+    "latitude": 14.9659262,
+    "time_zone": "Asia/Ho_Chi_Minh"
+  },
+  {
+    "id": 956,
+    "city": "Mirocin",
+    "country": "Poland",
+    "country_code": "PL",
+    "latitude": 50.043163,
+    "time_zone": "Europe/Warsaw"
+  },
+  {
+    "id": 957,
+    "city": "Kawagoe",
+    "country": "Japan",
+    "country_code": "JP",
+    "latitude": 34.9442746,
+    "time_zone": "Asia/Tokyo"
+  },
+  {
+    "id": 958,
+    "city": "Piancheng",
+    "country": "China",
+    "country_code": "CN",
+    "latitude": 33.347316,
+    "time_zone": "Asia/Chongqing"
+  },
+  {
+    "id": 959,
+    "city": "Temblador",
+    "country": "Venezuela",
+    "country_code": "VE",
+    "latitude": 9.0056327,
+    "time_zone": "America/Caracas"
+  },
+  {
+    "id": 960,
+    "city": "Shaft",
+    "country": "Iran",
+    "country_code": "IR",
+    "latitude": 37.1702603,
+    "time_zone": "Asia/Tehran"
+  },
+  {
+    "id": 961,
+    "city": "Kalyny",
+    "country": "Ukraine",
+    "country_code": "UA",
+    "latitude": 48.1417959,
+    "time_zone": "Europe/Bucharest"
+  },
+  {
+    "id": 962,
+    "city": "Sampit",
+    "country": "Indonesia",
+    "country_code": "ID",
+    "latitude": -2.5394654,
+    "time_zone": "Asia/Pontianak"
+  },
+  {
+    "id": 963,
+    "city": "Houxixi",
+    "country": "China",
+    "country_code": "CN",
+    "latitude": 23.753512,
+    "time_zone": "Asia/Shanghai"
+  },
+  {
+    "id": 964,
+    "city": "Muriaé",
+    "country": "Brazil",
+    "country_code": "BR",
+    "latitude": -21.1291403,
+    "time_zone": "America/Sao_Paulo"
+  },
+  {
+    "id": 965,
+    "city": "Gaoqiaolou",
+    "country": "China",
+    "country_code": "CN",
+    "latitude": 27.018126,
+    "time_zone": "Asia/Shanghai"
+  },
+  {
+    "id": 966,
+    "city": "Knurów",
+    "country": "Poland",
+    "country_code": "PL",
+    "latitude": 50.2368774,
+    "time_zone": "Europe/Warsaw"
+  },
+  {
+    "id": 967,
+    "city": "Tha Bo",
+    "country": "Thailand",
+    "country_code": "TH",
+    "latitude": 17.8064459,
+    "time_zone": "Asia/Bangkok"
+  },
+  {
+    "id": 968,
+    "city": "Mississauga",
+    "country": "Canada",
+    "country_code": "CA",
+    "latitude": 43.6368159,
+    "time_zone": "America/Toronto"
+  },
+  {
+    "id": 969,
+    "city": "Pedro Sánchez",
+    "country": "Dominican Republic",
+    "country_code": "DO",
+    "latitude": 18.5056182,
+    "time_zone": "America/Santo_Domingo"
+  },
+  {
+    "id": 970,
+    "city": "Teculután",
+    "country": "Guatemala",
+    "country_code": "GT",
+    "latitude": 14.990034,
+    "time_zone": "America/Guatemala"
+  },
+  {
+    "id": 971,
+    "city": "Zhuangbu",
+    "country": "China",
+    "country_code": "CN",
+    "latitude": 25.69498,
+    "time_zone": "Asia/Chongqing"
+  },
+  {
+    "id": 972,
+    "city": "El Matama",
+    "country": "Sudan",
+    "country_code": "SD",
+    "latitude": 16.7095,
+    "time_zone": "Africa/Khartoum"
+  },
+  {
+    "id": 973,
+    "city": "Barayong",
+    "country": "Philippines",
+    "country_code": "PH",
+    "latitude": 13.6361135,
+    "time_zone": "Asia/Manila"
+  },
+  {
+    "id": 974,
+    "city": "Duodaoshi",
+    "country": "China",
+    "country_code": "CN",
+    "latitude": 30.958308,
+    "time_zone": "Asia/Chongqing"
+  },
+  {
+    "id": 975,
+    "city": "Carmen",
+    "country": "Philippines",
+    "country_code": "PH",
+    "latitude": 7.20312,
+    "time_zone": "Asia/Manila"
+  },
+  {
+    "id": 976,
+    "city": "Lisewo",
+    "country": "Poland",
+    "country_code": "PL",
+    "latitude": 53.2954476,
+    "time_zone": "Europe/Warsaw"
+  },
+  {
+    "id": 977,
+    "city": "Balboa",
+    "country": "Colombia",
+    "country_code": "CO",
+    "latitude": 4.9497479,
+    "time_zone": "America/Bogota"
+  },
+  {
+    "id": 978,
+    "city": "Wang Noi",
+    "country": "Thailand",
+    "country_code": "TH",
+    "latitude": 14.2524816,
+    "time_zone": "Asia/Bangkok"
+  },
+  {
+    "id": 979,
+    "city": "Bay Roberts",
+    "country": "Canada",
+    "country_code": "CA",
+    "latitude": 47.59989,
+    "time_zone": "America/St_Johns"
+  },
+  {
+    "id": 980,
+    "city": "Ballinteer",
+    "country": "Ireland",
+    "country_code": "IE",
+    "latitude": 53.2767301,
+    "time_zone": "Europe/Dublin"
+  },
+  {
+    "id": 981,
+    "city": "Caijiagang",
+    "country": "China",
+    "country_code": "CN",
+    "latitude": 31.875572,
+    "time_zone": "Asia/Chongqing"
+  },
+  {
+    "id": 982,
+    "city": "Mambi",
+    "country": "Indonesia",
+    "country_code": "ID",
+    "latitude": -3.0412633,
+    "time_zone": "Asia/Makassar"
+  },
+  {
+    "id": 983,
+    "city": "München",
+    "country": "Germany",
+    "country_code": "DE",
+    "latitude": 48.2115037,
+    "time_zone": "Europe/Berlin"
+  },
+  {
+    "id": 984,
+    "city": "Armstrong",
+    "country": "Canada",
+    "country_code": "CA",
+    "latitude": 50.44979,
+    "time_zone": "America/Vancouver"
+  },
+  {
+    "id": 985,
+    "city": "Dobryanka",
+    "country": "Ukraine",
+    "country_code": "UA",
+    "latitude": 52.0601406,
+    "time_zone": "Europe/Minsk"
+  },
+  {
+    "id": 986,
+    "city": "Fray Luis A. Beltrán",
+    "country": "Argentina",
+    "country_code": "AR",
+    "latitude": -34.6787774,
+    "time_zone": "America/Argentina/Cordoba"
+  },
+  {
+    "id": 987,
+    "city": "Polos",
+    "country": "Indonesia",
+    "country_code": "ID",
+    "latitude": -6.1078857,
+    "time_zone": "Asia/Jakarta"
+  },
+  {
+    "id": 988,
+    "city": "Raglan",
+    "country": "New Zealand",
+    "country_code": "NZ",
+    "latitude": -37.8268291,
+    "time_zone": "Pacific/Auckland"
+  },
+  {
+    "id": 989,
+    "city": "Vónitsa",
+    "country": "Greece",
+    "country_code": "GR",
+    "latitude": 38.9190379,
+    "time_zone": "Europe/Athens"
+  },
+  {
+    "id": 990,
+    "city": "Sapang Buho",
+    "country": "Philippines",
+    "country_code": "PH",
+    "latitude": 14.5694485,
+    "time_zone": "Asia/Manila"
+  },
+  {
+    "id": 991,
+    "city": "Garies",
+    "country": "South Africa",
+    "country_code": "ZA",
+    "latitude": -30.5652911,
+    "time_zone": "Africa/Johannesburg"
+  },
+  {
+    "id": 992,
+    "city": "Oksa",
+    "country": "Poland",
+    "country_code": "PL",
+    "latitude": 50.7392866,
+    "time_zone": "Europe/Warsaw"
+  },
+  {
+    "id": 993,
+    "city": "Cikarang",
+    "country": "Indonesia",
+    "country_code": "ID",
+    "latitude": -6.3079232,
+    "time_zone": "Asia/Jakarta"
+  },
+  {
+    "id": 994,
+    "city": "Altos",
+    "country": "Paraguay",
+    "country_code": "PY",
+    "latitude": -25.2631384,
+    "time_zone": "America/Asuncion"
+  },
+  {
+    "id": 995,
+    "city": "Partizansk",
+    "country": "Russia",
+    "country_code": "RU",
+    "latitude": 43.3433802,
+    "time_zone": "Asia/Vladivostok"
+  },
+  {
+    "id": 996,
+    "city": "Brandfort",
+    "country": "South Africa",
+    "country_code": "ZA",
+    "latitude": -28.6903818,
+    "time_zone": "Africa/Johannesburg"
+  },
+  {
+    "id": 997,
+    "city": "Bendilmuning",
+    "country": "Indonesia",
+    "country_code": "ID",
+    "latitude": -8.0925,
+    "time_zone": "Asia/Jakarta"
+  },
+  {
+    "id": 998,
+    "city": "Tangxing",
+    "country": "China",
+    "country_code": "CN",
+    "latitude": 30.630173,
+    "time_zone": "Asia/Chongqing"
+  },
+  {
+    "id": 999,
+    "city": "San Isidro",
+    "country": "Philippines",
+    "country_code": "PH",
+    "latitude": 9.939624,
+    "time_zone": "Asia/Manila"
+  },
+  {
+    "id": 1000,
+    "city": "Gaotai",
+    "country": "China",
+    "country_code": "CN",
+    "latitude": 39.377733,
+    "time_zone": "Asia/Chongqing"
+  }
+]
